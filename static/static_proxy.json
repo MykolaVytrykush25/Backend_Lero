@@ -1,0 +1,340 @@
+{
+  "lola": {
+    "protocols": {
+      "rotating": {
+        "http": {
+          "host": "45.43.62.180",
+          "port": [
+            "16666",
+            "16666"
+          ]
+        },
+        "socks5": {
+          "host": "45.43.62.180",
+          "port": [
+            "16666",
+            "16666"
+          ]
+        }
+      },
+      "sticky": {
+        "http": {
+          "host": "45.43.62.180",
+          "port": [
+            "16666",
+            "16666"
+          ]
+        },
+        "socks5": {
+          "host": "45.43.62.180",
+          "port": [
+            "16666",
+            "16666"
+          ]
+        }
+      }
+    },
+    "login": "tenqinxotfkpwtl63450",
+    "password": "hppffoegxs",
+    "location": {
+      "country": "zone-resi-region",
+      "state": "st",
+      "city": "city"
+    },
+    "session": "session",
+    "sess_time": "sessTime",
+    "ttl": {
+      "30 sec": 30,
+      "60 sec": 60,
+      "5 min": 300,
+      "15 min": 900,
+      "30 min": 1800,
+      "1 hour": 3600,
+      "6 hour": 21600,
+      "12 hour": 43200,
+      "24 hour": 86400
+    },
+    "delimiter": "-",
+    "supporting_change_creds": false
+  },
+  "bob": {
+    "protocols": {
+      "rotating": {
+        "http": {
+          "host": "51.159.152.12",
+          "port": [
+            "9000",
+            "9010"
+          ]
+        },
+        "socks5": {
+          "host": "51.159.152.12",
+          "port": [
+            "11000",
+            "11010"
+          ]
+        }
+      },
+      "sticky": {
+        "http": {
+          "host": "51.159.152.12",
+          "port": [
+            "10000",
+            "10899"
+          ]
+        },
+        "socks5": {
+          "host": "51.159.152.12",
+          "port": [
+            "12000",
+            "12009"
+          ]
+        }
+      }
+    },
+    "login": "wFVVqijoyFg0nCmlGuva",
+    "password": "a3b7a0d3-cd07-4282-a15e-aaaaaf5ed219",
+    "location": {
+      "country": "region",
+      "state": "state",
+      "city": "city"
+    },
+    "session": "session",
+    "sess_time": "lifetime",
+    "ttl": {
+      "60 sec": 1,
+      "5 min": 5,
+      "15 min": 15,
+      "30 min": 30,
+      "1 hour": 60,
+      "6 hour": 360,
+      "12 hour": 720,
+      "24 hour": 1440
+    },
+    "delimiter": "-",
+    "supporting_change_creds": false
+  },
+  "proxy-seller": {
+    "protocols": {
+      "rotating": {
+        "http": {
+          "host": "res.proxy-seller.com",
+          "port": [
+            "10000",
+            "10999"
+          ]
+        },
+        "socks5": {
+          "host": "res.proxy-seller.com",
+          "port": [
+            "10000",
+            "10999"
+          ]
+        }
+      },
+      "sticky": {
+        "http": {
+          "host": "res.proxy-seller.com",
+          "port": [
+            "10000",
+            "10999"
+          ]
+        },
+        "socks5": {
+          "host": "res.proxy-seller.com",
+          "port": [
+            "10000",
+            "10999"
+          ]
+        }
+      }
+    },
+    "login": "wFVVqijoyFg0nCmlGuva",
+    "password": "a3b7a0d3-cd07-4282-a15e-aaaaaf5ed219",
+    "location": {
+      "country": "c",
+      "state": "sd",
+      "city": "city"
+    },
+    "session": "s",
+    "sess_time": "ttl",
+    "ttl": {
+      "30 sec": "30s",
+      "60 sec": "1m",
+      "5 min": "5m",
+      "15 min": "15m",
+      "30 min": "30m",
+      "1 hour": "1h",
+      "6 hour": "6h",
+      "12 hour": "12h",
+      "24 hour": "24h"
+    },
+    "delimiter": "_",
+    "supporting_change_creds": true
+  },
+    "drop-1": {
+      "protocols": {
+        "rotating": {
+          "http": {
+            "host": "43.159.20.125",
+            "port": [
+              "12233",
+              "12233"
+            ]
+          },
+          "socks5": {
+            "host": "43.159.20.125",
+            "port": [
+              "12233",
+              "12233"
+            ]
+          }
+        },
+        "sticky": {
+          "http": {
+            "host": "43.159.20.125",
+            "port": [
+              "12233",
+              "12233"
+            ]
+          },
+          "socks5": {
+            "host": "43.159.20.125",
+            "port": [
+              "12233",
+              "12233"
+            ]
+          }
+        }
+      },
+      "login": "wFVVqijoyFg0nCmlGuva",
+      "password": "a3b7a0d3-cd07-4282-a15e-aaaaaf5ed219",
+      "location": {
+        "country": "region"
+      },
+      "session": "sessid",
+      "sess_time": "sesstime",
+      "ttl": {
+        "60 sec": 1,
+        "5 min": 5,
+        "15 min": 15,
+        "30 min": 30,
+        "60 min": 60,
+        "90 min": 90
+      },
+      "delimiter": "-",
+      "supporting_change_creds": false
+  },
+
+    "drop-2": {
+      "protocols": {
+        "rotating": {
+          "http": {
+            "host": "206.188.196.46",
+            "port": [
+              "1452",
+              "1452"
+            ]
+          },
+          "socks5": {
+            "host": "206.188.196.46",
+            "port": [
+              "1452",
+              "1452"
+            ]
+          }
+        },
+        "sticky": {
+          "http": {
+            "host": "206.188.196.46",
+            "port": [
+              "1452",
+              "1452"
+            ]
+          },
+          "socks5": {
+            "host": "206.188.196.46",
+            "port": [
+              "1452",
+              "1452"
+            ]
+          }
+        }
+      },
+      "login": "wFVVqijoyFg0nCmlGuva",
+      "password": "a3b7a0d3-cd07-4282-a15e-aaaaaf5ed219",
+      "location": {
+        "country": "region"
+      },
+      "session": "sessid",
+      "sess_time": "sesstime",
+      "ttl": {
+        "60 sec": 1,
+        "5 min": 5,
+        "15 min": 15,
+        "30 min": 30,
+        "60 min": 60,
+        "90 min": 90
+      },
+      "delimiter": "-",
+      "supporting_change_creds": false
+    },
+  "seva": {
+    "protocols": {
+      "rotating": {
+        "http": {
+          "host": "156.229.21.94",
+          "port": [
+            "10000",
+            "10000"
+          ]
+        },
+        "socks5": {
+          "host": "156.229.21.94",
+          "port": [
+            "10000",
+            "10000"
+          ]
+        }
+      },
+      "sticky": {
+        "http": {
+          "host": "156.229.21.94",
+          "port": [
+            "10000",
+            "10000"
+          ]
+        },
+        "socks5": {
+          "host": "156.229.21.94",
+          "port": [
+            "10000",
+            "10000"
+          ]
+        }
+      }
+    },
+    "login": "tenqinxotfkpwtl63450",
+    "password": "hppffoegxs",
+    "location": {
+      "country": "zone-custom-region",
+      "state": "st",
+      "city": "city"
+    },
+    "session": "session",
+    "sess_time": "sessTime",
+    "ttl": {
+      "30 sec": 30,
+      "60 sec": 60,
+      "5 min": 300,
+      "15 min": 900,
+      "30 min": 1800,
+      "1 hour": 3600,
+      "6 hour": 21600,
+      "12 hour": 43200,
+      "24 hour": 86400
+    },
+    "delimiter": "-",
+    "supporting_change_creds": false
+  }
+}

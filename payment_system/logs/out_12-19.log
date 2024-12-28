@@ -1,0 +1,147 @@
+[32m23:02:07.26[0m [34mINFO[0m [1m{'txs': [{'tx_hash': '774f31c88390f1c44b6f5a3a503449f2a411404aed4a28438e53d4ebf12473c9', 'token_address': '0:148ad1a3822aee21c09a0b0a73a1e01dbbf8fb02f6c1c5e064f481249b52ace5', 'amount': '3.991', 'to_address': 'EQBTwLqpxFGdS_oDegQhHMaF2yWGLdtxP2oVQbgw_HLzHCMm', 'from_address': 'UQBvU8pjfThN23s-OOEZXXre2PeNBsvJbnlZ3RaczBZRNXFl', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1734649223000, 'network': 'TON'}, {'tx_hash': '72feb24c390dca9383a104533a51954fb1b03ffea521e511a10b4a312a84dd5c', 'token_address': '0:148ad1a3822aee21c09a0b0a73a1e01dbbf8fb02f6c1c5e064f481249b52ace5', 'amount': '20', 'to_address': 'UQDl6AZrOp2olNXitSwkghubhRGmYQeK_BtfRfXoOHinuLEv', 'from_address': 'UQAfWAbHPQO7yW637r8WBn8fLo4nDPoW1XABqp6vdFbwCFsx', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1734638784000, 'network': 'TON'}, {'tx_hash': '0xc6700696ec8975d4aef7b5ea76f8200a6d32379a9e6034b40ec093a6010cb546', 'token_address': '0x55d398326f99059ff775485246999027b3197955', 'amount': '19.951', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0x7354abb551e41bbd9fb32e2e79f44631349119b8', 'ticker': 'USDT', 'decimal': 8, 'timestamp': 1734630393000, 'network': 'BSC'}, {'tx_hash': '136858b6c1bf4ec70987fb1bf84f22285a95fbfe0040c56910deac3201838396', 'token_address': '0:148ad1a3822aee21c09a0b0a73a1e01dbbf8fb02f6c1c5e064f481249b52ace5', 'amount': '37.001', 'to_address': 'EQDQvC4y7uSTXwtWbbrywd7stDdEkn5aGDGjPzwJd5OTXgUv', 'from_address': 'UQC9N5BK-44oeyiwhC0q4apnRrTswnXDhTETbhhgLALvXR_r', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1734628922000, 'network': 'TON'}, {'tx_hash': '0x2c77106194c9ca59f7ca2c0dfe5d3bf047ac080e606bf82ce4d9560537cd2f4f', 'token_address': '0x55d398326f99059ff775485246999027b3197955', 'amount': '3.991', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0xafd053b46374536de2cef29b4abf5a185ed460a3', 'ticker': 'USDT', 'decimal': 8, 'timestamp': 1734545734000, 'network': 'BSC'}], 'network': 'BSC', 'last_block': 1734649223000}[0m
+[32m23:02:07.28[0m [34mERROR[0m [31m[1mTON | Multiple exceptions: [Errno 111] Connect call failed ('::1', 5432, 0, 0), [Errno 111] Connect call failed ('127.0.0.1', 5432) | Traceback (most recent call last):
+  File "/app/payment_system/web3_scan.py", line 35, in logging_db
+    await transfer_logger.start()
+  File "/app/payment_system/utils/db/db_logger.py", line 86, in start
+    await self.create_table()
+  File "/app/payment_system/utils/db/db_logger.py", line 24, in create_table
+    conn = await asyncpg.connect(self.db_name)
+  File "/usr/local/lib/python3.10/site-packages/asyncpg/connection.py", line 2421, in connect
+    return await connect_utils._connect(
+  File "/usr/local/lib/python3.10/site-packages/asyncpg/connect_utils.py", line 1075, in _connect
+    raise last_error or exceptions.TargetServerAttributeNotMatched(
+  File "/usr/local/lib/python3.10/site-packages/asyncpg/connect_utils.py", line 1049, in _connect
+    conn = await _connect_addr(
+  File "/usr/local/lib/python3.10/site-packages/asyncpg/connect_utils.py", line 886, in _connect_addr
+    return await __connect_addr(params, True, *args)
+  File "/usr/local/lib/python3.10/site-packages/asyncpg/connect_utils.py", line 931, in __connect_addr
+    tr, pr = await connector
+  File "/usr/local/lib/python3.10/site-packages/asyncpg/connect_utils.py", line 802, in _create_ssl_connection
+    tr, pr = await loop.create_connection(
+  File "/usr/local/lib/python3.10/asyncio/base_events.py", line 1084, in create_connection
+    raise OSError('Multiple exceptions: {}'.format(
+OSError: Multiple exceptions: [Errno 111] Connect call failed ('::1', 5432, 0, 0), [Errno 111] Connect call failed ('127.0.0.1', 5432)
+[0m
+[32m23:02:17.79[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:02:28.24[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:02:38.66[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:02:49.56[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:03:00.13[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:03:10.91[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:03:21.45[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:03:31.81[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:03:42.26[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:03:52.73[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:04:03.43[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:04:13.79[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:04:24.28[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:04:35.57[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:04:46.05[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:04:56.55[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:05:07.13[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:05:17.66[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:05:28.31[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:05:38.84[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:05:49.33[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:05:59.65[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:06:10.10[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:06:20.56[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:06:31.00[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:06:41.48[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:06:51.87[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:07:02.28[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:07:13.22[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:07:23.63[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:07:34.13[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:07:44.63[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:07:55.10[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:08:05.55[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:16:23.87[0m [34mINFO[0m [1m{'txs': [{'tx_hash': '774f31c88390f1c44b6f5a3a503449f2a411404aed4a28438e53d4ebf12473c9', 'token_address': '0:148ad1a3822aee21c09a0b0a73a1e01dbbf8fb02f6c1c5e064f481249b52ace5', 'amount': '3.991', 'to_address': 'EQBTwLqpxFGdS_oDegQhHMaF2yWGLdtxP2oVQbgw_HLzHCMm', 'from_address': 'UQBvU8pjfThN23s-OOEZXXre2PeNBsvJbnlZ3RaczBZRNXFl', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1734649223000, 'network': 'TON'}, {'tx_hash': '72feb24c390dca9383a104533a51954fb1b03ffea521e511a10b4a312a84dd5c', 'token_address': '0:148ad1a3822aee21c09a0b0a73a1e01dbbf8fb02f6c1c5e064f481249b52ace5', 'amount': '20', 'to_address': 'UQDl6AZrOp2olNXitSwkghubhRGmYQeK_BtfRfXoOHinuLEv', 'from_address': 'UQAfWAbHPQO7yW637r8WBn8fLo4nDPoW1XABqp6vdFbwCFsx', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1734638784000, 'network': 'TON'}, {'tx_hash': '0xc6700696ec8975d4aef7b5ea76f8200a6d32379a9e6034b40ec093a6010cb546', 'token_address': '0x55d398326f99059ff775485246999027b3197955', 'amount': '19.951', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0x7354abb551e41bbd9fb32e2e79f44631349119b8', 'ticker': 'USDT', 'decimal': 8, 'timestamp': 1734630393000, 'network': 'BSC'}, {'tx_hash': '136858b6c1bf4ec70987fb1bf84f22285a95fbfe0040c56910deac3201838396', 'token_address': '0:148ad1a3822aee21c09a0b0a73a1e01dbbf8fb02f6c1c5e064f481249b52ace5', 'amount': '37.001', 'to_address': 'EQDQvC4y7uSTXwtWbbrywd7stDdEkn5aGDGjPzwJd5OTXgUv', 'from_address': 'UQC9N5BK-44oeyiwhC0q4apnRrTswnXDhTETbhhgLALvXR_r', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1734628922000, 'network': 'TON'}, {'tx_hash': '0x2c77106194c9ca59f7ca2c0dfe5d3bf047ac080e606bf82ce4d9560537cd2f4f', 'token_address': '0x55d398326f99059ff775485246999027b3197955', 'amount': '3.991', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0xafd053b46374536de2cef29b4abf5a185ed460a3', 'ticker': 'USDT', 'decimal': 8, 'timestamp': 1734545734000, 'network': 'BSC'}], 'network': 'BSC', 'last_block': 1734649223000}[0m
+[32m23:16:23.91[0m [34mERROR[0m [31m[1mTON | Multiple exceptions: [Errno 111] Connect call failed ('::1', 5432, 0, 0), [Errno 111] Connect call failed ('127.0.0.1', 5432) | Traceback (most recent call last):
+  File "/app/payment_system/web3_scan.py", line 35, in logging_db
+    await transfer_logger.start()
+  File "/app/payment_system/utils/db/db_logger.py", line 86, in start
+    await self.create_table()
+  File "/app/payment_system/utils/db/db_logger.py", line 24, in create_table
+    conn = await asyncpg.connect(self.db_name)
+  File "/usr/local/lib/python3.10/site-packages/asyncpg/connection.py", line 2421, in connect
+    return await connect_utils._connect(
+  File "/usr/local/lib/python3.10/site-packages/asyncpg/connect_utils.py", line 1075, in _connect
+    raise last_error or exceptions.TargetServerAttributeNotMatched(
+  File "/usr/local/lib/python3.10/site-packages/asyncpg/connect_utils.py", line 1049, in _connect
+    conn = await _connect_addr(
+  File "/usr/local/lib/python3.10/site-packages/asyncpg/connect_utils.py", line 886, in _connect_addr
+    return await __connect_addr(params, True, *args)
+  File "/usr/local/lib/python3.10/site-packages/asyncpg/connect_utils.py", line 931, in __connect_addr
+    tr, pr = await connector
+  File "/usr/local/lib/python3.10/site-packages/asyncpg/connect_utils.py", line 802, in _create_ssl_connection
+    tr, pr = await loop.create_connection(
+  File "/usr/local/lib/python3.10/asyncio/base_events.py", line 1084, in create_connection
+    raise OSError('Multiple exceptions: {}'.format(
+OSError: Multiple exceptions: [Errno 111] Connect call failed ('::1', 5432, 0, 0), [Errno 111] Connect call failed ('127.0.0.1', 5432)
+[0m
+[32m23:16:34.36[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:16:44.75[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:16:55.21[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:17:05.60[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:17:15.97[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:17:26.51[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:17:36.87[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:17:47.36[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:17:57.71[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:18:08.12[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:18:18.52[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:18:28.96[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:18:39.89[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:18:50.51[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:19:01.64[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:19:12.17[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:19:22.54[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:19:32.90[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:19:43.35[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:19:53.90[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:20:04.22[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:20:14.96[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:20:25.46[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:20:36.00[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:20:46.46[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:20:56.86[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:21:07.25[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:21:17.97[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:21:28.55[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:21:39.11[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:21:49.60[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:21:59.95[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:22:10.44[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:22:20.91[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:28:28.71[0m [34mINFO[0m [1m{'txs': [{'tx_hash': '774f31c88390f1c44b6f5a3a503449f2a411404aed4a28438e53d4ebf12473c9', 'token_address': '0:148ad1a3822aee21c09a0b0a73a1e01dbbf8fb02f6c1c5e064f481249b52ace5', 'amount': '3.991', 'to_address': 'EQBTwLqpxFGdS_oDegQhHMaF2yWGLdtxP2oVQbgw_HLzHCMm', 'from_address': 'UQBvU8pjfThN23s-OOEZXXre2PeNBsvJbnlZ3RaczBZRNXFl', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1734649223000, 'network': 'TON'}, {'tx_hash': '72feb24c390dca9383a104533a51954fb1b03ffea521e511a10b4a312a84dd5c', 'token_address': '0:148ad1a3822aee21c09a0b0a73a1e01dbbf8fb02f6c1c5e064f481249b52ace5', 'amount': '20', 'to_address': 'UQDl6AZrOp2olNXitSwkghubhRGmYQeK_BtfRfXoOHinuLEv', 'from_address': 'UQAfWAbHPQO7yW637r8WBn8fLo4nDPoW1XABqp6vdFbwCFsx', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1734638784000, 'network': 'TON'}, {'tx_hash': '0xc6700696ec8975d4aef7b5ea76f8200a6d32379a9e6034b40ec093a6010cb546', 'token_address': '0x55d398326f99059ff775485246999027b3197955', 'amount': '19.951', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0x7354abb551e41bbd9fb32e2e79f44631349119b8', 'ticker': 'USDT', 'decimal': 8, 'timestamp': 1734630393000, 'network': 'BSC'}, {'tx_hash': '136858b6c1bf4ec70987fb1bf84f22285a95fbfe0040c56910deac3201838396', 'token_address': '0:148ad1a3822aee21c09a0b0a73a1e01dbbf8fb02f6c1c5e064f481249b52ace5', 'amount': '37.001', 'to_address': 'EQDQvC4y7uSTXwtWbbrywd7stDdEkn5aGDGjPzwJd5OTXgUv', 'from_address': 'UQC9N5BK-44oeyiwhC0q4apnRrTswnXDhTETbhhgLALvXR_r', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1734628922000, 'network': 'TON'}, {'tx_hash': '0x2c77106194c9ca59f7ca2c0dfe5d3bf047ac080e606bf82ce4d9560537cd2f4f', 'token_address': '0x55d398326f99059ff775485246999027b3197955', 'amount': '3.991', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0xafd053b46374536de2cef29b4abf5a185ed460a3', 'ticker': 'USDT', 'decimal': 8, 'timestamp': 1734545734000, 'network': 'BSC'}], 'network': 'BSC', 'last_block': 1734649223000}[0m
+[32m23:28:28.73[0m [34mERROR[0m [31m[1mTON | Multiple exceptions: [Errno 111] Connect call failed ('::1', 5432, 0, 0), [Errno 111] Connect call failed ('127.0.0.1', 5432) | Traceback (most recent call last):
+  File "/app/payment_system/web3_scan.py", line 35, in logging_db
+    await transfer_logger.start()
+  File "/app/payment_system/utils/db/db_logger.py", line 86, in start
+    await self.create_table()
+  File "/app/payment_system/utils/db/db_logger.py", line 24, in create_table
+    conn = await asyncpg.connect(self.db_name)
+  File "/usr/local/lib/python3.10/site-packages/asyncpg/connection.py", line 2421, in connect
+    return await connect_utils._connect(
+  File "/usr/local/lib/python3.10/site-packages/asyncpg/connect_utils.py", line 1075, in _connect
+    raise last_error or exceptions.TargetServerAttributeNotMatched(
+  File "/usr/local/lib/python3.10/site-packages/asyncpg/connect_utils.py", line 1049, in _connect
+    conn = await _connect_addr(
+  File "/usr/local/lib/python3.10/site-packages/asyncpg/connect_utils.py", line 886, in _connect_addr
+    return await __connect_addr(params, True, *args)
+  File "/usr/local/lib/python3.10/site-packages/asyncpg/connect_utils.py", line 931, in __connect_addr
+    tr, pr = await connector
+  File "/usr/local/lib/python3.10/site-packages/asyncpg/connect_utils.py", line 802, in _create_ssl_connection
+    tr, pr = await loop.create_connection(
+  File "/usr/local/lib/python3.10/asyncio/base_events.py", line 1084, in create_connection
+    raise OSError('Multiple exceptions: {}'.format(
+OSError: Multiple exceptions: [Errno 111] Connect call failed ('::1', 5432, 0, 0), [Errno 111] Connect call failed ('127.0.0.1', 5432)
+[0m
+[32m23:28:39.32[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:28:49.78[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:29:00.50[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:29:11.56[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:29:22.03[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:29:32.41[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m
+[32m23:29:42.82[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1734649223001}[0m

@@ -1,0 +1,10174 @@
+{
+  "AD": [
+    {
+      "name": "Andorra la Vella",
+      "code": 118
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "AE": [
+    {
+      "name": "Dubai",
+      "code": 799
+    },
+    {
+      "name": "Sharjah",
+      "code": 2668
+    },
+    {
+      "name": "Abu Dhabi",
+      "code": 10
+    },
+    {
+      "name": "Imarat Ra's al Khaymah",
+      "code": 1157
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Ajman",
+      "code": 44
+    },
+    {
+      "name": "Fujairah",
+      "code": 905
+    }
+  ],
+  "AF": [
+    {
+      "name": "Kabul",
+      "code": 1253
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Herat",
+      "code": 1084
+    },
+    {
+      "name": "Ghazni",
+      "code": 9188119
+    },
+    {
+      "name": "Balkh",
+      "code": 231
+    },
+    {
+      "name": "Nangarhar",
+      "code": 1872
+    },
+    {
+      "name": "Nimroz",
+      "code": 9097199
+    },
+    {
+      "name": "Kandahar",
+      "code": 1281
+    }
+  ],
+  "AG": [
+    {
+      "name": "Saint John Parish",
+      "code": 9097281
+    },
+    {
+      "name": "Saint George Parish",
+      "code": 9097279
+    },
+    {
+      "name": "Saint Paul Parish",
+      "code": 9097286
+    },
+    {
+      "name": "Saint Philip Parish",
+      "code": 9097288
+    }
+  ],
+  "AI": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "AL": [
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Tirana",
+      "code": 2998
+    },
+    {
+      "name": "Fier County",
+      "code": 891
+    },
+    {
+      "name": "Durrës County",
+      "code": 806
+    },
+    {
+      "name": "Elbasan County",
+      "code": 844
+    },
+    {
+      "name": "Shkodër County",
+      "code": 2679
+    },
+    {
+      "name": "Dibër County",
+      "code": 750
+    },
+    {
+      "name": "Korçë County",
+      "code": 1400
+    }
+  ],
+  "AM": [
+    {
+      "name": "Yerevan",
+      "code": 3276
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Lori",
+      "code": 1556
+    },
+    {
+      "name": "Aragatsotn",
+      "code": 146
+    },
+    {
+      "name": "Kotayk",
+      "code": 1405
+    },
+    {
+      "name": "Shirak",
+      "code": 2676
+    },
+    {
+      "name": "Ararat",
+      "code": 149
+    },
+    {
+      "name": "Armavir",
+      "code": 159
+    },
+    {
+      "name": "Syunik",
+      "code": 2842
+    },
+    {
+      "name": "Tavush",
+      "code": 2910
+    },
+    {
+      "name": "Gegharkunik",
+      "code": 937
+    }
+  ],
+  "AO": [
+    {
+      "name": "Luanda Province",
+      "code": 1574
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Benguela",
+      "code": 300
+    },
+    {
+      "name": "Cuanza Norte Province",
+      "code": 636
+    }
+  ],
+  "AR": [
+    {
+      "name": "Santa Cruz",
+      "code": 2609
+    },
+    {
+      "name": "Buenos Aires",
+      "code": 404
+    },
+    {
+      "name": "Buenos Aires F.D.",
+      "code": 405
+    },
+    {
+      "name": "San Luis",
+      "code": 2593
+    },
+    {
+      "name": "Santa Fe",
+      "code": 2611
+    },
+    {
+      "name": "Misiones",
+      "code": 1750
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Formosa",
+      "code": 899
+    },
+    {
+      "name": "Jujuy",
+      "code": 1239
+    },
+    {
+      "name": "Entre Rios",
+      "code": 854
+    },
+    {
+      "name": "Cordoba",
+      "code": 610
+    },
+    {
+      "name": "San Juan",
+      "code": 2591
+    },
+    {
+      "name": "Mendoza",
+      "code": 1718
+    },
+    {
+      "name": "Rio Negro",
+      "code": 2471
+    },
+    {
+      "name": "Salta",
+      "code": 2573
+    },
+    {
+      "name": "Chaco",
+      "code": 527
+    },
+    {
+      "name": "Corrientes",
+      "code": 612
+    },
+    {
+      "name": "Tucuman",
+      "code": 3057
+    },
+    {
+      "name": "Chubut",
+      "code": 570
+    },
+    {
+      "name": "Tierra del Fuego",
+      "code": 2942
+    },
+    {
+      "name": "Santiago del Estero",
+      "code": 2615
+    },
+    {
+      "name": "Catamarca",
+      "code": 484
+    },
+    {
+      "name": "La Rioja",
+      "code": 1472
+    },
+    {
+      "name": "Neuquen",
+      "code": 1894
+    },
+    {
+      "name": "La Pampa",
+      "code": 1470
+    }
+  ],
+  "AS": [
+    {
+      "name": "Eastern District",
+      "code": 825
+    }
+  ],
+  "AT": [
+    {
+      "name": "Vienna",
+      "code": 3157
+    },
+    {
+      "name": "Upper Austria",
+      "code": 3093
+    },
+    {
+      "name": "Styria",
+      "code": 2813
+    },
+    {
+      "name": "Salzburg",
+      "code": 2575
+    },
+    {
+      "name": "Lower Austria",
+      "code": 1564
+    },
+    {
+      "name": "Tyrol",
+      "code": 3072
+    },
+    {
+      "name": "Burgenland",
+      "code": 415
+    },
+    {
+      "name": "Carinthia",
+      "code": 466
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Vorarlberg",
+      "code": 3186
+    }
+  ],
+  "AU": [
+    {
+      "name": "Western Australia",
+      "code": 3237
+    },
+    {
+      "name": "Victoria",
+      "code": 3154
+    },
+    {
+      "name": "South Australia",
+      "code": 2743
+    },
+    {
+      "name": "New South Wales",
+      "code": 1903
+    },
+    {
+      "name": "Queensland",
+      "code": 2396
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Tasmania",
+      "code": 2906
+    },
+    {
+      "name": "Australian Capital Territory",
+      "code": 191
+    },
+    {
+      "name": "Northern Territory",
+      "code": 1990
+    }
+  ],
+  "AW": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "AX": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "AZ": [
+    {
+      "name": "Baku City",
+      "code": 223
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Nakhchivan Autonomous Republic",
+      "code": 9097182
+    },
+    {
+      "name": "Sumqayit City",
+      "code": 2827
+    },
+    {
+      "name": "Ganja City",
+      "code": 926
+    }
+  ],
+  "BA": [
+    {
+      "name": "Federation of Bosnia and Herzegovina",
+      "code": 9097032
+    },
+    {
+      "name": "Republika Srpska",
+      "code": 2453
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Brčko District",
+      "code": 9096956
+    }
+  ],
+  "BB": [
+    {
+      "name": "Saint Michael",
+      "code": 2546
+    },
+    {
+      "name": "Saint Joseph",
+      "code": 2537
+    },
+    {
+      "name": "Saint Thomas",
+      "code": 2554
+    },
+    {
+      "name": "Saint Lucy",
+      "code": 2541
+    },
+    {
+      "name": "Saint John",
+      "code": 2535
+    },
+    {
+      "name": "Saint Andrew",
+      "code": 2521
+    },
+    {
+      "name": "Saint Philip",
+      "code": 2553
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "BD": [
+    {
+      "name": "Chittagong",
+      "code": 559
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Dhaka Division",
+      "code": 746
+    },
+    {
+      "name": "Khulna Division",
+      "code": 1355
+    },
+    {
+      "name": "Rajshahi Division",
+      "code": 2422
+    },
+    {
+      "name": "Mymensingh Division",
+      "code": 1840
+    },
+    {
+      "name": "Sylhet Division",
+      "code": 2841
+    },
+    {
+      "name": "Rangpur Division",
+      "code": 2424
+    },
+    {
+      "name": "Barisal Division",
+      "code": 256
+    }
+  ],
+  "BE": [
+    {
+      "name": "Brussels Capital",
+      "code": 394
+    },
+    {
+      "name": "Flanders",
+      "code": 893
+    },
+    {
+      "name": "Wallonia",
+      "code": 3207
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "BF": [
+    {
+      "name": "Centre",
+      "code": 512
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Hauts-Bassins",
+      "code": 1069
+    }
+  ],
+  "BG": [
+    {
+      "name": "Sofia",
+      "code": 2725
+    },
+    {
+      "name": "Sofia-Capital",
+      "code": 2726
+    },
+    {
+      "name": "Plovdiv",
+      "code": 2259
+    },
+    {
+      "name": "Silistra",
+      "code": 2700
+    },
+    {
+      "name": "Burgas",
+      "code": 414
+    },
+    {
+      "name": "Stara Zagora",
+      "code": 2789
+    },
+    {
+      "name": "Ruse",
+      "code": 2498
+    },
+    {
+      "name": "Pleven",
+      "code": 2257
+    },
+    {
+      "name": "Varna",
+      "code": 3132
+    },
+    {
+      "name": "Vratsa",
+      "code": 3191
+    },
+    {
+      "name": "Shumen",
+      "code": 2681
+    },
+    {
+      "name": "Gabrovo",
+      "code": 913
+    },
+    {
+      "name": "Veliko Tarnovo",
+      "code": 3142
+    },
+    {
+      "name": "Sliven",
+      "code": 2715
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Blagoevgrad",
+      "code": 335
+    },
+    {
+      "name": "Yambol",
+      "code": 3267
+    },
+    {
+      "name": "Pazardzhik",
+      "code": 2206
+    },
+    {
+      "name": "Dobrich",
+      "code": 781
+    },
+    {
+      "name": "Montana",
+      "code": 1783
+    },
+    {
+      "name": "Targovishte",
+      "code": 2895
+    },
+    {
+      "name": "Kardzhali",
+      "code": 1298
+    },
+    {
+      "name": "Vidin",
+      "code": 3156
+    },
+    {
+      "name": "Haskovo",
+      "code": 1061
+    },
+    {
+      "name": "Pernik",
+      "code": 2224
+    },
+    {
+      "name": "Kyustendil",
+      "code": 1454
+    },
+    {
+      "name": "Razgrad",
+      "code": 2433
+    },
+    {
+      "name": "Lovech",
+      "code": 1562
+    },
+    {
+      "name": "Smolyan",
+      "code": 2722
+    }
+  ],
+  "BH": [
+    {
+      "name": "Northern",
+      "code": 1978
+    },
+    {
+      "name": "Manama",
+      "code": 1635
+    },
+    {
+      "name": "Southern Governorate",
+      "code": 2773
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Muharraq",
+      "code": 1819
+    }
+  ],
+  "BI": [
+    {
+      "name": "Makamba Province",
+      "code": 1619
+    },
+    {
+      "name": "Bujumbura Mairie Province",
+      "code": 406
+    }
+  ],
+  "BJ": [
+    {
+      "name": "Littoral",
+      "code": 1538
+    },
+    {
+      "name": "Plateau Department",
+      "code": 9097239
+    },
+    {
+      "name": "Donga",
+      "code": 792
+    },
+    {
+      "name": "Zou Department",
+      "code": 3323
+    }
+  ],
+  "BL": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "BM": [
+    {
+      "name": "Hamilton city",
+      "code": 1051
+    },
+    {
+      "name": "Southampton Parish",
+      "code": 2766
+    },
+    {
+      "name": "Saint George",
+      "code": 2528
+    },
+    {
+      "name": "Warwick Parish",
+      "code": 11938119
+    },
+    {
+      "name": "Pembroke Parish",
+      "code": 2213
+    },
+    {
+      "name": "Sandys Parish",
+      "code": 2598
+    },
+    {
+      "name": "Devonshire Parish",
+      "code": 744
+    },
+    {
+      "name": "Paget",
+      "code": 2173
+    },
+    {
+      "name": "Saint George's Parish",
+      "code": 2531
+    }
+  ],
+  "BN": [
+    {
+      "name": "Brunei-Muara District",
+      "code": 393
+    },
+    {
+      "name": "Belait",
+      "code": 290
+    }
+  ],
+  "BO": [
+    {
+      "name": "Departamento de Cochabamba",
+      "code": 690
+    },
+    {
+      "name": "La Paz Department",
+      "code": 1471
+    },
+    {
+      "name": "Santa Cruz Department",
+      "code": 2610
+    },
+    {
+      "name": "Beni Department",
+      "code": 302
+    },
+    {
+      "name": "Tarija Department",
+      "code": 2896
+    },
+    {
+      "name": "Chuquisaca Department",
+      "code": 576
+    },
+    {
+      "name": "Oruro",
+      "code": 2149
+    },
+    {
+      "name": "Potosí Department",
+      "code": 2285
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "BQ": [
+    {
+      "name": "Bonaire",
+      "code": 355
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Sint Eustatius",
+      "code": 2708
+    },
+    {
+      "name": "Saba",
+      "code": 2509
+    }
+  ],
+  "BR": [
+    {
+      "name": "Maranhão",
+      "code": 9097155
+    },
+    {
+      "name": "São Paulo",
+      "code": 9097338
+    },
+    {
+      "name": "Goiás",
+      "code": 9097047
+    },
+    {
+      "name": "Paraná",
+      "code": 9097226
+    },
+    {
+      "name": "Santa Catarina",
+      "code": 2607
+    },
+    {
+      "name": "Minas Gerais",
+      "code": 1740
+    },
+    {
+      "name": "Espírito Santo",
+      "code": 9097028
+    },
+    {
+      "name": "Bahia",
+      "code": 215
+    },
+    {
+      "name": "Rio de Janeiro",
+      "code": 2472
+    },
+    {
+      "name": "Roraima",
+      "code": 2488
+    },
+    {
+      "name": "Mato Grosso do Sul",
+      "code": 1692
+    },
+    {
+      "name": "Piauí",
+      "code": 9097237
+    },
+    {
+      "name": "Rio Grande do Sul",
+      "code": 2470
+    },
+    {
+      "name": "Pernambuco",
+      "code": 2223
+    },
+    {
+      "name": "Federal District",
+      "code": 886
+    },
+    {
+      "name": "Ceará",
+      "code": 9096979
+    },
+    {
+      "name": "Alagoas",
+      "code": 80
+    },
+    {
+      "name": "Tocantins",
+      "code": 3007
+    },
+    {
+      "name": "Pará",
+      "code": 9097228
+    },
+    {
+      "name": "Rondônia",
+      "code": 9097268
+    },
+    {
+      "name": "Amazonas",
+      "code": 102
+    },
+    {
+      "name": "Rio Grande do Norte",
+      "code": 2469
+    },
+    {
+      "name": "Sergipe",
+      "code": 2650
+    },
+    {
+      "name": "Mato Grosso",
+      "code": 1691
+    },
+    {
+      "name": "Acre",
+      "code": 14
+    },
+    {
+      "name": "Paraíba",
+      "code": 2185
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Amapá",
+      "code": 9096905
+    }
+  ],
+  "BS": [
+    {
+      "name": "New Providence District",
+      "code": 1902
+    },
+    {
+      "name": "Grand Cay",
+      "code": 9097049
+    },
+    {
+      "name": "Freeport",
+      "code": 9097034
+    },
+    {
+      "name": "North Abaco",
+      "code": 9097207
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Central Abaco",
+      "code": 9096980
+    },
+    {
+      "name": "Crooked Island and Long Cay District",
+      "code": 12646908
+    },
+    {
+      "name": "South Eleuthera",
+      "code": 9097331
+    },
+    {
+      "name": "San Salvador District",
+      "code": 2596
+    },
+    {
+      "name": "West Grand Bahama",
+      "code": 9097403
+    },
+    {
+      "name": "Harbour Island",
+      "code": 1056
+    },
+    {
+      "name": "Berry Islands",
+      "code": 9096936
+    },
+    {
+      "name": "Long Island",
+      "code": 12714290
+    },
+    {
+      "name": "Central Eleuthera",
+      "code": 9096983
+    },
+    {
+      "name": "Bimini",
+      "code": 12804309
+    },
+    {
+      "name": "Mangrove Cay",
+      "code": 12637322
+    },
+    {
+      "name": "Black Point",
+      "code": 9096943
+    },
+    {
+      "name": "Spanish Wells",
+      "code": 9097333
+    }
+  ],
+  "BT": [
+    {
+      "name": "Thimphu District",
+      "code": 2934
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Samdrup Jongkhar",
+      "code": 2580
+    },
+    {
+      "name": "Tsirang District",
+      "code": 10017002
+    }
+  ],
+  "BW": [
+    {
+      "name": "Gaborone",
+      "code": 912
+    }
+  ],
+  "BY": [
+    {
+      "name": "Minsk City",
+      "code": 1744
+    },
+    {
+      "name": "Brest",
+      "code": 387
+    },
+    {
+      "name": "Grodnenskaya",
+      "code": 1001
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Homyel’ Voblasc’",
+      "code": 1103
+    },
+    {
+      "name": "Vitebsk",
+      "code": 3176
+    },
+    {
+      "name": "Mogilev",
+      "code": 1758
+    },
+    {
+      "name": "Minsk",
+      "code": 1743
+    }
+  ],
+  "BZ": [
+    {
+      "name": "Belize District",
+      "code": 293
+    },
+    {
+      "name": "Orange Walk District",
+      "code": 2139
+    },
+    {
+      "name": "Cayo District",
+      "code": 485
+    },
+    {
+      "name": "Corozal District",
+      "code": 611
+    },
+    {
+      "name": "Toledo District",
+      "code": 3013
+    },
+    {
+      "name": "Stann Creek District",
+      "code": 2788
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "CA": [
+    {
+      "name": "Newfoundland and Labrador",
+      "code": 1907
+    },
+    {
+      "name": "Saskatchewan",
+      "code": 2623
+    },
+    {
+      "name": "Ontario",
+      "code": 2127
+    },
+    {
+      "name": "Nova Scotia",
+      "code": 1998
+    },
+    {
+      "name": "Alberta",
+      "code": 84
+    },
+    {
+      "name": "Prince Edward Island",
+      "code": 2301
+    },
+    {
+      "name": "British Columbia",
+      "code": 390
+    },
+    {
+      "name": "Quebec",
+      "code": 2395
+    },
+    {
+      "name": "Manitoba",
+      "code": 1648
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "New Brunswick",
+      "code": 1897
+    },
+    {
+      "name": "Yukon",
+      "code": 3286
+    },
+    {
+      "name": "Northwest Territories",
+      "code": 1993
+    },
+    {
+      "name": "Nunavut",
+      "code": 2010
+    }
+  ],
+  "CD": [
+    {
+      "name": "Kinshasa City",
+      "code": 1370
+    },
+    {
+      "name": "Nord Kivu",
+      "code": 1936
+    },
+    {
+      "name": "Tshopo",
+      "code": 3052
+    },
+    {
+      "name": "Sud-Ubangi",
+      "code": 2820
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Nord-Ubangi",
+      "code": 1937
+    },
+    {
+      "name": "Haut-Katanga",
+      "code": 1063
+    }
+  ],
+  "CF": [
+    {
+      "name": "Bangui",
+      "code": 243
+    }
+  ],
+  "CG": [
+    {
+      "name": "Pointe-Noire",
+      "code": 2268
+    },
+    {
+      "name": "Brazzaville",
+      "code": 384
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Sangha",
+      "code": 2599
+    }
+  ],
+  "CH": [
+    {
+      "name": "Lucerne",
+      "code": 1580
+    },
+    {
+      "name": "Aargau",
+      "code": 3
+    },
+    {
+      "name": "Bern",
+      "code": 309
+    },
+    {
+      "name": "Fribourg",
+      "code": 902
+    },
+    {
+      "name": "Zurich",
+      "code": 3327
+    },
+    {
+      "name": "Basel-Landschaft",
+      "code": 262
+    },
+    {
+      "name": "Vaud",
+      "code": 3136
+    },
+    {
+      "name": "Geneva",
+      "code": 940
+    },
+    {
+      "name": "Saint Gallen",
+      "code": 2527
+    },
+    {
+      "name": "Nidwalden",
+      "code": 1917
+    },
+    {
+      "name": "Ticino",
+      "code": 2941
+    },
+    {
+      "name": "Appenzell Ausserrhoden",
+      "code": 138
+    },
+    {
+      "name": "Neuchâtel",
+      "code": 1893
+    },
+    {
+      "name": "Valais",
+      "code": 3119
+    },
+    {
+      "name": "Basel-City",
+      "code": 261
+    },
+    {
+      "name": "Grisons",
+      "code": 1000
+    },
+    {
+      "name": "Zug",
+      "code": 3325
+    },
+    {
+      "name": "Thurgau",
+      "code": 2935
+    },
+    {
+      "name": "Solothurn",
+      "code": 2730
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Schwyz",
+      "code": 2639
+    },
+    {
+      "name": "Schaffhausen",
+      "code": 2636
+    },
+    {
+      "name": "Jura",
+      "code": 1241
+    },
+    {
+      "name": "Glarus",
+      "code": 960
+    },
+    {
+      "name": "Obwalden",
+      "code": 2098
+    }
+  ],
+  "CI": [
+    {
+      "name": "Abidjan",
+      "code": 6
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Lacs District",
+      "code": 9097130
+    },
+    {
+      "name": "Vallée du Bandama District",
+      "code": 9097383
+    },
+    {
+      "name": "Denguélé District",
+      "code": 9097010
+    }
+  ],
+  "CK": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "CL": [
+    {
+      "name": "Santiago Metropolitan",
+      "code": 2614
+    },
+    {
+      "name": "Región de la Araucanía",
+      "code": 9450549
+    },
+    {
+      "name": "Región de Valparaíso",
+      "code": 9458136
+    },
+    {
+      "name": "Región del Biobío",
+      "code": 9440170
+    },
+    {
+      "name": "Region of Magallanes",
+      "code": 2447
+    },
+    {
+      "name": "O'Higgins Region",
+      "code": 2015
+    },
+    {
+      "name": "Arica y Parinacota Region",
+      "code": 9096916
+    },
+    {
+      "name": "Los Lagos Region",
+      "code": 1557
+    },
+    {
+      "name": "Atacama",
+      "code": 178
+    },
+    {
+      "name": "Aysén",
+      "code": 200
+    },
+    {
+      "name": "Tarapacá",
+      "code": 2894
+    },
+    {
+      "name": "Los Ríos Region",
+      "code": 1558
+    },
+    {
+      "name": "Antofagasta",
+      "code": 134
+    },
+    {
+      "name": "Coquimbo Region",
+      "code": 608
+    },
+    {
+      "name": "Maule Region",
+      "code": 1694
+    },
+    {
+      "name": "Ñuble",
+      "code": 3332
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "CM": [
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Littoral",
+      "code": 1538
+    },
+    {
+      "name": "Centre",
+      "code": 512
+    },
+    {
+      "name": "South-West Region",
+      "code": 2765
+    }
+  ],
+  "CN": [
+    {
+      "name": "Yunnan",
+      "code": 3288
+    },
+    {
+      "name": "Shanghai",
+      "code": 2666
+    },
+    {
+      "name": "Guangdong",
+      "code": 1009
+    },
+    {
+      "name": "Guizhou",
+      "code": 1017
+    },
+    {
+      "name": "Henan",
+      "code": 1082
+    },
+    {
+      "name": "Jiangsu",
+      "code": 1230
+    },
+    {
+      "name": "Fujian",
+      "code": 906
+    },
+    {
+      "name": "Hunan",
+      "code": 1117
+    },
+    {
+      "name": "Sichuan",
+      "code": 2687
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Anhui",
+      "code": 122
+    },
+    {
+      "name": "Shandong",
+      "code": 2665
+    },
+    {
+      "name": "Zhejiang",
+      "code": 3313
+    },
+    {
+      "name": "Hubei",
+      "code": 1116
+    },
+    {
+      "name": "Beijing",
+      "code": 286
+    },
+    {
+      "name": "Jiangxi",
+      "code": 1231
+    },
+    {
+      "name": "Hebei",
+      "code": 1077
+    },
+    {
+      "name": "Guangxi",
+      "code": 1010
+    },
+    {
+      "name": "Chongqing",
+      "code": 566
+    },
+    {
+      "name": "Xinjiang",
+      "code": 9097405
+    },
+    {
+      "name": "Shaanxi",
+      "code": 2659
+    },
+    {
+      "name": "Liaoning",
+      "code": 1517
+    },
+    {
+      "name": "Shanxi",
+      "code": 2667
+    },
+    {
+      "name": "Jilin",
+      "code": 1234
+    },
+    {
+      "name": "Gansu",
+      "code": 927
+    },
+    {
+      "name": "Qinghai",
+      "code": 2390
+    },
+    {
+      "name": "Heilongjiang",
+      "code": 1079
+    },
+    {
+      "name": "Ningxia",
+      "code": 9097200
+    },
+    {
+      "name": "Tianjin",
+      "code": 2937
+    },
+    {
+      "name": "Hainan",
+      "code": 1040
+    },
+    {
+      "name": "Inner Mongolia",
+      "code": 9097085
+    },
+    {
+      "name": "Tibet",
+      "code": 2940
+    }
+  ],
+  "CO": [
+    {
+      "name": "Santander Department",
+      "code": 9097307
+    },
+    {
+      "name": "Bogota D.C.",
+      "code": 345
+    },
+    {
+      "name": "Atlántico",
+      "code": 182
+    },
+    {
+      "name": "Antioquia",
+      "code": 133
+    },
+    {
+      "name": "Departamento de Bolívar",
+      "code": 9479551
+    },
+    {
+      "name": "Valle del Cauca Department",
+      "code": 9097382
+    },
+    {
+      "name": "Huila Department",
+      "code": 9097070
+    },
+    {
+      "name": "Departamento de Córdoba",
+      "code": 9677470
+    },
+    {
+      "name": "Norte de Santander Department",
+      "code": 1941
+    },
+    {
+      "name": "Tolima Department",
+      "code": 9097360
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Departamento de Boyacá",
+      "code": 9519896
+    },
+    {
+      "name": "Cundinamarca",
+      "code": 637
+    },
+    {
+      "name": "Departamento del Chocó",
+      "code": 9937198
+    },
+    {
+      "name": "Magdalena Department",
+      "code": 9097149
+    },
+    {
+      "name": "Risaralda Department",
+      "code": 9097266
+    },
+    {
+      "name": "Arauca Department",
+      "code": 9096915
+    },
+    {
+      "name": "Cesar Department",
+      "code": 9096984
+    },
+    {
+      "name": "Caldas Department",
+      "code": 442
+    },
+    {
+      "name": "Cauca Department",
+      "code": 9096977
+    },
+    {
+      "name": "Nariño",
+      "code": 9491379
+    },
+    {
+      "name": "Quindío Department",
+      "code": 9097254
+    },
+    {
+      "name": "Casanare Department",
+      "code": 470
+    },
+    {
+      "name": "Meta Department",
+      "code": 9097165
+    },
+    {
+      "name": "Putumayo Department",
+      "code": 9097249
+    },
+    {
+      "name": "Departamento del Caquetá",
+      "code": 9637682
+    },
+    {
+      "name": "La Guajira Department",
+      "code": 1467
+    },
+    {
+      "name": "Sucre Department",
+      "code": 9097335
+    }
+  ],
+  "CR": [
+    {
+      "name": "Provincia de San José",
+      "code": 9449784
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Guanacaste Province",
+      "code": 1007
+    },
+    {
+      "name": "Heredia Province",
+      "code": 1086
+    },
+    {
+      "name": "Alajuela Province",
+      "code": 81
+    },
+    {
+      "name": "Limón Province",
+      "code": 1530
+    },
+    {
+      "name": "Puntarenas Province",
+      "code": 2375
+    },
+    {
+      "name": "Cartago Province",
+      "code": 468
+    }
+  ],
+  "CU": [
+    {
+      "name": "Havana",
+      "code": 1071
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Granma Province",
+      "code": 996
+    },
+    {
+      "name": "Santiago de Cuba Province",
+      "code": 9097309
+    },
+    {
+      "name": "Holguín Province",
+      "code": 1100
+    },
+    {
+      "name": "Artemisa",
+      "code": 161
+    },
+    {
+      "name": "Sancti Spíritus Province",
+      "code": 9097301
+    }
+  ],
+  "CV": [
+    {
+      "name": "Praia",
+      "code": 2290
+    },
+    {
+      "name": "Boa Vista",
+      "code": 339
+    },
+    {
+      "name": "São Miguel",
+      "code": 2846
+    },
+    {
+      "name": "Ribeira Grande de Santiago",
+      "code": 2464
+    },
+    {
+      "name": "Ribeira Brava",
+      "code": 2462
+    },
+    {
+      "name": "Porto Novo",
+      "code": 2281
+    },
+    {
+      "name": "São Vicente",
+      "code": 2848
+    },
+    {
+      "name": "São Domingos",
+      "code": 2844
+    },
+    {
+      "name": "Santa Catarina",
+      "code": 2607
+    },
+    {
+      "name": "Tarrafal",
+      "code": 2897
+    },
+    {
+      "name": "Paul",
+      "code": 2202
+    },
+    {
+      "name": "São Lourenço dos Órgãos",
+      "code": 2845
+    }
+  ],
+  "CW": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "CY": [
+    {
+      "name": "Nicosia",
+      "code": 1916
+    },
+    {
+      "name": "Limassol District",
+      "code": 1526
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Larnaka",
+      "code": 1495
+    },
+    {
+      "name": "Keryneia",
+      "code": 1336
+    },
+    {
+      "name": "Pafos",
+      "code": 2172
+    },
+    {
+      "name": "Ammochostos",
+      "code": 105
+    }
+  ],
+  "CZ": [
+    {
+      "name": "South Moravian",
+      "code": 2757
+    },
+    {
+      "name": "Prague",
+      "code": 2288
+    },
+    {
+      "name": "Jihočeský kraj",
+      "code": 9443071
+    },
+    {
+      "name": "Plzeň Region",
+      "code": 2260
+    },
+    {
+      "name": "Ústecký kraj",
+      "code": 9490424
+    },
+    {
+      "name": "Kraj Vysočina",
+      "code": 9451752
+    },
+    {
+      "name": "Moravskoslezský kraj",
+      "code": 9477558
+    },
+    {
+      "name": "Pardubický kraj",
+      "code": 9539790
+    },
+    {
+      "name": "Karlovarský kraj",
+      "code": 9483272
+    },
+    {
+      "name": "Olomoucký kraj",
+      "code": 9507988
+    },
+    {
+      "name": "Zlín",
+      "code": 3321
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Liberecký kraj",
+      "code": 9455016
+    },
+    {
+      "name": "Central Bohemia",
+      "code": 492
+    },
+    {
+      "name": "Královéhradecký kraj",
+      "code": 9457315
+    }
+  ],
+  "DE": [
+    {
+      "name": "Rheinland-Pfalz",
+      "code": 2458
+    },
+    {
+      "name": "Lower Saxony",
+      "code": 1567
+    },
+    {
+      "name": "Hesse",
+      "code": 1087
+    },
+    {
+      "name": "Bavaria",
+      "code": 276
+    },
+    {
+      "name": "North Rhine-Westphalia",
+      "code": 1967
+    },
+    {
+      "name": "Land Berlin",
+      "code": 1491
+    },
+    {
+      "name": "Free and Hanseatic City of Hamburg",
+      "code": 901
+    },
+    {
+      "name": "Saxony",
+      "code": 2633
+    },
+    {
+      "name": "Baden-Wurttemberg",
+      "code": 210
+    },
+    {
+      "name": "Brandenburg",
+      "code": 379
+    },
+    {
+      "name": "Bremen",
+      "code": 386
+    },
+    {
+      "name": "Saxony-Anhalt",
+      "code": 2634
+    },
+    {
+      "name": "Schleswig-Holstein",
+      "code": 2638
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Mecklenburg-Vorpommern",
+      "code": 1708
+    },
+    {
+      "name": "Thuringia",
+      "code": 2936
+    },
+    {
+      "name": "Saarland",
+      "code": 2507
+    }
+  ],
+  "DJ": [
+    {
+      "name": "Djibouti",
+      "code": 776
+    }
+  ],
+  "DK": [
+    {
+      "name": "South Denmark",
+      "code": 2747
+    },
+    {
+      "name": "Capital Region",
+      "code": 460
+    },
+    {
+      "name": "Zealand",
+      "code": 3309
+    },
+    {
+      "name": "Central Jutland",
+      "code": 499
+    },
+    {
+      "name": "North Denmark",
+      "code": 1953
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "DM": [
+    {
+      "name": "Saint George Parish",
+      "code": 9097279
+    },
+    {
+      "name": "Saint David Parish",
+      "code": 9097278
+    },
+    {
+      "name": "Saint Peter Parish",
+      "code": 9097287
+    },
+    {
+      "name": "Saint John Parish",
+      "code": 9097281
+    },
+    {
+      "name": "Saint Paul Parish",
+      "code": 9097286
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Saint Patrick Parish",
+      "code": 9097285
+    },
+    {
+      "name": "Saint Joseph Parish",
+      "code": 9097282
+    },
+    {
+      "name": "Saint Luke Parish",
+      "code": 9097283
+    }
+  ],
+  "DO": [
+    {
+      "name": "Santiago Province",
+      "code": 9097308
+    },
+    {
+      "name": "Provincia de La Vega",
+      "code": 2335
+    },
+    {
+      "name": "Nacional",
+      "code": 1849
+    },
+    {
+      "name": "Santo Domingo Province",
+      "code": 9097310
+    },
+    {
+      "name": "Puerto Plata",
+      "code": 2371
+    },
+    {
+      "name": "Duarte Province",
+      "code": 9097016
+    },
+    {
+      "name": "Azua Province",
+      "code": 9096921
+    },
+    {
+      "name": "La Romana",
+      "code": 9097128
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Provincia de El Seibo",
+      "code": 2324
+    },
+    {
+      "name": "Provincia de Monseñor Nouel",
+      "code": 9533585
+    },
+    {
+      "name": "San Pedro de Macorís",
+      "code": 9097298
+    },
+    {
+      "name": "Provincia de San Cristóbal",
+      "code": 10875831
+    },
+    {
+      "name": "Valverde Province",
+      "code": 9097384
+    },
+    {
+      "name": "Baoruco Province",
+      "code": 9096930
+    },
+    {
+      "name": "Provincia María Trinidad Sánchez",
+      "code": 9480217
+    },
+    {
+      "name": "La Altagracia Province",
+      "code": 9097124
+    },
+    {
+      "name": "Monte Plata Province",
+      "code": 9097174
+    }
+  ],
+  "DZ": [
+    {
+      "name": "Batna",
+      "code": 271
+    },
+    {
+      "name": "Tiaret",
+      "code": 2938
+    },
+    {
+      "name": "Algiers",
+      "code": 88
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Tizi Ouzou",
+      "code": 3002
+    },
+    {
+      "name": "M'Sila",
+      "code": 1595
+    },
+    {
+      "name": "Oran",
+      "code": 2137
+    },
+    {
+      "name": "Sétif",
+      "code": 2850
+    },
+    {
+      "name": "Saida",
+      "code": 2520
+    },
+    {
+      "name": "Tlemcen",
+      "code": 3005
+    },
+    {
+      "name": "Tissemsilt",
+      "code": 3000
+    },
+    {
+      "name": "Constantine",
+      "code": 605
+    },
+    {
+      "name": "Ouargla",
+      "code": 2164
+    },
+    {
+      "name": "Mila",
+      "code": 1737
+    },
+    {
+      "name": "Annaba",
+      "code": 126
+    },
+    {
+      "name": "Laghouat",
+      "code": 1481
+    },
+    {
+      "name": "Skikda",
+      "code": 2713
+    },
+    {
+      "name": "Béjaïa",
+      "code": 429
+    },
+    {
+      "name": "Bordj Bou Arréridj",
+      "code": 361
+    },
+    {
+      "name": "Chlef",
+      "code": 561
+    },
+    {
+      "name": "Djelfa",
+      "code": 774
+    },
+    {
+      "name": "Béchar",
+      "code": 427
+    },
+    {
+      "name": "Blida",
+      "code": 337
+    },
+    {
+      "name": "Ghardaia",
+      "code": 946
+    },
+    {
+      "name": "El Bayadh",
+      "code": 836
+    },
+    {
+      "name": "Relizane",
+      "code": 2448
+    },
+    {
+      "name": "Sidi Bel Abbès",
+      "code": 2689
+    },
+    {
+      "name": "Tamanrasset",
+      "code": 2878
+    },
+    {
+      "name": "El Oued",
+      "code": 839
+    },
+    {
+      "name": "Mostaganem",
+      "code": 1798
+    },
+    {
+      "name": "Jijel",
+      "code": 1233
+    },
+    {
+      "name": "Medea",
+      "code": 1709
+    },
+    {
+      "name": "Aïn Defla",
+      "code": 204
+    },
+    {
+      "name": "Tipaza",
+      "code": 2997
+    },
+    {
+      "name": "Boumerdes",
+      "code": 373
+    }
+  ],
+  "EC": [
+    {
+      "name": "Azuay",
+      "code": 9096922
+    },
+    {
+      "name": "Guayas",
+      "code": 9097052
+    },
+    {
+      "name": "Chimborazo Province",
+      "code": 9096988
+    },
+    {
+      "name": "Cotopaxi",
+      "code": 9097000
+    },
+    {
+      "name": "Pichincha",
+      "code": 9097238
+    },
+    {
+      "name": "Manabí",
+      "code": 9097152
+    },
+    {
+      "name": "Santo Domingo de los Tsáchilas",
+      "code": 9097311
+    },
+    {
+      "name": "Loja",
+      "code": 9097139
+    },
+    {
+      "name": "Tungurahua Province",
+      "code": 9097371
+    },
+    {
+      "name": "Imbabura",
+      "code": 9097083
+    },
+    {
+      "name": "El Oro",
+      "code": 9097023
+    },
+    {
+      "name": "Esmeraldas",
+      "code": 9097026
+    },
+    {
+      "name": "Cañar",
+      "code": 9096978
+    },
+    {
+      "name": "Los Ríos",
+      "code": 9097141
+    },
+    {
+      "name": "Sucumbíos",
+      "code": 9097336
+    },
+    {
+      "name": "Orellana Province",
+      "code": 9097217
+    },
+    {
+      "name": "Morona-Santiago Province",
+      "code": 9097177
+    },
+    {
+      "name": "Santa Elena",
+      "code": 9097306
+    },
+    {
+      "name": "Napo",
+      "code": 9097185
+    },
+    {
+      "name": "Pastaza Province",
+      "code": 9097229
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "EE": [
+    {
+      "name": "Tartu",
+      "code": 2899
+    },
+    {
+      "name": "Harjumaa",
+      "code": 1059
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Ida-Virumaa",
+      "code": 1129
+    },
+    {
+      "name": "Võrumaa",
+      "code": 3200
+    },
+    {
+      "name": "Järvamaa",
+      "code": 1246
+    },
+    {
+      "name": "Pärnumaa",
+      "code": 2380
+    },
+    {
+      "name": "Saare",
+      "code": 2506
+    },
+    {
+      "name": "Viljandimaa",
+      "code": 3164
+    },
+    {
+      "name": "Põlvamaa",
+      "code": 2381
+    },
+    {
+      "name": "Jõgevamaa",
+      "code": 1247
+    },
+    {
+      "name": "Valgamaa",
+      "code": 3123
+    },
+    {
+      "name": "Lääne-Virumaa",
+      "code": 1592
+    },
+    {
+      "name": "Lääne",
+      "code": 1591
+    },
+    {
+      "name": "Raplamaa",
+      "code": 2427
+    }
+  ],
+  "EG": [
+    {
+      "name": "Cairo Governorate",
+      "code": 437
+    },
+    {
+      "name": "Alexandria",
+      "code": 87
+    },
+    {
+      "name": "Giza",
+      "code": 956
+    },
+    {
+      "name": "Qalyubia",
+      "code": 2384
+    },
+    {
+      "name": "Asyut",
+      "code": 177
+    },
+    {
+      "name": "Dakahlia",
+      "code": 650
+    },
+    {
+      "name": "Damietta Governorate",
+      "code": 656
+    },
+    {
+      "name": "Faiyum",
+      "code": 878
+    },
+    {
+      "name": "Ismailia Governorate",
+      "code": 1187
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Beni Suweif",
+      "code": 304
+    },
+    {
+      "name": "Beheira",
+      "code": 285
+    },
+    {
+      "name": "Red Sea",
+      "code": 2434
+    },
+    {
+      "name": "Port Said",
+      "code": 2276
+    },
+    {
+      "name": "Sharqia",
+      "code": 2669
+    },
+    {
+      "name": "Qena",
+      "code": 2387
+    },
+    {
+      "name": "Aswan",
+      "code": 176
+    },
+    {
+      "name": "Sohag",
+      "code": 2727
+    },
+    {
+      "name": "Gharbia",
+      "code": 945
+    },
+    {
+      "name": "Suez",
+      "code": 2823
+    },
+    {
+      "name": "Luxor",
+      "code": 1589
+    },
+    {
+      "name": "Monufia",
+      "code": 1786
+    },
+    {
+      "name": "Minya",
+      "code": 1745
+    },
+    {
+      "name": "North Sinai",
+      "code": 1969
+    },
+    {
+      "name": "South Sinai",
+      "code": 2761
+    },
+    {
+      "name": "Kafr el-Sheikh",
+      "code": 1256
+    },
+    {
+      "name": "Matruh",
+      "code": 1693
+    }
+  ],
+  "ES": [
+    {
+      "name": "Madrid",
+      "code": 1604
+    },
+    {
+      "name": "Basque Country",
+      "code": 265
+    },
+    {
+      "name": "Navarre",
+      "code": 1881
+    },
+    {
+      "name": "Valencia",
+      "code": 3122
+    },
+    {
+      "name": "Andalusia",
+      "code": 114
+    },
+    {
+      "name": "Murcia",
+      "code": 1826
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Castille and León",
+      "code": 480
+    },
+    {
+      "name": "Catalonia",
+      "code": 483
+    },
+    {
+      "name": "Galicia",
+      "code": 921
+    },
+    {
+      "name": "Aragon",
+      "code": 147
+    },
+    {
+      "name": "Balearic Islands",
+      "code": 228
+    },
+    {
+      "name": "Castille-La Mancha",
+      "code": 481
+    },
+    {
+      "name": "Canary Islands",
+      "code": 451
+    },
+    {
+      "name": "Principality of Asturias",
+      "code": 2303
+    },
+    {
+      "name": "Extremadura",
+      "code": 873
+    },
+    {
+      "name": "La Rioja",
+      "code": 1472
+    },
+    {
+      "name": "Cantabria",
+      "code": 456
+    },
+    {
+      "name": "Ceuta",
+      "code": 525
+    },
+    {
+      "name": "Melilla",
+      "code": 1717
+    }
+  ],
+  "ET": [
+    {
+      "name": "Addis Ababa",
+      "code": 20
+    },
+    {
+      "name": "Tigray",
+      "code": 2943
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Harari Region",
+      "code": 1055
+    },
+    {
+      "name": "Amhara",
+      "code": 103
+    },
+    {
+      "name": "Dire Dawa",
+      "code": 758
+    },
+    {
+      "name": "Oromiya",
+      "code": 2148
+    },
+    {
+      "name": "Sidama Region",
+      "code": 9986046
+    }
+  ],
+  "FI": [
+    {
+      "name": "Southwest Finland",
+      "code": 2783
+    },
+    {
+      "name": "Uusimaa",
+      "code": 3108
+    },
+    {
+      "name": "Central Finland",
+      "code": 496
+    },
+    {
+      "name": "Pirkanmaa",
+      "code": 2246
+    },
+    {
+      "name": "North Savo",
+      "code": 1968
+    },
+    {
+      "name": "North Ostrobothnia",
+      "code": 1964
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Southern Savonia",
+      "code": 2781
+    },
+    {
+      "name": "Satakunta",
+      "code": 2625
+    },
+    {
+      "name": "Ostrobothnia",
+      "code": 2157
+    },
+    {
+      "name": "Kanta-Häme",
+      "code": 1286
+    },
+    {
+      "name": "South Ostrobothnia",
+      "code": 2758
+    },
+    {
+      "name": "Paijat-Hame Region",
+      "code": 2175
+    },
+    {
+      "name": "North Karelia",
+      "code": 1958
+    },
+    {
+      "name": "South Karelia Region",
+      "code": 2751
+    },
+    {
+      "name": "Central Ostrobothnia",
+      "code": 503
+    },
+    {
+      "name": "Kainuu",
+      "code": 1261
+    },
+    {
+      "name": "Kymenlaakso",
+      "code": 1452
+    }
+  ],
+  "FJ": [
+    {
+      "name": "Central",
+      "code": 489
+    }
+  ],
+  "FK": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "FM": [
+    {
+      "name": "Pohnpei State",
+      "code": 9097240
+    },
+    {
+      "name": "Chuuk",
+      "code": 9096991
+    }
+  ],
+  "FO": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "FR": [
+    {
+      "name": "Hauts-de-France",
+      "code": 1070
+    },
+    {
+      "name": "Île-de-France",
+      "code": 3331
+    },
+    {
+      "name": "Auvergne-Rhône-Alpes",
+      "code": 9096919
+    },
+    {
+      "name": "Grand Est",
+      "code": 990
+    },
+    {
+      "name": "Occitanie",
+      "code": 2099
+    },
+    {
+      "name": "Centre-Val de Loire",
+      "code": 516
+    },
+    {
+      "name": "Brittany",
+      "code": 391
+    },
+    {
+      "name": "Nouvelle-Aquitaine",
+      "code": 1996
+    },
+    {
+      "name": "Pays de la Loire",
+      "code": 2204
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Provence-Alpes-Côte d'Azur",
+      "code": 2306
+    },
+    {
+      "name": "Normandy",
+      "code": 1939
+    },
+    {
+      "name": "Bourgogne-Franche-Comté",
+      "code": 9096950
+    },
+    {
+      "name": "Corsica",
+      "code": 613
+    }
+  ],
+  "GA": [
+    {
+      "name": "Estuaire",
+      "code": 871
+    }
+  ],
+  "GB": [
+    {
+      "name": "Scotland",
+      "code": 2640
+    },
+    {
+      "name": "England",
+      "code": 850
+    },
+    {
+      "name": "Wales",
+      "code": 3206
+    },
+    {
+      "name": "Northern Ireland",
+      "code": 1984
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "GD": [
+    {
+      "name": "Saint George Parish",
+      "code": 9097279
+    },
+    {
+      "name": "Saint Andrew Parish",
+      "code": 9097275
+    },
+    {
+      "name": "Saint David Parish",
+      "code": 9097278
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Saint John Parish",
+      "code": 9097281
+    }
+  ],
+  "GE": [
+    {
+      "name": "Tbilisi",
+      "code": 9097350
+    },
+    {
+      "name": "Adjara",
+      "code": 9096891
+    },
+    {
+      "name": "Mtskheta-Mtianeti",
+      "code": 1807
+    },
+    {
+      "name": "Imereti",
+      "code": 1159
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Kakheti",
+      "code": 1265
+    },
+    {
+      "name": "Kvemo Kartli",
+      "code": 1439
+    },
+    {
+      "name": "Samtskhe-Javakheti",
+      "code": 2584
+    },
+    {
+      "name": "Samegrelo and Zemo Svaneti",
+      "code": 2581
+    },
+    {
+      "name": "Guria",
+      "code": 1023
+    },
+    {
+      "name": "Shida Kartli",
+      "code": 2672
+    }
+  ],
+  "GF": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "GG": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "GH": [
+    {
+      "name": "Greater Accra Region",
+      "code": 997
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Ashanti Region",
+      "code": 168
+    },
+    {
+      "name": "Savannah",
+      "code": 2631
+    },
+    {
+      "name": "Central Region",
+      "code": 506
+    },
+    {
+      "name": "Ahafo",
+      "code": 35
+    },
+    {
+      "name": "Bono",
+      "code": 357
+    }
+  ],
+  "GI": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "GL": [
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Sermersooq",
+      "code": 2651
+    }
+  ],
+  "GM": [
+    {
+      "name": "Banjul",
+      "code": 244
+    },
+    {
+      "name": "Central River",
+      "code": 507
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "GN": [
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Nzérékoré Region",
+      "code": 11900771
+    },
+    {
+      "name": "Conakry Region",
+      "code": 601
+    }
+  ],
+  "GP": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "GQ": [
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Bioko Norte",
+      "code": 320
+    },
+    {
+      "name": "Bioko Sur",
+      "code": 321
+    }
+  ],
+  "GR": [
+    {
+      "name": "Central Macedonia",
+      "code": 502
+    },
+    {
+      "name": "Ionian Islands",
+      "code": 1174
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Crete",
+      "code": 630
+    },
+    {
+      "name": "Attica",
+      "code": 186
+    },
+    {
+      "name": "West Macedonia",
+      "code": 3224
+    },
+    {
+      "name": "West Greece",
+      "code": 3219
+    },
+    {
+      "name": "Central Greece",
+      "code": 497
+    },
+    {
+      "name": "Thessaly",
+      "code": 2933
+    },
+    {
+      "name": "Epirus",
+      "code": 856
+    },
+    {
+      "name": "East Macedonia and Thrace",
+      "code": 818
+    },
+    {
+      "name": "Peloponnese",
+      "code": 2209
+    },
+    {
+      "name": "South Aegean",
+      "code": 2742
+    },
+    {
+      "name": "North Aegean",
+      "code": 1944
+    }
+  ],
+  "GT": [
+    {
+      "name": "Guatemala",
+      "code": 1013
+    },
+    {
+      "name": "Izabal Department",
+      "code": 1202
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Departamento de Huehuetenango",
+      "code": 695
+    },
+    {
+      "name": "Quetzaltenango",
+      "code": 2398
+    },
+    {
+      "name": "Baja Verapaz",
+      "code": 221
+    },
+    {
+      "name": "Quiché",
+      "code": 2399
+    },
+    {
+      "name": "Chiquimula",
+      "code": 557
+    },
+    {
+      "name": "Departamento de Retalhuleu",
+      "code": 709
+    },
+    {
+      "name": "Jalapa",
+      "code": 1209
+    }
+  ],
+  "GU": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "GW": [
+    {
+      "name": "Bissau",
+      "code": 326
+    }
+  ],
+  "GY": [
+    {
+      "name": "Demerara-Mahaica",
+      "code": 9097009
+    },
+    {
+      "name": "Cuyuni-Mazaruni",
+      "code": 10660207
+    },
+    {
+      "name": "Upper Demerara-Berbice",
+      "code": 9097378
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "East Berbice-Corentyne Region",
+      "code": 812
+    },
+    {
+      "name": "Barima-Waini",
+      "code": 9096932
+    },
+    {
+      "name": "Potaro-Siparuni",
+      "code": 9097243
+    }
+  ],
+  "HK": [
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Sai Kung District",
+      "code": 2519
+    },
+    {
+      "name": "Sha Tin",
+      "code": 2656
+    },
+    {
+      "name": "Kwai Tsing",
+      "code": 1441
+    },
+    {
+      "name": "Kowloon City",
+      "code": 1410
+    },
+    {
+      "name": "Kwun Tong",
+      "code": 1449
+    },
+    {
+      "name": "Tuen Mun",
+      "code": 3058
+    },
+    {
+      "name": "Yau Tsim Mong",
+      "code": 3274
+    },
+    {
+      "name": "North",
+      "code": 1942
+    },
+    {
+      "name": "Central and Western District",
+      "code": 510
+    },
+    {
+      "name": "Yuen Long District",
+      "code": 3285
+    },
+    {
+      "name": "Tai Po District",
+      "code": 2865
+    },
+    {
+      "name": "Eastern",
+      "code": 822
+    },
+    {
+      "name": "Wan Chai",
+      "code": 3208
+    },
+    {
+      "name": "Tsuen Wan District",
+      "code": 3054
+    },
+    {
+      "name": "Sham Shui Po",
+      "code": 2662
+    },
+    {
+      "name": "Southern",
+      "code": 2769
+    },
+    {
+      "name": "Islands District",
+      "code": 1186
+    },
+    {
+      "name": "Wong Tai Sin",
+      "code": 3252
+    }
+  ],
+  "HN": [
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Yoro Department",
+      "code": 3282
+    },
+    {
+      "name": "Atlántida Department",
+      "code": 183
+    },
+    {
+      "name": "Francisco Morazán Department",
+      "code": 900
+    },
+    {
+      "name": "Cortés Department",
+      "code": 614
+    },
+    {
+      "name": "Colón Department",
+      "code": 597
+    },
+    {
+      "name": "Comayagua Department",
+      "code": 598
+    },
+    {
+      "name": "Choluteca Department",
+      "code": 564
+    },
+    {
+      "name": "Santa Bárbara Department",
+      "code": 2606
+    },
+    {
+      "name": "Copán Department",
+      "code": 607
+    }
+  ],
+  "HR": [
+    {
+      "name": "Zagreb County",
+      "code": 9097412
+    },
+    {
+      "name": "City of Zagreb",
+      "code": 586
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Karlovac County",
+      "code": 9097101
+    },
+    {
+      "name": "Primorje-Gorski Kotar County",
+      "code": 9097247
+    },
+    {
+      "name": "Dubrovnik-Neretva County",
+      "code": 9097017
+    },
+    {
+      "name": "Istria County",
+      "code": 9097087
+    },
+    {
+      "name": "Brod-Posavina County",
+      "code": 9096953
+    },
+    {
+      "name": "Split-Dalmatia County",
+      "code": 9097334
+    },
+    {
+      "name": "Varaždin County",
+      "code": 9097386
+    },
+    {
+      "name": "Koprivnica-Križevci County",
+      "code": 9097115
+    },
+    {
+      "name": "Vukovar-Srijem County",
+      "code": 9097394
+    },
+    {
+      "name": "County of Osijek-Baranja",
+      "code": 619
+    },
+    {
+      "name": "Virovitica-Podravina County",
+      "code": 9097393
+    },
+    {
+      "name": "Međimurje County",
+      "code": 9097166
+    },
+    {
+      "name": "Požega-Slavonia County",
+      "code": 9097244
+    },
+    {
+      "name": "Šibenik-Knin County",
+      "code": 9097429
+    },
+    {
+      "name": "Krapina-Zagorje County",
+      "code": 9097118
+    },
+    {
+      "name": "Zadar County",
+      "code": 9097410
+    },
+    {
+      "name": "Bjelovar-Bilogora County",
+      "code": 9096942
+    },
+    {
+      "name": "Sisak-Moslavina County",
+      "code": 9097323
+    }
+  ],
+  "HT": [
+    {
+      "name": "Ouest",
+      "code": 9097223
+    },
+    {
+      "name": "Nord-Est",
+      "code": 11703089
+    }
+  ],
+  "HU": [
+    {
+      "name": "Borsod-Abaúj-Zemplén",
+      "code": 368
+    },
+    {
+      "name": "Komárom-Esztergom",
+      "code": 1395
+    },
+    {
+      "name": "Budapest",
+      "code": 401
+    },
+    {
+      "name": "Baranya",
+      "code": 249
+    },
+    {
+      "name": "Pest County",
+      "code": 9097233
+    },
+    {
+      "name": "Bekes County",
+      "code": 288
+    },
+    {
+      "name": "Veszprém megye",
+      "code": 9535406
+    },
+    {
+      "name": "Fejér",
+      "code": 888
+    },
+    {
+      "name": "Tolna County",
+      "code": 9097361
+    },
+    {
+      "name": "Hajdú-Bihar",
+      "code": 1043
+    },
+    {
+      "name": "Győr-Moson-Sopron",
+      "code": 1031
+    },
+    {
+      "name": "Somogy County",
+      "code": 9097327
+    },
+    {
+      "name": "Szabolcs-Szatmár-Bereg",
+      "code": 2843
+    },
+    {
+      "name": "Bács-Kiskun",
+      "code": 426
+    },
+    {
+      "name": "Nógrád megye",
+      "code": 9616606
+    },
+    {
+      "name": "Csongrád megye",
+      "code": 9587114
+    },
+    {
+      "name": "Vas County",
+      "code": 9097387
+    },
+    {
+      "name": "Jász-Nagykun-Szolnok",
+      "code": 1244
+    },
+    {
+      "name": "Zala County",
+      "code": 9097414
+    },
+    {
+      "name": "Heves County",
+      "code": 9097063
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "ID": [
+    {
+      "name": "Lampung",
+      "code": 1489
+    },
+    {
+      "name": "West Java",
+      "code": 3220
+    },
+    {
+      "name": "Yogyakarta",
+      "code": 3281
+    },
+    {
+      "name": "Riau",
+      "code": 2460
+    },
+    {
+      "name": "Jakarta",
+      "code": 1207
+    },
+    {
+      "name": "West Sumatra",
+      "code": 3233
+    },
+    {
+      "name": "West Kalimantan",
+      "code": 3221
+    },
+    {
+      "name": "Central Java",
+      "code": 498
+    },
+    {
+      "name": "Bangka–Belitung Islands",
+      "code": 241
+    },
+    {
+      "name": "North Sulawesi",
+      "code": 1970
+    },
+    {
+      "name": "East Java",
+      "code": 815
+    },
+    {
+      "name": "South Kalimantan",
+      "code": 2750
+    },
+    {
+      "name": "Bali",
+      "code": 229
+    },
+    {
+      "name": "Papua",
+      "code": 2182
+    },
+    {
+      "name": "North Sumatra",
+      "code": 1971
+    },
+    {
+      "name": "South Sulawesi",
+      "code": 2762
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "South Sumatra",
+      "code": 2763
+    },
+    {
+      "name": "Riau Islands",
+      "code": 2461
+    },
+    {
+      "name": "Banten",
+      "code": 247
+    },
+    {
+      "name": "East Kalimantan",
+      "code": 816
+    },
+    {
+      "name": "Central Kalimantan",
+      "code": 500
+    },
+    {
+      "name": "Central Sulawesi",
+      "code": 508
+    },
+    {
+      "name": "Aceh",
+      "code": 12
+    },
+    {
+      "name": "Jambi",
+      "code": 1211
+    },
+    {
+      "name": "Bengkulu",
+      "code": 298
+    },
+    {
+      "name": "West Nusa Tenggara",
+      "code": 3226
+    },
+    {
+      "name": "East Nusa Tenggara",
+      "code": 820
+    },
+    {
+      "name": "Central Papua",
+      "code": 504
+    },
+    {
+      "name": "North Kalimantan",
+      "code": 1957
+    },
+    {
+      "name": "Maluku",
+      "code": 1631
+    },
+    {
+      "name": "North Maluku",
+      "code": 1962
+    },
+    {
+      "name": "Southwest Papua",
+      "code": 9097332
+    },
+    {
+      "name": "West Papua",
+      "code": 3227
+    },
+    {
+      "name": "Southeast Sulawesi",
+      "code": 2767
+    },
+    {
+      "name": "Gorontalo",
+      "code": 978
+    },
+    {
+      "name": "South Papua",
+      "code": 2759
+    },
+    {
+      "name": "West Sulawesi",
+      "code": 3232
+    }
+  ],
+  "IE": [
+    {
+      "name": "Connacht",
+      "code": 602
+    },
+    {
+      "name": "Munster",
+      "code": 1823
+    },
+    {
+      "name": "Leinster",
+      "code": 1503
+    },
+    {
+      "name": "Ulster",
+      "code": 3087
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "IL": [
+    {
+      "name": "Central District",
+      "code": 494
+    },
+    {
+      "name": "Tel Aviv",
+      "code": 2916
+    },
+    {
+      "name": "Northern District",
+      "code": 1983
+    },
+    {
+      "name": "Southern District",
+      "code": 2772
+    },
+    {
+      "name": "Jerusalem",
+      "code": 1225
+    },
+    {
+      "name": "Haifa",
+      "code": 1039
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "IM": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "IN": [
+    {
+      "name": "Kerala",
+      "code": 1332
+    },
+    {
+      "name": "Maharashtra",
+      "code": 1613
+    },
+    {
+      "name": "Punjab",
+      "code": 2373
+    },
+    {
+      "name": "Andhra Pradesh",
+      "code": 116
+    },
+    {
+      "name": "West Bengal",
+      "code": 3216
+    },
+    {
+      "name": "Odisha",
+      "code": 2102
+    },
+    {
+      "name": "Karnataka",
+      "code": 1303
+    },
+    {
+      "name": "Uttar Pradesh",
+      "code": 3105
+    },
+    {
+      "name": "Tamil Nadu",
+      "code": 2882
+    },
+    {
+      "name": "National Capital Territory of Delhi",
+      "code": 1880
+    },
+    {
+      "name": "Telangana",
+      "code": 2917
+    },
+    {
+      "name": "Haryana",
+      "code": 1060
+    },
+    {
+      "name": "Bihar",
+      "code": 315
+    },
+    {
+      "name": "Gujarat",
+      "code": 1018
+    },
+    {
+      "name": "Chandigarh",
+      "code": 534
+    },
+    {
+      "name": "Madhya Pradesh",
+      "code": 1601
+    },
+    {
+      "name": "Rajasthan",
+      "code": 2421
+    },
+    {
+      "name": "Uttarakhand",
+      "code": 3107
+    },
+    {
+      "name": "Assam",
+      "code": 171
+    },
+    {
+      "name": "Chhattisgarh",
+      "code": 544
+    },
+    {
+      "name": "Arunachal Pradesh",
+      "code": 164
+    },
+    {
+      "name": "Goa",
+      "code": 963
+    },
+    {
+      "name": "Jharkhand",
+      "code": 1229
+    },
+    {
+      "name": "Jammu and Kashmir",
+      "code": 1212
+    },
+    {
+      "name": "Mizoram",
+      "code": 1756
+    },
+    {
+      "name": "Meghalaya",
+      "code": 1714
+    },
+    {
+      "name": "Union Territory of Puducherry",
+      "code": 3092
+    },
+    {
+      "name": "Tripura",
+      "code": 3045
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Himachal Pradesh",
+      "code": 1093
+    },
+    {
+      "name": "Nagaland",
+      "code": 1850
+    },
+    {
+      "name": "Manipur",
+      "code": 1646
+    },
+    {
+      "name": "Dadra and Nagar Haveli and Daman and Diu",
+      "code": 644
+    },
+    {
+      "name": "Andaman and Nicobar",
+      "code": 115
+    }
+  ],
+  "IQ": [
+    {
+      "name": "Baghdad",
+      "code": 212
+    },
+    {
+      "name": "Sulaymaniyah",
+      "code": 2825
+    },
+    {
+      "name": "Muhafazat Wasit",
+      "code": 1815
+    },
+    {
+      "name": "Erbil",
+      "code": 857
+    },
+    {
+      "name": "Kirkuk",
+      "code": 1373
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Muhafazat Karbala'",
+      "code": 1814
+    },
+    {
+      "name": "Al Anbar",
+      "code": 49
+    },
+    {
+      "name": "Basra",
+      "code": 266
+    },
+    {
+      "name": "Nineveh",
+      "code": 1921
+    },
+    {
+      "name": "Duhok",
+      "code": 802
+    },
+    {
+      "name": "An Najaf",
+      "code": 109
+    },
+    {
+      "name": "Salah ad Din",
+      "code": 2566
+    },
+    {
+      "name": "Muhafazat Babil",
+      "code": 1812
+    },
+    {
+      "name": "Maysan",
+      "code": 1701
+    },
+    {
+      "name": "Al Muthanna Governorate",
+      "code": 9096900
+    },
+    {
+      "name": "Dhi Qar",
+      "code": 748
+    },
+    {
+      "name": "Diyālá",
+      "code": 772
+    }
+  ],
+  "IR": [
+    {
+      "name": "Māzandarān",
+      "code": 1845
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Tehran",
+      "code": 2914
+    },
+    {
+      "name": "Khuzestan",
+      "code": 1356
+    },
+    {
+      "name": "Razavi Khorasan",
+      "code": 2432
+    },
+    {
+      "name": "Kermanshah Province",
+      "code": 1335
+    },
+    {
+      "name": "Sistan and Baluchestan",
+      "code": 2711
+    },
+    {
+      "name": "Qom Province",
+      "code": 2391
+    },
+    {
+      "name": "Alborz Province",
+      "code": 85
+    },
+    {
+      "name": "Gilan Province",
+      "code": 950
+    },
+    {
+      "name": "Fars",
+      "code": 884
+    },
+    {
+      "name": "Isfahan",
+      "code": 1182
+    },
+    {
+      "name": "East Azerbaijan Province",
+      "code": 811
+    },
+    {
+      "name": "Yazd Province",
+      "code": 3275
+    },
+    {
+      "name": "West Azerbaijan Province",
+      "code": 3215
+    },
+    {
+      "name": "Chaharmahal and Bakhtiari Province",
+      "code": 530
+    },
+    {
+      "name": "Qazvin Province",
+      "code": 2386
+    },
+    {
+      "name": "Golestan",
+      "code": 966
+    },
+    {
+      "name": "Markazi",
+      "code": 1667
+    },
+    {
+      "name": "Kerman",
+      "code": 1334
+    },
+    {
+      "name": "Hamadan Province",
+      "code": 1049
+    },
+    {
+      "name": "Hormozgan",
+      "code": 1106
+    },
+    {
+      "name": "Semnan Province",
+      "code": 2646
+    },
+    {
+      "name": "Bushehr Province",
+      "code": 421
+    },
+    {
+      "name": "Ardabil Province",
+      "code": 150
+    },
+    {
+      "name": "Kurdistan Province",
+      "code": 1435
+    },
+    {
+      "name": "Zanjan",
+      "code": 3301
+    },
+    {
+      "name": "Lorestan Province",
+      "code": 1554
+    },
+    {
+      "name": "Kohgiluyeh and Boyer-Ahmad Province",
+      "code": 1389
+    }
+  ],
+  "IS": [
+    {
+      "name": "Capital Region",
+      "code": 460
+    },
+    {
+      "name": "Southern Peninsula",
+      "code": 2777
+    },
+    {
+      "name": "South",
+      "code": 2741
+    }
+  ],
+  "IT": [
+    {
+      "name": "Lombardy",
+      "code": 1551
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Tuscany",
+      "code": 3069
+    },
+    {
+      "name": "Piedmont",
+      "code": 2243
+    },
+    {
+      "name": "Lazio",
+      "code": 1499
+    },
+    {
+      "name": "Veneto",
+      "code": 3143
+    },
+    {
+      "name": "The Marches",
+      "code": 2932
+    },
+    {
+      "name": "Sicily",
+      "code": 2688
+    },
+    {
+      "name": "Campania",
+      "code": 445
+    },
+    {
+      "name": "Apulia",
+      "code": 140
+    },
+    {
+      "name": "Emilia-Romagna",
+      "code": 847
+    },
+    {
+      "name": "Calabria",
+      "code": 440
+    },
+    {
+      "name": "Friuli Venezia Giulia",
+      "code": 904
+    },
+    {
+      "name": "Trentino-Alto Adige",
+      "code": 3040
+    },
+    {
+      "name": "Abruzzo",
+      "code": 8
+    },
+    {
+      "name": "Sardinia",
+      "code": 2621
+    },
+    {
+      "name": "Umbria",
+      "code": 3090
+    },
+    {
+      "name": "Liguria",
+      "code": 1521
+    },
+    {
+      "name": "Aosta Valley",
+      "code": 137
+    },
+    {
+      "name": "Basilicate",
+      "code": 264
+    },
+    {
+      "name": "Molise",
+      "code": 1771
+    }
+  ],
+  "JE": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "JM": [
+    {
+      "name": "Saint Catherine Parish",
+      "code": 9097277
+    },
+    {
+      "name": "Saint James Parish",
+      "code": 9097280
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Kingston",
+      "code": 1368
+    },
+    {
+      "name": "Manchester",
+      "code": 1638
+    },
+    {
+      "name": "Clarendon",
+      "code": 587
+    },
+    {
+      "name": "Trelawny Parish",
+      "code": 9097362
+    },
+    {
+      "name": "Saint Elizabeth",
+      "code": 2526
+    },
+    {
+      "name": "Westmoreland",
+      "code": 3247
+    },
+    {
+      "name": "Saint Ann Parish",
+      "code": 9097276
+    },
+    {
+      "name": "Hanover",
+      "code": 1053
+    },
+    {
+      "name": "Portland Parish",
+      "code": 9097242
+    },
+    {
+      "name": "Saint Andrew Parish",
+      "code": 9097275
+    },
+    {
+      "name": "Saint Mary Parish",
+      "code": 9097284
+    },
+    {
+      "name": "Saint Thomas Parish",
+      "code": 9097289
+    }
+  ],
+  "JO": [
+    {
+      "name": "Amman Governorate",
+      "code": 104
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Irbid",
+      "code": 1176
+    },
+    {
+      "name": "Zarqa",
+      "code": 3308
+    },
+    {
+      "name": "Balqa",
+      "code": 233
+    }
+  ],
+  "JP": [
+    {
+      "name": "Kanagawa",
+      "code": 1279
+    },
+    {
+      "name": "Wakayama",
+      "code": 3205
+    },
+    {
+      "name": "Saitama",
+      "code": 2560
+    },
+    {
+      "name": "Tokyo",
+      "code": 3012
+    },
+    {
+      "name": "Kyoto",
+      "code": 1453
+    },
+    {
+      "name": "Gunma",
+      "code": 1022
+    },
+    {
+      "name": "Ibaraki",
+      "code": 1126
+    },
+    {
+      "name": "Hokkaido",
+      "code": 1099
+    },
+    {
+      "name": "Aichi",
+      "code": 37
+    },
+    {
+      "name": "Hiroshima",
+      "code": 1094
+    },
+    {
+      "name": "Chiba",
+      "code": 550
+    },
+    {
+      "name": "Hyōgo",
+      "code": 1120
+    },
+    {
+      "name": "Iwate",
+      "code": 1195
+    },
+    {
+      "name": "Fukuoka",
+      "code": 908
+    },
+    {
+      "name": "Nagano",
+      "code": 1851
+    },
+    {
+      "name": "Osaka",
+      "code": 9426266
+    },
+    {
+      "name": "Akita",
+      "code": 45
+    },
+    {
+      "name": "Okinawa",
+      "code": 2116
+    },
+    {
+      "name": "Shizuoka",
+      "code": 2678
+    },
+    {
+      "name": "Shimane",
+      "code": 2674
+    },
+    {
+      "name": "Nara",
+      "code": 1876
+    },
+    {
+      "name": "Miyagi",
+      "code": 1754
+    },
+    {
+      "name": "Yamanashi",
+      "code": 3266
+    },
+    {
+      "name": "Ishikawa",
+      "code": 1183
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Mie",
+      "code": 1735
+    },
+    {
+      "name": "Gifu",
+      "code": 949
+    },
+    {
+      "name": "Shiga",
+      "code": 2673
+    },
+    {
+      "name": "Aomori",
+      "code": 136
+    },
+    {
+      "name": "Okayama",
+      "code": 2115
+    },
+    {
+      "name": "Niigata",
+      "code": 1919
+    },
+    {
+      "name": "Tochigi",
+      "code": 3008
+    },
+    {
+      "name": "Yamaguchi",
+      "code": 3264
+    },
+    {
+      "name": "Kagoshima",
+      "code": 1259
+    },
+    {
+      "name": "Ehime",
+      "code": 834
+    },
+    {
+      "name": "Miyazaki",
+      "code": 1755
+    },
+    {
+      "name": "Tokushima",
+      "code": 3011
+    },
+    {
+      "name": "Kumamoto",
+      "code": 1430
+    },
+    {
+      "name": "Oita",
+      "code": 2114
+    },
+    {
+      "name": "Fukui",
+      "code": 907
+    },
+    {
+      "name": "Fukushima",
+      "code": 9097035
+    },
+    {
+      "name": "Yamagata",
+      "code": 3263
+    },
+    {
+      "name": "Toyama",
+      "code": 3024
+    },
+    {
+      "name": "Nagasaki",
+      "code": 1852
+    },
+    {
+      "name": "Saga",
+      "code": 2516
+    },
+    {
+      "name": "Tottori",
+      "code": 3021
+    },
+    {
+      "name": "Kagawa",
+      "code": 1257
+    },
+    {
+      "name": "Kochi",
+      "code": 1386
+    }
+  ],
+  "KE": [
+    {
+      "name": "Nairobi County",
+      "code": 9097181
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Mombasa County",
+      "code": 9097172
+    },
+    {
+      "name": "Nakuru County",
+      "code": 9097183
+    },
+    {
+      "name": "Elegeyo-Marakwet",
+      "code": 9964695
+    },
+    {
+      "name": "Meru County",
+      "code": 9097164
+    },
+    {
+      "name": "Kwale County",
+      "code": 9097123
+    },
+    {
+      "name": "Kisumu County",
+      "code": 9097112
+    },
+    {
+      "name": "Uasin Gishu County",
+      "code": 9097376
+    },
+    {
+      "name": "Baringo",
+      "code": 255
+    },
+    {
+      "name": "Nyeri County",
+      "code": 9097211
+    },
+    {
+      "name": "Murang'A",
+      "code": 1825
+    },
+    {
+      "name": "Tana River County",
+      "code": 9097347
+    }
+  ],
+  "KG": [
+    {
+      "name": "Osh Region",
+      "code": 9097219
+    },
+    {
+      "name": "Gorod Bishkek",
+      "code": 977
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Batken",
+      "code": 269
+    },
+    {
+      "name": "Osh City",
+      "code": 10378709
+    },
+    {
+      "name": "Talas Region",
+      "code": 9097346
+    },
+    {
+      "name": "Chuy Region",
+      "code": 9096993
+    },
+    {
+      "name": "Jalal-Abad Region",
+      "code": 9097089
+    },
+    {
+      "name": "Issyk-Kul",
+      "code": 1189
+    }
+  ],
+  "KH": [
+    {
+      "name": "Phnom Penh",
+      "code": 2237
+    },
+    {
+      "name": "Tboung Khmum",
+      "code": 2912
+    },
+    {
+      "name": "Siem Reap",
+      "code": 2691
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Pursat",
+      "code": 2376
+    },
+    {
+      "name": "Preah Vihear",
+      "code": 2292
+    },
+    {
+      "name": "Preah Sihanouk",
+      "code": 2291
+    },
+    {
+      "name": "Kandal",
+      "code": 1282
+    },
+    {
+      "name": "Kampong Speu Province",
+      "code": 9097097
+    },
+    {
+      "name": "Kampong Thom",
+      "code": 1277
+    }
+  ],
+  "KM": [
+    {
+      "name": "Grande Comore",
+      "code": 995
+    }
+  ],
+  "KN": [
+    {
+      "name": "Saint George Basseterre",
+      "code": 2529
+    },
+    {
+      "name": "Saint Paul Charlestown",
+      "code": 2549
+    },
+    {
+      "name": "Saint Paul Capesterre",
+      "code": 2548
+    },
+    {
+      "name": "Saint James Windward",
+      "code": 2534
+    },
+    {
+      "name": "Middle Island",
+      "code": 1732
+    },
+    {
+      "name": "Christ Church Nichola Town",
+      "code": 569
+    },
+    {
+      "name": "Saint Thomas Lowland",
+      "code": 2556
+    },
+    {
+      "name": "Saint Anne Sandy Point",
+      "code": 2522
+    },
+    {
+      "name": "Saint Peter Basseterre",
+      "code": 2552
+    },
+    {
+      "name": "Saint George Gingerland",
+      "code": 2530
+    }
+  ],
+  "KP": [
+    {
+      "name": "Pyongyang",
+      "code": 2379
+    }
+  ],
+  "KR": [
+    {
+      "name": "Gangwon-do",
+      "code": 925
+    },
+    {
+      "name": "Gyeonggi-do",
+      "code": 1028
+    },
+    {
+      "name": "Incheon",
+      "code": 1166
+    },
+    {
+      "name": "Ulsan",
+      "code": 3086
+    },
+    {
+      "name": "Seoul",
+      "code": 2649
+    },
+    {
+      "name": "Busan",
+      "code": 420
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "North Chungcheong",
+      "code": 1951
+    },
+    {
+      "name": "Daejeon",
+      "code": 646
+    },
+    {
+      "name": "Gwangju",
+      "code": 1027
+    },
+    {
+      "name": "Daegu",
+      "code": 645
+    },
+    {
+      "name": "Jeollabuk-do",
+      "code": 1221
+    },
+    {
+      "name": "Gyeongsangnam-do",
+      "code": 1030
+    },
+    {
+      "name": "Jeollanam-do",
+      "code": 1222
+    },
+    {
+      "name": "Sejong-si",
+      "code": 2642
+    },
+    {
+      "name": "Chungcheongnam-do",
+      "code": 575
+    },
+    {
+      "name": "Jeju-do",
+      "code": 1216
+    },
+    {
+      "name": "Gyeongsangbuk-do",
+      "code": 1029
+    }
+  ],
+  "KW": [
+    {
+      "name": "Al Asimah",
+      "code": 50
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Hawalli",
+      "code": 1073
+    },
+    {
+      "name": "Al Aḩmadī",
+      "code": 51
+    }
+  ],
+  "KY": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "KZ": [
+    {
+      "name": "West Kazakhstan",
+      "code": 3222
+    },
+    {
+      "name": "Qostanay Oblysy",
+      "code": 2393
+    },
+    {
+      "name": "Shymkent",
+      "code": 2682
+    },
+    {
+      "name": "Astana",
+      "code": 172
+    },
+    {
+      "name": "Almaty",
+      "code": 91
+    },
+    {
+      "name": "Aqmola Oblysy",
+      "code": 143
+    },
+    {
+      "name": "North Kazakhstan",
+      "code": 1959
+    },
+    {
+      "name": "Mangistauskaya Oblast'",
+      "code": 1642
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Karaganda",
+      "code": 1292
+    },
+    {
+      "name": "Pavlodar Region",
+      "code": 2203
+    },
+    {
+      "name": "Jetisu Region",
+      "code": 1227
+    },
+    {
+      "name": "Atyraū Oblysy",
+      "code": 9398435
+    },
+    {
+      "name": "Almaty Oblysy",
+      "code": 92
+    },
+    {
+      "name": "East Kazakhstan",
+      "code": 817
+    },
+    {
+      "name": "Aktyubinskaya Oblast'",
+      "code": 47
+    },
+    {
+      "name": "Ulytau Region",
+      "code": 3089
+    },
+    {
+      "name": "Abai Region",
+      "code": 4
+    },
+    {
+      "name": "Zhambyl Oblysy",
+      "code": 3312
+    },
+    {
+      "name": "Qyzylorda Oblysy",
+      "code": 2406
+    },
+    {
+      "name": "South Kazakhstan",
+      "code": 2752
+    }
+  ],
+  "LA": [
+    {
+      "name": "Attapu",
+      "code": 184
+    },
+    {
+      "name": "Vientiane Prefecture",
+      "code": 3158
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Champasak Province",
+      "code": 9096986
+    },
+    {
+      "name": "Xaisomboun",
+      "code": 3257
+    },
+    {
+      "name": "Xaignabouli",
+      "code": 3256
+    },
+    {
+      "name": "Bolikhamsai",
+      "code": 350
+    },
+    {
+      "name": "Houaphan",
+      "code": 1107
+    }
+  ],
+  "LB": [
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Beyrouth",
+      "code": 313
+    },
+    {
+      "name": "Baalbek-Hermel Governorate",
+      "code": 9096923
+    },
+    {
+      "name": "South Governorate",
+      "code": 2748
+    },
+    {
+      "name": "Mohafazat Mont-Liban",
+      "code": 1763
+    },
+    {
+      "name": "Mohafazat Liban-Nord",
+      "code": 1762
+    },
+    {
+      "name": "Mohafazat Béqaa",
+      "code": 9566126
+    }
+  ],
+  "LC": [
+    {
+      "name": "Castries",
+      "code": 482
+    },
+    {
+      "name": "Gros-Islet",
+      "code": 1003
+    },
+    {
+      "name": "Vieux-Fort",
+      "code": 3160
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Soufrière",
+      "code": 9286281
+    }
+  ],
+  "LI": [
+    {
+      "name": "Vaduz",
+      "code": 3115
+    },
+    {
+      "name": "Schaan",
+      "code": 2635
+    },
+    {
+      "name": "Schellenberg",
+      "code": 2637
+    }
+  ],
+  "LK": [
+    {
+      "name": "Western Province",
+      "code": 3243
+    },
+    {
+      "name": "North Central Province",
+      "code": 1950
+    },
+    {
+      "name": "North Western Province",
+      "code": 1973
+    },
+    {
+      "name": "Central Province",
+      "code": 505
+    },
+    {
+      "name": "Southern Province",
+      "code": 2778
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Sabaragamuwa Province",
+      "code": 2511
+    }
+  ],
+  "LR": [
+    {
+      "name": "Montserrado County",
+      "code": 1785
+    },
+    {
+      "name": "Bomi County",
+      "code": 354
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Grand Bassa County",
+      "code": 987
+    },
+    {
+      "name": "Nimba",
+      "code": 9097198
+    }
+  ],
+  "LS": [
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Maseru District",
+      "code": 9097159
+    }
+  ],
+  "LT": [
+    {
+      "name": "Vilnius",
+      "code": 3166
+    },
+    {
+      "name": "Telsiai",
+      "code": 2920
+    },
+    {
+      "name": "Klaipėda County",
+      "code": 1382
+    },
+    {
+      "name": "Panevėžys",
+      "code": 2180
+    },
+    {
+      "name": "Kaunas",
+      "code": 1314
+    },
+    {
+      "name": "Utena",
+      "code": 3102
+    },
+    {
+      "name": "Siauliai",
+      "code": 2684
+    },
+    {
+      "name": "Marijampolė County",
+      "code": 1664
+    },
+    {
+      "name": "Alytus",
+      "code": 98
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Tauragė County",
+      "code": 2909
+    }
+  ],
+  "LU": [
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Luxembourg",
+      "code": 1588
+    },
+    {
+      "name": "Esch-sur-Alzette",
+      "code": 863
+    },
+    {
+      "name": "Remich",
+      "code": 2449
+    }
+  ],
+  "LV": [
+    {
+      "name": "Rīga",
+      "code": 9097273
+    },
+    {
+      "name": "Daugavpils",
+      "code": 661
+    },
+    {
+      "name": "Liepāja",
+      "code": 9097135
+    },
+    {
+      "name": "Līvāni",
+      "code": 1594
+    },
+    {
+      "name": "Ogre",
+      "code": 2108
+    },
+    {
+      "name": "Preiļi Municipality",
+      "code": 9743689
+    },
+    {
+      "name": "Jelgava",
+      "code": 1217
+    },
+    {
+      "name": "Rēzekne",
+      "code": 9097271
+    },
+    {
+      "name": "Cēsis Municipality",
+      "code": 9097005
+    },
+    {
+      "name": "Ventspils",
+      "code": 3144
+    },
+    {
+      "name": "Jūrmala",
+      "code": 9097093
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Saldus Municipality",
+      "code": 2571
+    },
+    {
+      "name": "Bauska Municipality",
+      "code": 9096934
+    },
+    {
+      "name": "Tukums Municipality",
+      "code": 9097368
+    },
+    {
+      "name": "Sigulda Municipality",
+      "code": 9097320
+    },
+    {
+      "name": "Salaspils Municipality",
+      "code": 9097290
+    },
+    {
+      "name": "Ādaži",
+      "code": 3336
+    },
+    {
+      "name": "Valmiera",
+      "code": 3128
+    },
+    {
+      "name": "Dobele Municipality",
+      "code": 9097015
+    },
+    {
+      "name": "Jēkabpils Municipality",
+      "code": 1249
+    },
+    {
+      "name": "Ludza Municipality",
+      "code": 9097144
+    },
+    {
+      "name": "Kuldīga Municipality",
+      "code": 9097121
+    },
+    {
+      "name": "South Kurzeme Municipality",
+      "code": 2756
+    },
+    {
+      "name": "Saulkrasti Municipality",
+      "code": 9097315
+    },
+    {
+      "name": "Talsi Municipality",
+      "code": 2877
+    },
+    {
+      "name": "Ropaži Municipality",
+      "code": 9097269
+    },
+    {
+      "name": "Mārupe",
+      "code": 1844
+    },
+    {
+      "name": "Balvi Municipality",
+      "code": 9096927
+    },
+    {
+      "name": "Krāslava Municipality",
+      "code": 9097119
+    }
+  ],
+  "LY": [
+    {
+      "name": "Tripoli",
+      "code": 3044
+    },
+    {
+      "name": "Sha'biyat Misratah",
+      "code": 2658
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Surt",
+      "code": 2832
+    },
+    {
+      "name": "Sha'biyat Banghazi",
+      "code": 2657
+    },
+    {
+      "name": "Al Jabal al Akhḑar",
+      "code": 9885917
+    },
+    {
+      "name": "Darnah",
+      "code": 660
+    },
+    {
+      "name": "Sabha District",
+      "code": 9097274
+    },
+    {
+      "name": "Al Kufrah",
+      "code": 67
+    },
+    {
+      "name": "Al Buţnān",
+      "code": 10117916
+    },
+    {
+      "name": "Murzuq District",
+      "code": 9097179
+    },
+    {
+      "name": "Al Marj",
+      "code": 70
+    },
+    {
+      "name": "Ghāt",
+      "code": 9097043
+    }
+  ],
+  "MA": [
+    {
+      "name": "Souss-Massa",
+      "code": 2739
+    },
+    {
+      "name": "Casablanca-Settat",
+      "code": 469
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Oriental",
+      "code": 2147
+    },
+    {
+      "name": "Tanger-Tetouan-Al Hoceima",
+      "code": 2887
+    },
+    {
+      "name": "Marrakesh-Safi",
+      "code": 1670
+    },
+    {
+      "name": "Rabat-Salé-Kénitra",
+      "code": 9526714
+    },
+    {
+      "name": "Fès-Meknès",
+      "code": 9529921
+    },
+    {
+      "name": "Béni Mellal-Khénifra",
+      "code": 9939246
+    },
+    {
+      "name": "Guelmim-Oued Noun",
+      "code": 1015
+    }
+  ],
+  "MC": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "MD": [
+    {
+      "name": "Administrative-Territorial Units of the Left Bank of the Dniester",
+      "code": 9096892
+    },
+    {
+      "name": "Anenii Noi",
+      "code": 119
+    },
+    {
+      "name": "Chișinău Municipality",
+      "code": 560
+    },
+    {
+      "name": "Municipiul Bălţi",
+      "code": 9465159
+    },
+    {
+      "name": "Orhei",
+      "code": 2145
+    },
+    {
+      "name": "Raionul Căuşeni",
+      "code": 9465580
+    },
+    {
+      "name": "Raionul Edineţ",
+      "code": 2417
+    },
+    {
+      "name": "Rîşcani",
+      "code": 2504
+    },
+    {
+      "name": "Briceni",
+      "code": 389
+    },
+    {
+      "name": "Floreşti",
+      "code": 896
+    },
+    {
+      "name": "Glodeni",
+      "code": 961
+    },
+    {
+      "name": "Hînceşti",
+      "code": 1121
+    },
+    {
+      "name": "Ungheni",
+      "code": 3091
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Gagauzia",
+      "code": 919
+    },
+    {
+      "name": "Bender Municipality",
+      "code": 296
+    },
+    {
+      "name": "Raionul Ocniţa",
+      "code": 2418
+    },
+    {
+      "name": "Taraclia",
+      "code": 2892
+    },
+    {
+      "name": "Ialoveni",
+      "code": 1124
+    },
+    {
+      "name": "Soroca District",
+      "code": 9097330
+    },
+    {
+      "name": "Rezina",
+      "code": 2457
+    },
+    {
+      "name": "Nisporeni",
+      "code": 1924
+    },
+    {
+      "name": "Cimişlia",
+      "code": 582
+    },
+    {
+      "name": "Strășeni",
+      "code": 2810
+    },
+    {
+      "name": "Raionul Călăraşi",
+      "code": 9608655
+    },
+    {
+      "name": "Cantemir",
+      "code": 457
+    },
+    {
+      "name": "Basarabeasca",
+      "code": 260
+    },
+    {
+      "name": "Făleşti",
+      "code": 911
+    },
+    {
+      "name": "Şoldăneşti",
+      "code": 3345
+    },
+    {
+      "name": "Leova",
+      "code": 1510
+    },
+    {
+      "name": "Teleneşti",
+      "code": 2918
+    },
+    {
+      "name": "Drochia",
+      "code": 798
+    },
+    {
+      "name": "Cahul",
+      "code": 436
+    },
+    {
+      "name": "Criuleni",
+      "code": 632
+    },
+    {
+      "name": "Dubăsari District",
+      "code": 9097018
+    },
+    {
+      "name": "Sîngerei",
+      "code": 2851
+    },
+    {
+      "name": "Raionul Ștefan Vodă",
+      "code": 10528427
+    },
+    {
+      "name": "Donduşeni",
+      "code": 790
+    }
+  ],
+  "ME": [
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Podgorica",
+      "code": 2261
+    },
+    {
+      "name": "Herceg Novi",
+      "code": 1085
+    },
+    {
+      "name": "Tivat",
+      "code": 3001
+    },
+    {
+      "name": "Budva",
+      "code": 402
+    },
+    {
+      "name": "Kotor",
+      "code": 1406
+    },
+    {
+      "name": "Bar",
+      "code": 248
+    },
+    {
+      "name": "Rožaje Municipality",
+      "code": 2494
+    }
+  ],
+  "MF": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "MG": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "MH": [
+    {
+      "name": "Majuro Atoll",
+      "code": 1618
+    },
+    {
+      "name": "Ailinglaplap Atoll",
+      "code": 9208504
+    }
+  ],
+  "MK": [
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Veles",
+      "code": 3140
+    },
+    {
+      "name": "Ohrid",
+      "code": 2112
+    },
+    {
+      "name": "Shtip",
+      "code": 2680
+    },
+    {
+      "name": "Kumanovo",
+      "code": 1431
+    },
+    {
+      "name": "Strumica",
+      "code": 2809
+    },
+    {
+      "name": "Delchevo",
+      "code": 668
+    },
+    {
+      "name": "Radovish",
+      "code": 2411
+    },
+    {
+      "name": "Tetovo",
+      "code": 2927
+    },
+    {
+      "name": "Gostivar",
+      "code": 979
+    },
+    {
+      "name": "Bitola",
+      "code": 330
+    },
+    {
+      "name": "Karposh",
+      "code": 1304
+    },
+    {
+      "name": "Prilep",
+      "code": 2299
+    },
+    {
+      "name": "Negotino",
+      "code": 1890
+    },
+    {
+      "name": "Gevgelija",
+      "code": 942
+    },
+    {
+      "name": "Opština Centar",
+      "code": 11275073
+    },
+    {
+      "name": "Kichevo",
+      "code": 1360
+    },
+    {
+      "name": "Vinica",
+      "code": 3169
+    },
+    {
+      "name": "Rosoman",
+      "code": 2490
+    },
+    {
+      "name": "Demir Hisar",
+      "code": 672
+    },
+    {
+      "name": "Kavadarci",
+      "code": 1315
+    },
+    {
+      "name": "Kochani",
+      "code": 1385
+    },
+    {
+      "name": "Sveti Nikole",
+      "code": 2839
+    }
+  ],
+  "ML": [
+    {
+      "name": "Bamako",
+      "code": 9096928
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Mopti",
+      "code": 1787
+    },
+    {
+      "name": "Tombouctou",
+      "code": 3015
+    },
+    {
+      "name": "Sikasso",
+      "code": 2695
+    }
+  ],
+  "MM": [
+    {
+      "name": "Yangon",
+      "code": 3269
+    },
+    {
+      "name": "Shan State",
+      "code": 2664
+    },
+    {
+      "name": "Mandalay Region",
+      "code": 1639
+    },
+    {
+      "name": "Nay Pyi Taw",
+      "code": 1883
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Ayeyarwady Region",
+      "code": 199
+    },
+    {
+      "name": "Chin State",
+      "code": 556
+    },
+    {
+      "name": "Mon State",
+      "code": 1773
+    }
+  ],
+  "MN": [
+    {
+      "name": "Ulaanbaatar Hot",
+      "code": 3084
+    },
+    {
+      "name": "Bayanhongor Aymag",
+      "code": 281
+    },
+    {
+      "name": "Khövsgöl Province",
+      "code": 1358
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Orhon Aymag",
+      "code": 2146
+    },
+    {
+      "name": "Central Aymag",
+      "code": 491
+    },
+    {
+      "name": "Bayan-Ölgiy Aymag",
+      "code": 11379943
+    },
+    {
+      "name": "South Khangay",
+      "code": 2753
+    },
+    {
+      "name": "Uvs Province",
+      "code": 3110
+    },
+    {
+      "name": "East Aimak",
+      "code": 810
+    }
+  ],
+  "MO": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "MP": [
+    {
+      "name": "Saipan",
+      "code": 2559
+    }
+  ],
+  "MQ": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "MR": [
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Nouakchott Nord",
+      "code": 13381574
+    },
+    {
+      "name": "Hodh El Gharbi",
+      "code": 1097
+    }
+  ],
+  "MS": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "MT": [
+    {
+      "name": "Tas-Sliema",
+      "code": 2902
+    },
+    {
+      "name": "Valletta",
+      "code": 3127
+    },
+    {
+      "name": "Il-Qala",
+      "code": 1146
+    },
+    {
+      "name": "Is-Swieqi",
+      "code": 1180
+    },
+    {
+      "name": "Is-Siġġiewi",
+      "code": 10615683
+    },
+    {
+      "name": "Il-Gżira",
+      "code": 9804770
+    },
+    {
+      "name": "Saint Paul’s Bay",
+      "code": 2550
+    },
+    {
+      "name": "Qormi",
+      "code": 2392
+    },
+    {
+      "name": "Il-Mosta",
+      "code": 1144
+    },
+    {
+      "name": "Saint Venera",
+      "code": 2557
+    },
+    {
+      "name": "Il-Mellieħa",
+      "code": 11340197
+    },
+    {
+      "name": "Birkirkara",
+      "code": 323
+    },
+    {
+      "name": "Victoria",
+      "code": 3154
+    },
+    {
+      "name": "In-Naxxar",
+      "code": 1164
+    },
+    {
+      "name": "Lija",
+      "code": 1522
+    },
+    {
+      "name": "Luqa",
+      "code": 1586
+    },
+    {
+      "name": "L-Imsida",
+      "code": 1465
+    },
+    {
+      "name": "Marsaskala",
+      "code": 1672
+    },
+    {
+      "name": "Il-Fgura",
+      "code": 1136
+    },
+    {
+      "name": "Saint Julian",
+      "code": 2538
+    },
+    {
+      "name": "Iż-Żejtun",
+      "code": 11498336
+    },
+    {
+      "name": "Paola",
+      "code": 2181
+    },
+    {
+      "name": "Saint John",
+      "code": 2535
+    },
+    {
+      "name": "Il-Ħamrun",
+      "code": 10778487
+    },
+    {
+      "name": "Il-Fontana",
+      "code": 1137
+    },
+    {
+      "name": "Marsaxlokk",
+      "code": 1673
+    },
+    {
+      "name": "Għajnsielem",
+      "code": 9097056
+    },
+    {
+      "name": "Ta' Xbiex",
+      "code": 2853
+    },
+    {
+      "name": "Ħaż-Żabbar",
+      "code": 10687625
+    },
+    {
+      "name": "Balzan",
+      "code": 235
+    }
+  ],
+  "MU": [
+    {
+      "name": "Plaines Wilhems District",
+      "code": 2250
+    },
+    {
+      "name": "Port Louis District",
+      "code": 2275
+    },
+    {
+      "name": "Moka District",
+      "code": 1768
+    },
+    {
+      "name": "Flacq District",
+      "code": 892
+    },
+    {
+      "name": "Rivière du Rempart District",
+      "code": 10165035
+    },
+    {
+      "name": "Black River District",
+      "code": 334
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Grand Port District",
+      "code": 993
+    },
+    {
+      "name": "Savanne District",
+      "code": 2632
+    }
+  ],
+  "MV": [
+    {
+      "name": "Male",
+      "code": 1630
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Kaafu Atoll",
+      "code": 1251
+    },
+    {
+      "name": "Haa Dhaalu Atholhu",
+      "code": 1037
+    },
+    {
+      "name": "Vaavu Atholhu",
+      "code": 3114
+    },
+    {
+      "name": "Faafu Atholhu",
+      "code": 877
+    }
+  ],
+  "MW": [
+    {
+      "name": "Central Region",
+      "code": 506
+    },
+    {
+      "name": "Southern Region",
+      "code": 2780
+    }
+  ],
+  "MX": [
+    {
+      "name": "Nuevo León",
+      "code": 2004
+    },
+    {
+      "name": "Mexico City",
+      "code": 1726
+    },
+    {
+      "name": "Chiapas",
+      "code": 547
+    },
+    {
+      "name": "Oaxaca",
+      "code": 2016
+    },
+    {
+      "name": "Baja California",
+      "code": 219
+    },
+    {
+      "name": "Jalisco",
+      "code": 1210
+    },
+    {
+      "name": "Tamaulipas",
+      "code": 2879
+    },
+    {
+      "name": "Baja California Sur",
+      "code": 220
+    },
+    {
+      "name": "Chihuahua",
+      "code": 552
+    },
+    {
+      "name": "Michoacán",
+      "code": 1729
+    },
+    {
+      "name": "Veracruz",
+      "code": 3146
+    },
+    {
+      "name": "Hidalgo",
+      "code": 1090
+    },
+    {
+      "name": "Guanajuato",
+      "code": 1008
+    },
+    {
+      "name": "Puebla",
+      "code": 2370
+    },
+    {
+      "name": "Coahuila",
+      "code": 590
+    },
+    {
+      "name": "México",
+      "code": 1842
+    },
+    {
+      "name": "Sonora",
+      "code": 2734
+    },
+    {
+      "name": "San Luis Potosí",
+      "code": 2594
+    },
+    {
+      "name": "Yucatán",
+      "code": 3284
+    },
+    {
+      "name": "Sinaloa",
+      "code": 2702
+    },
+    {
+      "name": "Zacatecas",
+      "code": 3290
+    },
+    {
+      "name": "Quintana Roo",
+      "code": 2402
+    },
+    {
+      "name": "Tabasco",
+      "code": 2854
+    },
+    {
+      "name": "Tlaxcala",
+      "code": 3004
+    },
+    {
+      "name": "Morelos",
+      "code": 1792
+    },
+    {
+      "name": "Guerrero",
+      "code": 1016
+    },
+    {
+      "name": "Colima",
+      "code": 593
+    },
+    {
+      "name": "Nayarit",
+      "code": 1884
+    },
+    {
+      "name": "Durango",
+      "code": 804
+    },
+    {
+      "name": "Querétaro",
+      "code": 2397
+    },
+    {
+      "name": "Aguascalientes",
+      "code": 34
+    },
+    {
+      "name": "Campeche",
+      "code": 446
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "MY": [
+    {
+      "name": "Kuala Lumpur",
+      "code": 1425
+    },
+    {
+      "name": "Selangor",
+      "code": 2643
+    },
+    {
+      "name": "Negeri Sembilan",
+      "code": 1889
+    },
+    {
+      "name": "Johor",
+      "code": 1237
+    },
+    {
+      "name": "Penang",
+      "code": 2216
+    },
+    {
+      "name": "Melaka",
+      "code": 1716
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Sabah",
+      "code": 2510
+    },
+    {
+      "name": "Kedah",
+      "code": 1325
+    },
+    {
+      "name": "Sarawak",
+      "code": 2620
+    },
+    {
+      "name": "Terengganu",
+      "code": 2924
+    },
+    {
+      "name": "Perak",
+      "code": 2220
+    },
+    {
+      "name": "Pahang",
+      "code": 2174
+    },
+    {
+      "name": "Kelantan",
+      "code": 1328
+    },
+    {
+      "name": "Putrajaya",
+      "code": 2377
+    },
+    {
+      "name": "Perlis",
+      "code": 2221
+    },
+    {
+      "name": "Labuan",
+      "code": 1477
+    }
+  ],
+  "MZ": [
+    {
+      "name": "Cidade de Maputo",
+      "code": 580
+    },
+    {
+      "name": "Nampula",
+      "code": 1867
+    },
+    {
+      "name": "Tete",
+      "code": 2926
+    },
+    {
+      "name": "Sofala",
+      "code": 9097325
+    },
+    {
+      "name": "Manica Province",
+      "code": 1643
+    },
+    {
+      "name": "Zambezia Province",
+      "code": 9097415
+    }
+  ],
+  "NA": [
+    {
+      "name": "Khomas Region",
+      "code": 9097107
+    },
+    {
+      "name": "Erongo Region",
+      "code": 9097025
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Karas Region",
+      "code": 9097100
+    }
+  ],
+  "NC": [
+    {
+      "name": "South Province",
+      "code": 2760
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "NE": [
+    {
+      "name": "Niamey",
+      "code": 1912
+    },
+    {
+      "name": "Zinder Region",
+      "code": 9097418
+    },
+    {
+      "name": "Dosso Region",
+      "code": 794
+    }
+  ],
+  "NG": [
+    {
+      "name": "Lagos",
+      "code": 1482
+    },
+    {
+      "name": "FCT",
+      "code": 874
+    },
+    {
+      "name": "Ekiti State",
+      "code": 835
+    },
+    {
+      "name": "Ebonyi State",
+      "code": 830
+    },
+    {
+      "name": "Edo State",
+      "code": 9097022
+    },
+    {
+      "name": "Oyo State",
+      "code": 2171
+    },
+    {
+      "name": "Bayelsa State",
+      "code": 283
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Rivers State",
+      "code": 2476
+    },
+    {
+      "name": "Kwara State",
+      "code": 1446
+    },
+    {
+      "name": "Enugu State",
+      "code": 855
+    },
+    {
+      "name": "Akwa Ibom State",
+      "code": 48
+    },
+    {
+      "name": "Kano State",
+      "code": 1284
+    },
+    {
+      "name": "Ogun State",
+      "code": 2109
+    },
+    {
+      "name": "Anambra",
+      "code": 112
+    },
+    {
+      "name": "Ondo State",
+      "code": 2126
+    },
+    {
+      "name": "Osun State",
+      "code": 2158
+    },
+    {
+      "name": "Benue State",
+      "code": 305
+    }
+  ],
+  "NI": [
+    {
+      "name": "Managua Department",
+      "code": 1634
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Chontales Department",
+      "code": 567
+    },
+    {
+      "name": "Masaya Department",
+      "code": 1678
+    },
+    {
+      "name": "Jinotega Department",
+      "code": 1235
+    },
+    {
+      "name": "León Department",
+      "code": 1515
+    }
+  ],
+  "NL": [
+    {
+      "name": "North Holland",
+      "code": 1956
+    },
+    {
+      "name": "South Holland",
+      "code": 2749
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Flevoland",
+      "code": 894
+    },
+    {
+      "name": "Gelderland",
+      "code": 939
+    },
+    {
+      "name": "Overijssel",
+      "code": 2170
+    },
+    {
+      "name": "North Brabant",
+      "code": 1947
+    },
+    {
+      "name": "Drenthe",
+      "code": 797
+    },
+    {
+      "name": "Limburg",
+      "code": 1528
+    },
+    {
+      "name": "Utrecht",
+      "code": 3104
+    },
+    {
+      "name": "Friesland",
+      "code": 903
+    },
+    {
+      "name": "Groningen",
+      "code": 1002
+    },
+    {
+      "name": "Zeeland",
+      "code": 3310
+    }
+  ],
+  "NO": [
+    {
+      "name": "Trøndelag",
+      "code": 3051
+    },
+    {
+      "name": "Oslo County",
+      "code": 2155
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Møre og Romsdal",
+      "code": 1843
+    },
+    {
+      "name": "Akershus",
+      "code": 9096898
+    },
+    {
+      "name": "Vestfold",
+      "code": 9097390
+    },
+    {
+      "name": "Vestland",
+      "code": 3149
+    },
+    {
+      "name": "Rogaland",
+      "code": 2483
+    },
+    {
+      "name": "Østfold",
+      "code": 9097421
+    },
+    {
+      "name": "Buskerud",
+      "code": 9096960
+    },
+    {
+      "name": "Finnmark",
+      "code": 9097033
+    },
+    {
+      "name": "Troms",
+      "code": 9097365
+    },
+    {
+      "name": "Nordland",
+      "code": 1938
+    },
+    {
+      "name": "Agder",
+      "code": 30
+    },
+    {
+      "name": "Telemark",
+      "code": 9097351
+    },
+    {
+      "name": "Innlandet",
+      "code": 1172
+    }
+  ],
+  "NP": [
+    {
+      "name": "Bagmati Province",
+      "code": 213
+    },
+    {
+      "name": "Madhesh",
+      "code": 9605460
+    },
+    {
+      "name": "Gandaki Pradesh",
+      "code": 924
+    },
+    {
+      "name": "Koshi",
+      "code": 9484488
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Lumbini Province",
+      "code": 1584
+    },
+    {
+      "name": "Sudurpashchim Pradesh",
+      "code": 2821
+    }
+  ],
+  "NZ": [
+    {
+      "name": "Auckland",
+      "code": 189
+    },
+    {
+      "name": "Canterbury",
+      "code": 458
+    },
+    {
+      "name": "Hawke's Bay Region",
+      "code": 9097060
+    },
+    {
+      "name": "Wellington Region",
+      "code": 9097402
+    },
+    {
+      "name": "Waikato Region",
+      "code": 9097398
+    },
+    {
+      "name": "Bay of Plenty",
+      "code": 279
+    },
+    {
+      "name": "Taranaki Region",
+      "code": 9097348
+    },
+    {
+      "name": "Northland",
+      "code": 1991
+    },
+    {
+      "name": "Otago",
+      "code": 2159
+    },
+    {
+      "name": "Gisborne",
+      "code": 954
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Manawatu-Wanganui",
+      "code": 1637
+    },
+    {
+      "name": "Marlborough",
+      "code": 1669
+    },
+    {
+      "name": "Nelson Region",
+      "code": 9097189
+    },
+    {
+      "name": "Southland",
+      "code": 2782
+    },
+    {
+      "name": "Tasman District",
+      "code": 9097349
+    }
+  ],
+  "OM": [
+    {
+      "name": "Muscat",
+      "code": 1832
+    },
+    {
+      "name": "Ad Dakhiliyah",
+      "code": 15
+    },
+    {
+      "name": "Dhofar",
+      "code": 749
+    }
+  ],
+  "PA": [
+    {
+      "name": "Provincia de Panamá",
+      "code": 9405546
+    },
+    {
+      "name": "Panamá Oeste Province",
+      "code": 2179
+    },
+    {
+      "name": "Herrera Province",
+      "code": 9097062
+    },
+    {
+      "name": "Chiriquí Province",
+      "code": 558
+    },
+    {
+      "name": "Provincia de Colón",
+      "code": 10063139
+    },
+    {
+      "name": "Guna Yala",
+      "code": 1021
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Provincia de Coclé",
+      "code": 11891679
+    }
+  ],
+  "PE": [
+    {
+      "name": "Lima Province",
+      "code": 9097137
+    },
+    {
+      "name": "Cajamarca Department",
+      "code": 9096972
+    },
+    {
+      "name": "La Libertad",
+      "code": 1468
+    },
+    {
+      "name": "San Martín Department",
+      "code": 9097295
+    },
+    {
+      "name": "Cuzco Department",
+      "code": 9097002
+    },
+    {
+      "name": "Ancash",
+      "code": 113
+    },
+    {
+      "name": "Lambayeque",
+      "code": 1486
+    },
+    {
+      "name": "Lima region",
+      "code": 1525
+    },
+    {
+      "name": "Arequipa",
+      "code": 152
+    },
+    {
+      "name": "Ica",
+      "code": 1128
+    },
+    {
+      "name": "Ucayali",
+      "code": 3080
+    },
+    {
+      "name": "Puno",
+      "code": 2374
+    },
+    {
+      "name": "Piura",
+      "code": 2248
+    },
+    {
+      "name": "Loreto",
+      "code": 1555
+    },
+    {
+      "name": "Madre de Dios",
+      "code": 1603
+    },
+    {
+      "name": "Callao",
+      "code": 444
+    },
+    {
+      "name": "Tacna",
+      "code": 2858
+    },
+    {
+      "name": "Huánuco Department",
+      "code": 9097072
+    },
+    {
+      "name": "Pasco",
+      "code": 2198
+    },
+    {
+      "name": "Junin",
+      "code": 1240
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Apurímac Department",
+      "code": 9096913
+    },
+    {
+      "name": "Huancavelica",
+      "code": 1115
+    },
+    {
+      "name": "Moquegua Department",
+      "code": 9097176
+    },
+    {
+      "name": "Ayacucho",
+      "code": 197
+    },
+    {
+      "name": "Tumbes",
+      "code": 3063
+    }
+  ],
+  "PF": [
+    {
+      "name": "Îles du Vent",
+      "code": 9720897
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "PG": [
+    {
+      "name": "Enga Province",
+      "code": 849
+    },
+    {
+      "name": "National Capital",
+      "code": 1879
+    },
+    {
+      "name": "Morobe Province",
+      "code": 1793
+    }
+  ],
+  "PH": [
+    {
+      "name": "Central Luzon",
+      "code": 501
+    },
+    {
+      "name": "Metro Manila",
+      "code": 1725
+    },
+    {
+      "name": "Western Visayas",
+      "code": 3245
+    },
+    {
+      "name": "Northern Mindanao",
+      "code": 1986
+    },
+    {
+      "name": "Central Visayas",
+      "code": 509
+    },
+    {
+      "name": "Calabarzon",
+      "code": 439
+    },
+    {
+      "name": "Bicol Region",
+      "code": 9096938
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Zamboanga Peninsula",
+      "code": 3298
+    },
+    {
+      "name": "Cordillera",
+      "code": 609
+    },
+    {
+      "name": "Davao Region",
+      "code": 9097007
+    },
+    {
+      "name": "Ilocos",
+      "code": 1156
+    },
+    {
+      "name": "Cagayan Valley",
+      "code": 435
+    },
+    {
+      "name": "Caraga",
+      "code": 462
+    },
+    {
+      "name": "Eastern Visayas",
+      "code": 829
+    },
+    {
+      "name": "Soccsksargen",
+      "code": 2723
+    },
+    {
+      "name": "Mimaropa",
+      "code": 1739
+    },
+    {
+      "name": "Autonomous Region in Muslim Mindanao",
+      "code": 192
+    }
+  ],
+  "PK": [
+    {
+      "name": "Khyber Pakhtunkhwa",
+      "code": 1357
+    },
+    {
+      "name": "Sindh",
+      "code": 2703
+    },
+    {
+      "name": "Punjab",
+      "code": 2373
+    },
+    {
+      "name": "Islamabad",
+      "code": 1185
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Balochistan",
+      "code": 232
+    },
+    {
+      "name": "Azad Jammu and Kashmir(POK)",
+      "code": 13028719
+    }
+  ],
+  "PL": [
+    {
+      "name": "Lublin",
+      "code": 1577
+    },
+    {
+      "name": "Mazovia",
+      "code": 1702
+    },
+    {
+      "name": "Silesia",
+      "code": 2698
+    },
+    {
+      "name": "Warmia-Masuria",
+      "code": 3210
+    },
+    {
+      "name": "Łódź Voivodeship",
+      "code": 3340
+    },
+    {
+      "name": "Lesser Poland",
+      "code": 1513
+    },
+    {
+      "name": "Pomerania",
+      "code": 2271
+    },
+    {
+      "name": "Subcarpathia",
+      "code": 2814
+    },
+    {
+      "name": "Opole Voivodeship",
+      "code": 2129
+    },
+    {
+      "name": "West Pomerania",
+      "code": 3229
+    },
+    {
+      "name": "Lower Silesia",
+      "code": 1569
+    },
+    {
+      "name": "Świętokrzyskie",
+      "code": 3342
+    },
+    {
+      "name": "Lubusz",
+      "code": 1579
+    },
+    {
+      "name": "Greater Poland",
+      "code": 998
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Podlasie",
+      "code": 2262
+    },
+    {
+      "name": "Kujawsko-Pomorskie",
+      "code": 1427
+    }
+  ],
+  "PM": [
+    {
+      "name": "Commune de Saint-Pierre",
+      "code": 599
+    }
+  ],
+  "PR": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "PS": [
+    {
+      "name": "Jenin Governorate",
+      "code": 9097091
+    },
+    {
+      "name": "Ramallah and al-Bireh Governorate",
+      "code": 9097262
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Hebron",
+      "code": 1078
+    },
+    {
+      "name": "Gaza Governorate",
+      "code": 9097041
+    },
+    {
+      "name": "Nablus Governorate",
+      "code": 9097180
+    },
+    {
+      "name": "Bethlehem Governorate",
+      "code": 9096937
+    },
+    {
+      "name": "Salfit Governorate",
+      "code": 9097292
+    },
+    {
+      "name": "Tulkarm Governorate",
+      "code": 9097370
+    },
+    {
+      "name": "Tubas Governorate",
+      "code": 9097367
+    },
+    {
+      "name": "North Gaza Governorate",
+      "code": 9097209
+    },
+    {
+      "name": "Rafah Governorate",
+      "code": 9097261
+    }
+  ],
+  "PT": [
+    {
+      "name": "Porto",
+      "code": 2280
+    },
+    {
+      "name": "Lisbon",
+      "code": 1535
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Faro",
+      "code": 883
+    },
+    {
+      "name": "Braga",
+      "code": 375
+    },
+    {
+      "name": "Vila Real",
+      "code": 3163
+    },
+    {
+      "name": "Aveiro",
+      "code": 195
+    },
+    {
+      "name": "Bragança",
+      "code": 376
+    },
+    {
+      "name": "Santarém",
+      "code": 2613
+    },
+    {
+      "name": "Castelo Branco",
+      "code": 479
+    },
+    {
+      "name": "Azores",
+      "code": 203
+    },
+    {
+      "name": "Coimbra",
+      "code": 591
+    },
+    {
+      "name": "Viana do Castelo",
+      "code": 3152
+    },
+    {
+      "name": "Setúbal",
+      "code": 2653
+    },
+    {
+      "name": "Madeira",
+      "code": 1600
+    },
+    {
+      "name": "Leiria",
+      "code": 1504
+    },
+    {
+      "name": "Guarda",
+      "code": 1012
+    },
+    {
+      "name": "Beja",
+      "code": 287
+    },
+    {
+      "name": "Viseu",
+      "code": 3174
+    },
+    {
+      "name": "Portalegre",
+      "code": 2278
+    },
+    {
+      "name": "Évora",
+      "code": 3330
+    }
+  ],
+  "PW": [
+    {
+      "name": "Koror",
+      "code": 9097116
+    },
+    {
+      "name": "Kayangel",
+      "code": 9097102
+    }
+  ],
+  "PY": [
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Central Department",
+      "code": 9096982
+    },
+    {
+      "name": "Asunción",
+      "code": 9096918
+    },
+    {
+      "name": "Departamento del Alto Paraná",
+      "code": 9899234
+    },
+    {
+      "name": "Itapúa",
+      "code": 9097088
+    },
+    {
+      "name": "Departamento del Guairá",
+      "code": 10709606
+    },
+    {
+      "name": "Departamento de Ñeembucú",
+      "code": 11576724
+    },
+    {
+      "name": "Presidente Hayes",
+      "code": 9097245
+    },
+    {
+      "name": "Departamento de Boquerón",
+      "code": 11013356
+    },
+    {
+      "name": "Cordillera Department",
+      "code": 9096998
+    },
+    {
+      "name": "Canindeyú",
+      "code": 9096973
+    },
+    {
+      "name": "Amambay Department",
+      "code": 9096904
+    },
+    {
+      "name": "San Pedro Department",
+      "code": 9097297
+    },
+    {
+      "name": "Departamento de Caaguazú",
+      "code": 10715328
+    },
+    {
+      "name": "Departamento de Paraguarí",
+      "code": 10078094
+    }
+  ],
+  "QA": [
+    {
+      "name": "Baladīyat ad Dawḩah",
+      "code": 9436808
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "RE": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "RO": [
+    {
+      "name": "Alba County",
+      "code": 9096901
+    },
+    {
+      "name": "București",
+      "code": 9096958
+    },
+    {
+      "name": "Timiș County",
+      "code": 9097358
+    },
+    {
+      "name": "Bistrița-Năsăud County",
+      "code": 9096941
+    },
+    {
+      "name": "Arad County",
+      "code": 9096914
+    },
+    {
+      "name": "Prahova",
+      "code": 2289
+    },
+    {
+      "name": "Constanța County",
+      "code": 9096997
+    },
+    {
+      "name": "Vâlcea County",
+      "code": 9097395
+    },
+    {
+      "name": "Dolj",
+      "code": 788
+    },
+    {
+      "name": "Giurgiu County",
+      "code": 9097046
+    },
+    {
+      "name": "Bihor County",
+      "code": 9096939
+    },
+    {
+      "name": "Iași County",
+      "code": 9097080
+    },
+    {
+      "name": "Dâmbovița County",
+      "code": 9097019
+    },
+    {
+      "name": "Sibiu County",
+      "code": 9097319
+    },
+    {
+      "name": "Cluj County",
+      "code": 9096994
+    },
+    {
+      "name": "Brăila County",
+      "code": 9096955
+    },
+    {
+      "name": "Galați County",
+      "code": 9097038
+    },
+    {
+      "name": "Ilfov",
+      "code": 1152
+    },
+    {
+      "name": "Neamț County",
+      "code": 9097188
+    },
+    {
+      "name": "Ialomița County",
+      "code": 9097079
+    },
+    {
+      "name": "Arges",
+      "code": 153
+    },
+    {
+      "name": "Satu Mare County",
+      "code": 9097314
+    },
+    {
+      "name": "Suceava",
+      "code": 2815
+    },
+    {
+      "name": "Olt",
+      "code": 2121
+    },
+    {
+      "name": "Brașov County",
+      "code": 9096952
+    },
+    {
+      "name": "Sălaj County",
+      "code": 9097341
+    },
+    {
+      "name": "Mehedinți County",
+      "code": 9097161
+    },
+    {
+      "name": "Caraș-Severin County",
+      "code": 9096975
+    },
+    {
+      "name": "Tulcea County",
+      "code": 9097369
+    },
+    {
+      "name": "Harghita County",
+      "code": 9097058
+    },
+    {
+      "name": "Gorj County",
+      "code": 9097048
+    },
+    {
+      "name": "Teleorman County",
+      "code": 9097352
+    },
+    {
+      "name": "Bacău County",
+      "code": 9096924
+    },
+    {
+      "name": "Hunedoara County",
+      "code": 9097071
+    },
+    {
+      "name": "Botoșani County",
+      "code": 9096949
+    },
+    {
+      "name": "Mureș County",
+      "code": 9097178
+    },
+    {
+      "name": "Buzău County",
+      "code": 9096961
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Maramureş",
+      "code": 1659
+    },
+    {
+      "name": "Covasna County",
+      "code": 9097001
+    },
+    {
+      "name": "Călărași County",
+      "code": 9097004
+    },
+    {
+      "name": "Vrancea",
+      "code": 3188
+    },
+    {
+      "name": "Vaslui County",
+      "code": 9097388
+    }
+  ],
+  "RS": [
+    {
+      "name": "Belgrade",
+      "code": 292
+    },
+    {
+      "name": "Zaječar",
+      "code": 9097413
+    },
+    {
+      "name": "Vojvodina",
+      "code": 3181
+    },
+    {
+      "name": "Morava",
+      "code": 1788
+    },
+    {
+      "name": "Rasina",
+      "code": 2428
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Raška",
+      "code": 9097264
+    },
+    {
+      "name": "Nišava",
+      "code": 9097205
+    },
+    {
+      "name": "Pomoravlje",
+      "code": 2272
+    },
+    {
+      "name": "Šumadija",
+      "code": 9097430
+    },
+    {
+      "name": "Podunavlje",
+      "code": 2264
+    },
+    {
+      "name": "Zlatibor",
+      "code": 3320
+    },
+    {
+      "name": "Pčinja",
+      "code": 9097250
+    },
+    {
+      "name": "Jablanica",
+      "code": 1206
+    },
+    {
+      "name": "Bor",
+      "code": 359
+    },
+    {
+      "name": "Kolubara",
+      "code": 1391
+    },
+    {
+      "name": "Branicevo",
+      "code": 380
+    },
+    {
+      "name": "Mačva",
+      "code": 9097160
+    },
+    {
+      "name": "Toplica",
+      "code": 3018
+    },
+    {
+      "name": "Pirot",
+      "code": 2247
+    }
+  ],
+  "RU": [
+    {
+      "name": "Irkutsk Oblast",
+      "code": 1178
+    },
+    {
+      "name": "Perm Krai",
+      "code": 2222
+    },
+    {
+      "name": "Tyumen Oblast",
+      "code": 3073
+    },
+    {
+      "name": "Vologda Oblast",
+      "code": 3183
+    },
+    {
+      "name": "Kemerovo Oblast",
+      "code": 1329
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Altai Krai",
+      "code": 96
+    },
+    {
+      "name": "Sverdlovsk Oblast",
+      "code": 2836
+    },
+    {
+      "name": "Volgograd Oblast",
+      "code": 3182
+    },
+    {
+      "name": "Rostov Oblast",
+      "code": 2491
+    },
+    {
+      "name": "Stavropol Kray",
+      "code": 2806
+    },
+    {
+      "name": "St.-Petersburg",
+      "code": 2787
+    },
+    {
+      "name": "Lipetsk Oblast",
+      "code": 1533
+    },
+    {
+      "name": "Moscow",
+      "code": 1796
+    },
+    {
+      "name": "Novgorod Oblast",
+      "code": 1999
+    },
+    {
+      "name": "Chelyabinsk Oblast",
+      "code": 540
+    },
+    {
+      "name": "Nizhny Novgorod Oblast",
+      "code": 1928
+    },
+    {
+      "name": "Komi",
+      "code": 1394
+    },
+    {
+      "name": "Mordoviya Republic",
+      "code": 1791
+    },
+    {
+      "name": "Amur Oblast",
+      "code": 107
+    },
+    {
+      "name": "Tatarstan Republic",
+      "code": 2908
+    },
+    {
+      "name": "Sakha",
+      "code": 2562
+    },
+    {
+      "name": "Krasnoyarsk Krai",
+      "code": 1419
+    },
+    {
+      "name": "Primorye",
+      "code": 2300
+    },
+    {
+      "name": "Krasnodar Krai",
+      "code": 1418
+    },
+    {
+      "name": "Bashkortostan Republic",
+      "code": 263
+    },
+    {
+      "name": "Kaluga Oblast",
+      "code": 1270
+    },
+    {
+      "name": "Khanty-Mansia",
+      "code": 1344
+    },
+    {
+      "name": "Samara Oblast",
+      "code": 2577
+    },
+    {
+      "name": "Kaliningrad Oblast",
+      "code": 1267
+    },
+    {
+      "name": "Belgorod Oblast",
+      "code": 291
+    },
+    {
+      "name": "Moscow Oblast",
+      "code": 1797
+    },
+    {
+      "name": "Vladimir Oblast",
+      "code": 3177
+    },
+    {
+      "name": "Magadan Oblast",
+      "code": 1609
+    },
+    {
+      "name": "Leningrad Oblast",
+      "code": 1509
+    },
+    {
+      "name": "Voronezh Oblast",
+      "code": 3187
+    },
+    {
+      "name": "Buryatiya Republic",
+      "code": 419
+    },
+    {
+      "name": "Novosibirsk Oblast",
+      "code": 2001
+    },
+    {
+      "name": "Khakasiya Republic",
+      "code": 1341
+    },
+    {
+      "name": "Omsk Oblast",
+      "code": 2124
+    },
+    {
+      "name": "Saratov Oblast",
+      "code": 2619
+    },
+    {
+      "name": "Tula Oblast",
+      "code": 3060
+    },
+    {
+      "name": "Udmurtiya Republic",
+      "code": 3081
+    },
+    {
+      "name": "Oryol oblast",
+      "code": 2150
+    },
+    {
+      "name": "Tver Oblast",
+      "code": 3071
+    },
+    {
+      "name": "Kamchatka",
+      "code": 1271
+    },
+    {
+      "name": "Penza Oblast",
+      "code": 2219
+    },
+    {
+      "name": "Smolensk Oblast",
+      "code": 2721
+    },
+    {
+      "name": "Khabarovsk",
+      "code": 1339
+    },
+    {
+      "name": "Kostroma Oblast",
+      "code": 1404
+    },
+    {
+      "name": "Yamalo-Nenets",
+      "code": 3265
+    },
+    {
+      "name": "Tambov Oblast",
+      "code": 2881
+    },
+    {
+      "name": "Kabardino-Balkariya Republic",
+      "code": 1252
+    },
+    {
+      "name": "Karelia",
+      "code": 1299
+    },
+    {
+      "name": "Chuvash Republic",
+      "code": 9096992
+    },
+    {
+      "name": "Ulyanovsk Oblast",
+      "code": 3088
+    },
+    {
+      "name": "Ryazan Oblast",
+      "code": 2502
+    },
+    {
+      "name": "Kurgan Oblast",
+      "code": 1436
+    },
+    {
+      "name": "Mariy-El Republic",
+      "code": 1666
+    },
+    {
+      "name": "Kirov Oblast",
+      "code": 1374
+    },
+    {
+      "name": "Pskov Oblast",
+      "code": 2367
+    },
+    {
+      "name": "Adygeya Republic",
+      "code": 24
+    },
+    {
+      "name": "Transbaikal Territory",
+      "code": 3029
+    },
+    {
+      "name": "Murmansk",
+      "code": 1828
+    },
+    {
+      "name": "Kursk Oblast",
+      "code": 1437
+    },
+    {
+      "name": "Bryansk Oblast",
+      "code": 396
+    },
+    {
+      "name": "Ivanovo Oblast",
+      "code": 1194
+    },
+    {
+      "name": "Tomsk Oblast",
+      "code": 3016
+    },
+    {
+      "name": "Yaroslavl Oblast",
+      "code": 3272
+    },
+    {
+      "name": "Orenburg Oblast",
+      "code": 2144
+    },
+    {
+      "name": "Dagestan",
+      "code": 648
+    },
+    {
+      "name": "Sakhalin Oblast",
+      "code": 2563
+    },
+    {
+      "name": "Ingushetiya Republic",
+      "code": 1169
+    },
+    {
+      "name": "Republic of Tyva",
+      "code": 2451
+    },
+    {
+      "name": "Astrakhan Oblast",
+      "code": 174
+    },
+    {
+      "name": "Chechnya",
+      "code": 539
+    },
+    {
+      "name": "Altai",
+      "code": 95
+    },
+    {
+      "name": "North Ossetia–Alania",
+      "code": 1963
+    },
+    {
+      "name": "Kalmykiya Republic",
+      "code": 1269
+    },
+    {
+      "name": "Arkhangelskaya",
+      "code": 158
+    },
+    {
+      "name": "Yevrey (Jewish) Autonomous Oblast",
+      "code": 3278
+    },
+    {
+      "name": "Nenets",
+      "code": 1892
+    },
+    {
+      "name": "Karachayevo-Cherkesiya Republic",
+      "code": 1291
+    }
+  ],
+  "RW": [
+    {
+      "name": "Kigali",
+      "code": 1362
+    },
+    {
+      "name": "Southern Province",
+      "code": 2778
+    }
+  ],
+  "SA": [
+    {
+      "name": "Eastern Province",
+      "code": 827
+    },
+    {
+      "name": "Ha'il Region",
+      "code": 1034
+    },
+    {
+      "name": "Riyadh Region",
+      "code": 2479
+    },
+    {
+      "name": "Mecca Region",
+      "code": 1707
+    },
+    {
+      "name": "Medina Region",
+      "code": 1711
+    },
+    {
+      "name": "Northern Borders Region",
+      "code": 1980
+    },
+    {
+      "name": "Al-Qassim Region",
+      "code": 77
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "'Asir Region",
+      "code": 1
+    },
+    {
+      "name": "Tabuk Region",
+      "code": 2857
+    }
+  ],
+  "SC": [
+    {
+      "name": "La Rivière Anglaise",
+      "code": 9097127
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Baie Sainte Anne",
+      "code": 217
+    }
+  ],
+  "SD": [
+    {
+      "name": "Khartoum",
+      "code": 1346
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "SE": [
+    {
+      "name": "Stockholm County",
+      "code": 2807
+    },
+    {
+      "name": "Jönköping",
+      "code": 1248
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Västra Götaland County",
+      "code": 3199
+    },
+    {
+      "name": "Skåne County",
+      "code": 2714
+    },
+    {
+      "name": "Östergötland County",
+      "code": 3335
+    },
+    {
+      "name": "Västernorrland County",
+      "code": 3197
+    },
+    {
+      "name": "Norrbotten County",
+      "code": 1940
+    },
+    {
+      "name": "Södermanland County",
+      "code": 2852
+    },
+    {
+      "name": "Värmland County",
+      "code": 3195
+    },
+    {
+      "name": "Uppsala County",
+      "code": 3098
+    },
+    {
+      "name": "Örebro County",
+      "code": 3334
+    },
+    {
+      "name": "Dalarna County",
+      "code": 653
+    },
+    {
+      "name": "Kronoberg County",
+      "code": 1423
+    },
+    {
+      "name": "Blekinge County",
+      "code": 336
+    },
+    {
+      "name": "Gävleborg County",
+      "code": 1032
+    },
+    {
+      "name": "Halland County",
+      "code": 1047
+    },
+    {
+      "name": "Västmanland County",
+      "code": 3198
+    },
+    {
+      "name": "Västerbotten County",
+      "code": 3196
+    },
+    {
+      "name": "Kalmar",
+      "code": 1268
+    },
+    {
+      "name": "Jämtland County",
+      "code": 1245
+    }
+  ],
+  "SG": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "SH": [
+    {
+      "name": "Saint Helena",
+      "code": 2532
+    }
+  ],
+  "SI": [
+    {
+      "name": "Maribor City Municipality",
+      "code": 9097156
+    },
+    {
+      "name": "Ljubljana",
+      "code": 1539
+    },
+    {
+      "name": "Preddvor",
+      "code": 2294
+    },
+    {
+      "name": "Mestna Občina Novo mesto",
+      "code": 10277404
+    },
+    {
+      "name": "Koper",
+      "code": 1399
+    },
+    {
+      "name": "Murska Sobota",
+      "code": 1829
+    },
+    {
+      "name": "Občina Bovec",
+      "code": 11536365
+    },
+    {
+      "name": "Občina Rogaška Slatina",
+      "code": 10593739
+    },
+    {
+      "name": "Občina Rače-Fram",
+      "code": 10707158
+    },
+    {
+      "name": "Kostanjevica na Krki",
+      "code": 1402
+    },
+    {
+      "name": "Postojna",
+      "code": 2283
+    },
+    {
+      "name": "Občina Bled",
+      "code": 11431388
+    },
+    {
+      "name": "Polzela",
+      "code": 2270
+    },
+    {
+      "name": "Občina Domžale",
+      "code": 9475287
+    },
+    {
+      "name": "Velenje",
+      "code": 3139
+    },
+    {
+      "name": "Slovenj Gradec",
+      "code": 2716
+    },
+    {
+      "name": "Kranj",
+      "code": 1415
+    },
+    {
+      "name": "Dobrova-Polhov Gradec",
+      "code": 783
+    },
+    {
+      "name": "Lendava",
+      "code": 1508
+    },
+    {
+      "name": "Grosuplje",
+      "code": 1004
+    },
+    {
+      "name": "Nova Gorica",
+      "code": 1997
+    },
+    {
+      "name": "Ptuj",
+      "code": 2368
+    },
+    {
+      "name": "Ajdovščina Municipality",
+      "code": 9096897
+    },
+    {
+      "name": "Idrija",
+      "code": 1132
+    },
+    {
+      "name": "Radenci",
+      "code": 2409
+    },
+    {
+      "name": "Občina Sežana",
+      "code": 10587119
+    },
+    {
+      "name": "Celje",
+      "code": 487
+    },
+    {
+      "name": "Litija",
+      "code": 1536
+    },
+    {
+      "name": "Občina Kidričevo",
+      "code": 12222125
+    },
+    {
+      "name": "Oplotnica Municipality",
+      "code": 9097216
+    },
+    {
+      "name": "Trzin",
+      "code": 3050
+    },
+    {
+      "name": "Kamnik",
+      "code": 1272
+    },
+    {
+      "name": "Slovenska Bistrica",
+      "code": 2717
+    },
+    {
+      "name": "Slovenske Konjice",
+      "code": 2718
+    },
+    {
+      "name": "Sveta Trojica v Slovenskih Goricah",
+      "code": 2837
+    },
+    {
+      "name": "Občina Starše",
+      "code": 11865533
+    },
+    {
+      "name": "Mozirje",
+      "code": 1804
+    },
+    {
+      "name": "Naklo",
+      "code": 1862
+    },
+    {
+      "name": "Občina Brežice",
+      "code": 10568995
+    },
+    {
+      "name": "Zagorje ob Savi Municipality",
+      "code": 9097411
+    },
+    {
+      "name": "Občina Tišina",
+      "code": 11995937
+    },
+    {
+      "name": "Cerkvenjak",
+      "code": 521
+    },
+    {
+      "name": "Ribnica na Pohorju",
+      "code": 2466
+    },
+    {
+      "name": "Krško",
+      "code": 9097120
+    },
+    {
+      "name": "Občina Tolmin",
+      "code": -1
+    },
+    {
+      "name": "Občina Rogašovci",
+      "code": 12544073
+    },
+    {
+      "name": "Črnomelj Municipality",
+      "code": 9097424
+    },
+    {
+      "name": "Občina Šenčur",
+      "code": 10453768
+    },
+    {
+      "name": "Dravograd",
+      "code": 796
+    },
+    {
+      "name": "Škofja Loka",
+      "code": 3348
+    },
+    {
+      "name": "Sentjur",
+      "code": 2648
+    },
+    {
+      "name": "Hajdina",
+      "code": 1042
+    },
+    {
+      "name": "Pivka",
+      "code": 2249
+    },
+    {
+      "name": "Občina Hoče-Slivnica",
+      "code": 10360780
+    },
+    {
+      "name": "Lukovica",
+      "code": 1583
+    },
+    {
+      "name": "Logatec",
+      "code": 1546
+    },
+    {
+      "name": "Ljutomer",
+      "code": 1541
+    },
+    {
+      "name": "Občina Ivančna Gorica",
+      "code": 9844449
+    },
+    {
+      "name": "Občina Sveti Tomaž",
+      "code": -1
+    },
+    {
+      "name": "Selnica ob Dravi",
+      "code": 2645
+    },
+    {
+      "name": "Radovljica",
+      "code": 2412
+    },
+    {
+      "name": "Cerknica",
+      "code": 519
+    },
+    {
+      "name": "Občina Ravne na Koroškem",
+      "code": 11476579
+    },
+    {
+      "name": "Mislinja",
+      "code": 1751
+    },
+    {
+      "name": "Horjul",
+      "code": 1105
+    },
+    {
+      "name": "Duplek",
+      "code": 803
+    },
+    {
+      "name": "Občina Črenšovci",
+      "code": 12622339
+    },
+    {
+      "name": "Piran",
+      "code": 2245
+    },
+    {
+      "name": "Zreče Municipality",
+      "code": 9097420
+    },
+    {
+      "name": "Občina Divača",
+      "code": 12271696
+    },
+    {
+      "name": "Trebnje",
+      "code": 3036
+    },
+    {
+      "name": "Izola",
+      "code": 1203
+    },
+    {
+      "name": "Trbovlje",
+      "code": 3035
+    },
+    {
+      "name": "Mirna",
+      "code": 1749
+    },
+    {
+      "name": "Muta",
+      "code": 1833
+    },
+    {
+      "name": "Občina Miklavž na Dravskem Polju",
+      "code": 10353821
+    },
+    {
+      "name": "Laško Municipality",
+      "code": 9097133
+    },
+    {
+      "name": "Občina Žalec",
+      "code": 11424472
+    },
+    {
+      "name": "Beltinci",
+      "code": 294
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Mokronog-Trebelno Municipality",
+      "code": 9097171
+    },
+    {
+      "name": "Markovci",
+      "code": 1668
+    },
+    {
+      "name": "Medvode",
+      "code": 1712
+    },
+    {
+      "name": "Jesenice",
+      "code": 1226
+    }
+  ],
+  "SK": [
+    {
+      "name": "Banská Bystrica Region",
+      "code": 9096929
+    },
+    {
+      "name": "Trenčín Region",
+      "code": 9097363
+    },
+    {
+      "name": "Žilina Region",
+      "code": 9097432
+    },
+    {
+      "name": "Nitra Region",
+      "code": 9097204
+    },
+    {
+      "name": "Košice Region",
+      "code": 9097117
+    },
+    {
+      "name": "Bratislava Region",
+      "code": 9096951
+    },
+    {
+      "name": "Trnava Region",
+      "code": 9097364
+    },
+    {
+      "name": "Prešov Region",
+      "code": 9097246
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "SL": [
+    {
+      "name": "Western Area",
+      "code": 3236
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Eastern Province",
+      "code": 827
+    }
+  ],
+  "SM": [
+    {
+      "name": "Castello di San Marino Città",
+      "code": 10743077
+    },
+    {
+      "name": "Castello di Domagnano",
+      "code": 475
+    }
+  ],
+  "SN": [
+    {
+      "name": "Dakar",
+      "code": 651
+    },
+    {
+      "name": "Fatick",
+      "code": 885
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Région de Thiès",
+      "code": 10371954
+    },
+    {
+      "name": "Kolda",
+      "code": 1390
+    }
+  ],
+  "SO": [
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Banaadir",
+      "code": 240
+    },
+    {
+      "name": "Woqooyi Galbeed",
+      "code": 3253
+    },
+    {
+      "name": "Hiiraan",
+      "code": 1091
+    },
+    {
+      "name": "Bari",
+      "code": 252
+    }
+  ],
+  "SR": [
+    {
+      "name": "Paramaribo District",
+      "code": 9097225
+    },
+    {
+      "name": "Nickerie District",
+      "code": 9097197
+    }
+  ],
+  "SS": [
+    {
+      "name": "Central Equatoria",
+      "code": 495
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "ST": [
+    {
+      "name": "Agua Grande",
+      "code": 33
+    }
+  ],
+  "SV": [
+    {
+      "name": "San Salvador Department",
+      "code": 9097299
+    },
+    {
+      "name": "Santa Ana Department",
+      "code": 9097305
+    },
+    {
+      "name": "San Miguel Department",
+      "code": 9097296
+    },
+    {
+      "name": "La Libertad Department",
+      "code": 9097126
+    },
+    {
+      "name": "Departamento de Usulután",
+      "code": 10147675
+    }
+  ],
+  "SX": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "SY": [
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Damascus Governorate",
+      "code": 654
+    },
+    {
+      "name": "Homs Governorate",
+      "code": 1102
+    },
+    {
+      "name": "Latakia Governorate",
+      "code": 1496
+    },
+    {
+      "name": "Tartus Governorate",
+      "code": 2900
+    },
+    {
+      "name": "Idlib Governorate",
+      "code": 1131
+    },
+    {
+      "name": "Hama Governorate",
+      "code": 1048
+    },
+    {
+      "name": "Rif-dimashq",
+      "code": 2467
+    },
+    {
+      "name": "Aleppo Governorate",
+      "code": 86
+    }
+  ],
+  "SZ": [
+    {
+      "name": "Manzini Region",
+      "code": 9097153
+    },
+    {
+      "name": "Hhohho Region",
+      "code": 9097064
+    }
+  ],
+  "TC": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "TD": [
+    {
+      "name": "Chari-Baguirmi Region",
+      "code": 537
+    },
+    {
+      "name": "Lac Region",
+      "code": 1478
+    }
+  ],
+  "TG": [
+    {
+      "name": "Maritime",
+      "code": 1665
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Centrale",
+      "code": 511
+    }
+  ],
+  "TH": [
+    {
+      "name": "Bangkok",
+      "code": 242
+    },
+    {
+      "name": "Nakhon Ratchasima",
+      "code": 1859
+    },
+    {
+      "name": "Tak",
+      "code": 2871
+    },
+    {
+      "name": "Khon Kaen",
+      "code": 1351
+    },
+    {
+      "name": "Chiang Mai",
+      "code": 545
+    },
+    {
+      "name": "Pathum Thani",
+      "code": 2200
+    },
+    {
+      "name": "Prachuap Khiri Khan",
+      "code": 2287
+    },
+    {
+      "name": "Phuket",
+      "code": 2241
+    },
+    {
+      "name": "Nakhon Si Thammarat",
+      "code": 1861
+    },
+    {
+      "name": "Samut Prakan",
+      "code": 2585
+    },
+    {
+      "name": "Nonthaburi",
+      "code": 1934
+    },
+    {
+      "name": "Nakhon Pathom",
+      "code": 1857
+    },
+    {
+      "name": "Krabi",
+      "code": 1412
+    },
+    {
+      "name": "Chon Buri",
+      "code": 565
+    },
+    {
+      "name": "Songkhla",
+      "code": 2733
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Uttaradit",
+      "code": 3106
+    },
+    {
+      "name": "Phitsanulok",
+      "code": 2236
+    },
+    {
+      "name": "Saraburi",
+      "code": 2617
+    },
+    {
+      "name": "Nan",
+      "code": 1868
+    },
+    {
+      "name": "Rayong",
+      "code": 2431
+    },
+    {
+      "name": "Nakhon Sawan",
+      "code": 1860
+    },
+    {
+      "name": "Phra Nakhon Si Ayutthaya",
+      "code": 2239
+    },
+    {
+      "name": "Chachoengsao",
+      "code": 526
+    },
+    {
+      "name": "Sakon Nakhon",
+      "code": 2564
+    },
+    {
+      "name": "Udon Thani",
+      "code": 3082
+    },
+    {
+      "name": "Surin",
+      "code": 2831
+    },
+    {
+      "name": "Yala",
+      "code": 3261
+    },
+    {
+      "name": "Si Sa Ket",
+      "code": 2683
+    },
+    {
+      "name": "Sing Buri",
+      "code": 2704
+    },
+    {
+      "name": "Ubon Ratchathani",
+      "code": 3079
+    },
+    {
+      "name": "Samut Sakhon",
+      "code": 2586
+    },
+    {
+      "name": "Sa Kaeo",
+      "code": 2505
+    },
+    {
+      "name": "Uthai Thani",
+      "code": 3103
+    },
+    {
+      "name": "Loei",
+      "code": 1544
+    },
+    {
+      "name": "Lampang",
+      "code": 1487
+    },
+    {
+      "name": "Chanthaburi",
+      "code": 536
+    },
+    {
+      "name": "Phetchabun",
+      "code": 2233
+    },
+    {
+      "name": "Ratchaburi",
+      "code": 2430
+    },
+    {
+      "name": "Maha Sarakham",
+      "code": 1611
+    },
+    {
+      "name": "Pattani",
+      "code": 2201
+    },
+    {
+      "name": "Surat Thani",
+      "code": 2830
+    },
+    {
+      "name": "Kamphaeng Phet",
+      "code": 1273
+    },
+    {
+      "name": "Kanchanaburi",
+      "code": 1280
+    },
+    {
+      "name": "Narathiwat",
+      "code": 1877
+    },
+    {
+      "name": "Chiang Rai",
+      "code": 546
+    },
+    {
+      "name": "Nakhon Phanom",
+      "code": 1858
+    },
+    {
+      "name": "Mukdahan",
+      "code": 1820
+    },
+    {
+      "name": "Phichit",
+      "code": 2235
+    },
+    {
+      "name": "Lopburi",
+      "code": 1553
+    },
+    {
+      "name": "Nakhon Nayok",
+      "code": 1856
+    },
+    {
+      "name": "Nong Khai",
+      "code": 1933
+    },
+    {
+      "name": "Suphan Buri",
+      "code": 9097337
+    },
+    {
+      "name": "Roi Et",
+      "code": 2485
+    },
+    {
+      "name": "Trang",
+      "code": 3027
+    },
+    {
+      "name": "Sukhothai",
+      "code": 2824
+    },
+    {
+      "name": "Lamphun",
+      "code": 1488
+    },
+    {
+      "name": "Ang Thong",
+      "code": 121
+    },
+    {
+      "name": "Chaiyaphum",
+      "code": 532
+    },
+    {
+      "name": "Phatthalung",
+      "code": 2231
+    },
+    {
+      "name": "Satun",
+      "code": 2627
+    },
+    {
+      "name": "Phetchaburi",
+      "code": 2234
+    },
+    {
+      "name": "Prachin Buri",
+      "code": 2286
+    },
+    {
+      "name": "Kalasin",
+      "code": 1266
+    },
+    {
+      "name": "Yasothon",
+      "code": 3273
+    },
+    {
+      "name": "Buriram",
+      "code": 416
+    },
+    {
+      "name": "Phayao",
+      "code": 2232
+    },
+    {
+      "name": "Samut Songkhram",
+      "code": 2587
+    },
+    {
+      "name": "Phang Nga",
+      "code": 2230
+    },
+    {
+      "name": "Phrae",
+      "code": 2240
+    },
+    {
+      "name": "Amnat Charoen",
+      "code": 106
+    },
+    {
+      "name": "Chai Nat",
+      "code": 531
+    }
+  ],
+  "TJ": [
+    {
+      "name": "Dushanbe",
+      "code": 807
+    },
+    {
+      "name": "Gorno-Badakhshan",
+      "code": 976
+    },
+    {
+      "name": "Viloyati Sughd",
+      "code": 3168
+    },
+    {
+      "name": "Republican Subordination",
+      "code": 2452
+    }
+  ],
+  "TL": [
+    {
+      "name": "Dili Municipality",
+      "code": 9097013
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Cova Lima",
+      "code": 628
+    }
+  ],
+  "TM": [
+    {
+      "name": "Ashgabat",
+      "code": 169
+    },
+    {
+      "name": "Ahal",
+      "code": 36
+    },
+    {
+      "name": "Daşoguz Welaýaty",
+      "code": 13013422
+    }
+  ],
+  "TN": [
+    {
+      "name": "Tunis Governorate",
+      "code": 3067
+    },
+    {
+      "name": "Sousse Governorate",
+      "code": 2740
+    },
+    {
+      "name": "Nabeul Governorate",
+      "code": 1847
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Jendouba Governorate",
+      "code": 1219
+    },
+    {
+      "name": "Gafsa",
+      "code": 916
+    },
+    {
+      "name": "Zaghouan Governorate",
+      "code": 3291
+    },
+    {
+      "name": "Ben Arous Governorate",
+      "code": 295
+    },
+    {
+      "name": "Manouba",
+      "code": 1649
+    },
+    {
+      "name": "Sfax Governorate",
+      "code": 2655
+    },
+    {
+      "name": "Medenine Governorate",
+      "code": 1710
+    },
+    {
+      "name": "Kairouan",
+      "code": 1262
+    },
+    {
+      "name": "Mahdia Governorate",
+      "code": 1614
+    },
+    {
+      "name": "Ariana Governorate",
+      "code": 154
+    },
+    {
+      "name": "Bizerte Governorate",
+      "code": 331
+    },
+    {
+      "name": "Monastir Governorate",
+      "code": 1775
+    },
+    {
+      "name": "Tataouine",
+      "code": 2907
+    },
+    {
+      "name": "Sidi Bouzid Governorate",
+      "code": 2690
+    },
+    {
+      "name": "Siliana Governorate",
+      "code": 2699
+    },
+    {
+      "name": "Béja Governorate",
+      "code": 428
+    },
+    {
+      "name": "Kasserine Governorate",
+      "code": 1310
+    },
+    {
+      "name": "Kef Governorate",
+      "code": 1327
+    }
+  ],
+  "TR": [
+    {
+      "name": "Denizli",
+      "code": 676
+    },
+    {
+      "name": "Istanbul",
+      "code": 1190
+    },
+    {
+      "name": "Bursa Province",
+      "code": 417
+    },
+    {
+      "name": "Antalya",
+      "code": 132
+    },
+    {
+      "name": "Ankara",
+      "code": 124
+    },
+    {
+      "name": "İzmir Province",
+      "code": 3338
+    },
+    {
+      "name": "Gaziantep",
+      "code": 934
+    },
+    {
+      "name": "Manisa",
+      "code": 1647
+    },
+    {
+      "name": "Mersin",
+      "code": 1721
+    },
+    {
+      "name": "Adana",
+      "code": 19
+    },
+    {
+      "name": "Samsun",
+      "code": 2582
+    },
+    {
+      "name": "Ordu",
+      "code": 2141
+    },
+    {
+      "name": "Malatya",
+      "code": 1628
+    },
+    {
+      "name": "Şanlıurfa",
+      "code": 3343
+    },
+    {
+      "name": "Van",
+      "code": 3129
+    },
+    {
+      "name": "Konya",
+      "code": 1398
+    },
+    {
+      "name": "Trabzon",
+      "code": 3026
+    },
+    {
+      "name": "Afyonkarahisar Province",
+      "code": 28
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Aydın",
+      "code": 198
+    },
+    {
+      "name": "Kayseri",
+      "code": 1322
+    },
+    {
+      "name": "Hatay",
+      "code": 1062
+    },
+    {
+      "name": "Sinop",
+      "code": 2707
+    },
+    {
+      "name": "Edirne",
+      "code": 832
+    },
+    {
+      "name": "Muğla",
+      "code": 1835
+    },
+    {
+      "name": "Diyarbakır Province",
+      "code": 771
+    },
+    {
+      "name": "Artvin",
+      "code": 163
+    },
+    {
+      "name": "Tekirdağ",
+      "code": 2915
+    },
+    {
+      "name": "Burdur",
+      "code": 413
+    },
+    {
+      "name": "Balıkesir",
+      "code": 237
+    },
+    {
+      "name": "Kocaeli",
+      "code": 1384
+    },
+    {
+      "name": "Elazığ",
+      "code": 843
+    },
+    {
+      "name": "Karabük Province",
+      "code": 1290
+    },
+    {
+      "name": "Rize Province",
+      "code": 2480
+    },
+    {
+      "name": "Sakarya",
+      "code": 2561
+    },
+    {
+      "name": "Osmaniye",
+      "code": 2156
+    },
+    {
+      "name": "Eskişehir",
+      "code": 865
+    },
+    {
+      "name": "Tokat Province",
+      "code": 9097359
+    },
+    {
+      "name": "Canakkale",
+      "code": 448
+    },
+    {
+      "name": "Bolu",
+      "code": 351
+    },
+    {
+      "name": "Zonguldak Province",
+      "code": 9097419
+    },
+    {
+      "name": "Çorum",
+      "code": 3329
+    },
+    {
+      "name": "Mardin",
+      "code": 1661
+    },
+    {
+      "name": "Siirt",
+      "code": 2694
+    },
+    {
+      "name": "Erzincan",
+      "code": 860
+    },
+    {
+      "name": "Düzce",
+      "code": 9097020
+    },
+    {
+      "name": "Bartın",
+      "code": 257
+    },
+    {
+      "name": "Şırnak",
+      "code": 3346
+    },
+    {
+      "name": "Çankırı",
+      "code": 3328
+    },
+    {
+      "name": "Kütahya",
+      "code": 1456
+    },
+    {
+      "name": "Kilis",
+      "code": 1366
+    },
+    {
+      "name": "Ağrı",
+      "code": 206
+    },
+    {
+      "name": "Sivas",
+      "code": 2712
+    },
+    {
+      "name": "Kastamonu",
+      "code": 1311
+    },
+    {
+      "name": "Batman",
+      "code": 270
+    },
+    {
+      "name": "Erzurum",
+      "code": 861
+    },
+    {
+      "name": "Kırklareli",
+      "code": 1457
+    },
+    {
+      "name": "Nevşehir Province",
+      "code": 1896
+    },
+    {
+      "name": "Bilecik",
+      "code": 318
+    },
+    {
+      "name": "Yozgat",
+      "code": 3283
+    },
+    {
+      "name": "Uşak",
+      "code": 3112
+    },
+    {
+      "name": "Aksaray",
+      "code": 46
+    },
+    {
+      "name": "Niğde Province",
+      "code": 1929
+    },
+    {
+      "name": "Kahramanmaraş",
+      "code": 1260
+    },
+    {
+      "name": "Giresun",
+      "code": 953
+    },
+    {
+      "name": "Amasya",
+      "code": 101
+    },
+    {
+      "name": "Karaman",
+      "code": 1295
+    },
+    {
+      "name": "Yalova",
+      "code": 3262
+    },
+    {
+      "name": "Kırıkkale",
+      "code": 1458
+    },
+    {
+      "name": "Adıyaman Province",
+      "code": 25
+    },
+    {
+      "name": "Kırşehir",
+      "code": 1459
+    },
+    {
+      "name": "Bingöl",
+      "code": 319
+    },
+    {
+      "name": "Tunceli",
+      "code": 3065
+    },
+    {
+      "name": "Bitlis",
+      "code": 329
+    },
+    {
+      "name": "Isparta",
+      "code": 1188
+    },
+    {
+      "name": "Iğdır",
+      "code": 1204
+    },
+    {
+      "name": "Gümüşhane Province",
+      "code": 1033
+    },
+    {
+      "name": "Bayburt Province",
+      "code": 282
+    },
+    {
+      "name": "Kars Province",
+      "code": 1305
+    },
+    {
+      "name": "Muş",
+      "code": 1836
+    },
+    {
+      "name": "Ardahan",
+      "code": 151
+    },
+    {
+      "name": "Hakkâri",
+      "code": 1044
+    }
+  ],
+  "TT": [
+    {
+      "name": "San Fernando",
+      "code": 2589
+    },
+    {
+      "name": "Port of Spain",
+      "code": 2277
+    },
+    {
+      "name": "Chaguanas",
+      "code": 529
+    },
+    {
+      "name": "Tunapuna/Piarco",
+      "code": 3064
+    },
+    {
+      "name": "San Juan/Laventille",
+      "code": 2592
+    },
+    {
+      "name": "Couva-Tabaquite-Talparo",
+      "code": 627
+    },
+    {
+      "name": "Borough of Arima",
+      "code": 366
+    },
+    {
+      "name": "Sangre Grande Regional Corporation",
+      "code": 9097303
+    },
+    {
+      "name": "Penal/Debe",
+      "code": 2214
+    },
+    {
+      "name": "Mayaro",
+      "code": 1698
+    },
+    {
+      "name": "Princes Town",
+      "code": 2302
+    },
+    {
+      "name": "Siparia Regional Corporation",
+      "code": 9097322
+    },
+    {
+      "name": "Point Fortin",
+      "code": 2266
+    },
+    {
+      "name": "Diego Martin Regional Corporation",
+      "code": 9097012
+    },
+    {
+      "name": "Tobago",
+      "code": 3006
+    }
+  ],
+  "TW": [
+    {
+      "name": "Kaohsiung",
+      "code": 1287
+    },
+    {
+      "name": "Taipei City",
+      "code": 2868
+    },
+    {
+      "name": "New Taipei City",
+      "code": 9101153
+    },
+    {
+      "name": "Taichung City",
+      "code": 2866
+    },
+    {
+      "name": "Chiayi",
+      "code": 548
+    },
+    {
+      "name": "Taitung",
+      "code": 2870
+    },
+    {
+      "name": "Changhua",
+      "code": 535
+    },
+    {
+      "name": "Hsinchu City",
+      "code": 9097068
+    },
+    {
+      "name": "Taoyuan",
+      "code": 2890
+    },
+    {
+      "name": "Nantou",
+      "code": 1873
+    },
+    {
+      "name": "Yilan County",
+      "code": 9097408
+    },
+    {
+      "name": "Tainan",
+      "code": 2867
+    },
+    {
+      "name": "Yunlin",
+      "code": 3287
+    },
+    {
+      "name": "Hsinchu County",
+      "code": 1112
+    },
+    {
+      "name": "Pingtung",
+      "code": 2244
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Miaoli",
+      "code": 1727
+    },
+    {
+      "name": "Chiyayi County",
+      "code": 9262012
+    },
+    {
+      "name": "Keelung City",
+      "code": 9097103
+    },
+    {
+      "name": "Hualien County",
+      "code": 9097069
+    },
+    {
+      "name": "Penghu County",
+      "code": 2217
+    },
+    {
+      "name": "Kinmen County",
+      "code": 1369
+    },
+    {
+      "name": "Lienchiang County",
+      "code": 9097134
+    }
+  ],
+  "TZ": [
+    {
+      "name": "Dar es Salaam Region",
+      "code": 658
+    },
+    {
+      "name": "Zanzibar Urban/West",
+      "code": 3305
+    },
+    {
+      "name": "Arusha",
+      "code": 165
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Mwanza",
+      "code": 1837
+    },
+    {
+      "name": "Tanga",
+      "code": 2885
+    },
+    {
+      "name": "Mara",
+      "code": 1656
+    },
+    {
+      "name": "Dodoma",
+      "code": 785
+    },
+    {
+      "name": "Shinyanga",
+      "code": 2675
+    },
+    {
+      "name": "Lindi",
+      "code": 1531
+    },
+    {
+      "name": "Tabora",
+      "code": 2856
+    }
+  ],
+  "UA": [
+    {
+      "name": "Dnipropetrovsk Oblast",
+      "code": 777
+    },
+    {
+      "name": "Vinnytsia",
+      "code": 3170
+    },
+    {
+      "name": "Crimea",
+      "code": 631
+    },
+    {
+      "name": "Odessa",
+      "code": 2101
+    },
+    {
+      "name": "Volyn",
+      "code": 3185
+    },
+    {
+      "name": "Kyiv City",
+      "code": 1450
+    },
+    {
+      "name": "Lviv",
+      "code": 1590
+    },
+    {
+      "name": "Zaporizhzhia",
+      "code": 3306
+    },
+    {
+      "name": "Zhytomyr",
+      "code": 3316
+    },
+    {
+      "name": "Kirovohrad Oblast",
+      "code": 1375
+    },
+    {
+      "name": "Rivne",
+      "code": 2478
+    },
+    {
+      "name": "Donetsk",
+      "code": 791
+    },
+    {
+      "name": "Sebastopol City",
+      "code": 2641
+    },
+    {
+      "name": "Ivano-Frankivsk Oblast",
+      "code": 1193
+    },
+    {
+      "name": "Kharkivs’ka Oblast’",
+      "code": 9098551
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Khmelnytskyi Oblast",
+      "code": 1349
+    },
+    {
+      "name": "Kyiv Oblast",
+      "code": 1451
+    },
+    {
+      "name": "Ternopil Oblast",
+      "code": 2925
+    },
+    {
+      "name": "Zakarpattia Oblast",
+      "code": 3295
+    },
+    {
+      "name": "Chernivtsi",
+      "code": 543
+    },
+    {
+      "name": "Luhansk",
+      "code": 1582
+    },
+    {
+      "name": "Poltava Oblast",
+      "code": 2269
+    },
+    {
+      "name": "Mykolaiv",
+      "code": 1839
+    },
+    {
+      "name": "Cherkasy Oblast",
+      "code": 541
+    },
+    {
+      "name": "Sumy",
+      "code": 2828
+    },
+    {
+      "name": "Chernihiv",
+      "code": 542
+    },
+    {
+      "name": "Kherson Oblast",
+      "code": 1348
+    }
+  ],
+  "UG": [
+    {
+      "name": "Central Region",
+      "code": 506
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "US": [
+    {
+      "name": "Georgia",
+      "code": 941
+    },
+    {
+      "name": "Florida",
+      "code": 898
+    },
+    {
+      "name": "Michigan",
+      "code": 1728
+    },
+    {
+      "name": "Indiana",
+      "code": 1168
+    },
+    {
+      "name": "Tennessee",
+      "code": 2923
+    },
+    {
+      "name": "Idaho",
+      "code": 1130
+    },
+    {
+      "name": "Illinois",
+      "code": 1154
+    },
+    {
+      "name": "Texas",
+      "code": 2928
+    },
+    {
+      "name": "California",
+      "code": 443
+    },
+    {
+      "name": "Alabama",
+      "code": 79
+    },
+    {
+      "name": "Maryland",
+      "code": 1675
+    },
+    {
+      "name": "New Jersey",
+      "code": 1900
+    },
+    {
+      "name": "Utah",
+      "code": 3101
+    },
+    {
+      "name": "New York",
+      "code": 1906
+    },
+    {
+      "name": "South Carolina",
+      "code": 2745
+    },
+    {
+      "name": "West Virginia",
+      "code": 3234
+    },
+    {
+      "name": "Louisiana",
+      "code": 1561
+    },
+    {
+      "name": "Virginia",
+      "code": 3173
+    },
+    {
+      "name": "Ohio",
+      "code": 2111
+    },
+    {
+      "name": "Oklahoma",
+      "code": 2117
+    },
+    {
+      "name": "Pennsylvania",
+      "code": 2218
+    },
+    {
+      "name": "North Carolina",
+      "code": 1949
+    },
+    {
+      "name": "Arizona",
+      "code": 155
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Mississippi",
+      "code": 1752
+    },
+    {
+      "name": "Kentucky",
+      "code": 1330
+    },
+    {
+      "name": "Colorado",
+      "code": 596
+    },
+    {
+      "name": "Nebraska",
+      "code": 1888
+    },
+    {
+      "name": "District of Columbia",
+      "code": 759
+    },
+    {
+      "name": "Massachusetts",
+      "code": 1684
+    },
+    {
+      "name": "Connecticut",
+      "code": 603
+    },
+    {
+      "name": "Minnesota",
+      "code": 1742
+    },
+    {
+      "name": "Maine",
+      "code": 1616
+    },
+    {
+      "name": "Washington",
+      "code": 3211
+    },
+    {
+      "name": "Missouri",
+      "code": 1753
+    },
+    {
+      "name": "Iowa",
+      "code": 1175
+    },
+    {
+      "name": "Arkansas",
+      "code": 156
+    },
+    {
+      "name": "Wisconsin",
+      "code": 3250
+    },
+    {
+      "name": "New Mexico",
+      "code": 1901
+    },
+    {
+      "name": "Kansas",
+      "code": 1285
+    },
+    {
+      "name": "Rhode Island",
+      "code": 2459
+    },
+    {
+      "name": "Nevada",
+      "code": 1895
+    },
+    {
+      "name": "New Hampshire",
+      "code": 1898
+    },
+    {
+      "name": "Delaware",
+      "code": 667
+    },
+    {
+      "name": "Oregon",
+      "code": 2142
+    },
+    {
+      "name": "Montana",
+      "code": 1783
+    },
+    {
+      "name": "Vermont",
+      "code": 3147
+    },
+    {
+      "name": "Hawaii",
+      "code": 1072
+    },
+    {
+      "name": "North Dakota",
+      "code": 1952
+    },
+    {
+      "name": "Wyoming",
+      "code": 3255
+    },
+    {
+      "name": "Alaska",
+      "code": 82
+    },
+    {
+      "name": "South Dakota",
+      "code": 2746
+    }
+  ],
+  "UY": [
+    {
+      "name": "Montevideo Department",
+      "code": 1784
+    },
+    {
+      "name": "Maldonado",
+      "code": 1629
+    },
+    {
+      "name": "Rivera Department",
+      "code": 2475
+    },
+    {
+      "name": "Colonia",
+      "code": 595
+    },
+    {
+      "name": "Canelones",
+      "code": 452
+    },
+    {
+      "name": "Salto Department",
+      "code": 2574
+    }
+  ],
+  "UZ": [
+    {
+      "name": "Tashkent",
+      "code": 2903
+    },
+    {
+      "name": "Bukhara",
+      "code": 408
+    },
+    {
+      "name": "Samarqand Region",
+      "code": 2578
+    },
+    {
+      "name": "Xorazm Region",
+      "code": 3260
+    },
+    {
+      "name": "Andijan Region",
+      "code": 117
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Qashqadaryo",
+      "code": 2385
+    },
+    {
+      "name": "Tashkent Region",
+      "code": 2904
+    },
+    {
+      "name": "Navoiy Region",
+      "code": 1882
+    },
+    {
+      "name": "Namangan",
+      "code": 1865
+    }
+  ],
+  "VC": [
+    {
+      "name": "Saint George Parish",
+      "code": 9097279
+    },
+    {
+      "name": "Grenadines Parish",
+      "code": 9097050
+    },
+    {
+      "name": "Saint Andrew Parish",
+      "code": 9097275
+    }
+  ],
+  "VE": [
+    {
+      "name": "Anzoátegui",
+      "code": 135
+    },
+    {
+      "name": "Mérida",
+      "code": 1841
+    },
+    {
+      "name": "Distrito Federal",
+      "code": 770
+    },
+    {
+      "name": "Táchira",
+      "code": 3074
+    },
+    {
+      "name": "Miranda",
+      "code": 1747
+    },
+    {
+      "name": "Delta Amacuro",
+      "code": 670
+    },
+    {
+      "name": "Zulia",
+      "code": 3326
+    },
+    {
+      "name": "Falcón",
+      "code": 880
+    },
+    {
+      "name": "Aragua",
+      "code": 148
+    },
+    {
+      "name": "Bolívar",
+      "code": 352
+    },
+    {
+      "name": "Guárico",
+      "code": 1025
+    },
+    {
+      "name": "Carabobo",
+      "code": 461
+    },
+    {
+      "name": "Nueva Esparta",
+      "code": 2002
+    },
+    {
+      "name": "Monagas",
+      "code": 1774
+    },
+    {
+      "name": "Estado Trujillo",
+      "code": 869
+    },
+    {
+      "name": "Lara",
+      "code": 1494
+    },
+    {
+      "name": "Yaracuy",
+      "code": 3270
+    },
+    {
+      "name": "Portuguesa",
+      "code": 2282
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Sucre",
+      "code": 2817
+    },
+    {
+      "name": "Apure",
+      "code": 141
+    },
+    {
+      "name": "Vargas",
+      "code": 3131
+    },
+    {
+      "name": "Cojedes",
+      "code": 592
+    },
+    {
+      "name": "Barinas",
+      "code": 254
+    }
+  ],
+  "VG": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "VI": [
+    {
+      "name": "Saint Thomas Island",
+      "code": 2555
+    },
+    {
+      "name": "Saint Croix Island",
+      "code": 2524
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Saint John Island",
+      "code": 2536
+    }
+  ],
+  "VN": [
+    {
+      "name": "Hanoi",
+      "code": 1052
+    },
+    {
+      "name": "Ho Chi Minh",
+      "code": 1095
+    },
+    {
+      "name": "Bà Rịa–Vũng Tàu Province",
+      "code": 9096962
+    },
+    {
+      "name": "Da Nang",
+      "code": 643
+    },
+    {
+      "name": "Vĩnh Long Province",
+      "code": 9097396
+    },
+    {
+      "name": "Quảng Ninh",
+      "code": 9097258
+    },
+    {
+      "name": "Thái Nguyên Province",
+      "code": 9097355
+    },
+    {
+      "name": "Phú Thọ Province",
+      "code": 9097235
+    },
+    {
+      "name": "Nam Định Province",
+      "code": 9097184
+    },
+    {
+      "name": "Hà Tĩnh Province",
+      "code": 9097075
+    },
+    {
+      "name": "Yên Bái Province",
+      "code": 9097409
+    },
+    {
+      "name": "Bình Dương Province",
+      "code": 9096963
+    },
+    {
+      "name": "Thanh Hóa Province",
+      "code": 9097353
+    },
+    {
+      "name": "Can Tho",
+      "code": 447
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Haiphong",
+      "code": 1041
+    },
+    {
+      "name": "Long An Povince",
+      "code": 9097140
+    },
+    {
+      "name": "Khánh Hòa Province",
+      "code": 9097108
+    },
+    {
+      "name": "Vĩnh Phúc Province",
+      "code": 9097397
+    },
+    {
+      "name": "Đồng Nai Province",
+      "code": 9097427
+    },
+    {
+      "name": "Bắc Giang Province",
+      "code": 9096967
+    },
+    {
+      "name": "An Giang Province",
+      "code": 9096907
+    },
+    {
+      "name": "Gia Lai Province",
+      "code": 9097044
+    },
+    {
+      "name": "Hòa Bình Province",
+      "code": 9097076
+    },
+    {
+      "name": "Bắc Ninh Province",
+      "code": 9096969
+    },
+    {
+      "name": "Quảng Bình Province",
+      "code": 9097256
+    },
+    {
+      "name": "Kiên Giang Province",
+      "code": 9097113
+    },
+    {
+      "name": "Sơn La Province",
+      "code": 9097342
+    },
+    {
+      "name": "Hải Dương Province",
+      "code": 9097078
+    },
+    {
+      "name": "Sóc Trăng Province",
+      "code": 9097340
+    },
+    {
+      "name": "Thừa Thiên Huế Province",
+      "code": 9097356
+    },
+    {
+      "name": "Bến Tre Province",
+      "code": 9096970
+    },
+    {
+      "name": "Tây Ninh Province",
+      "code": 3075
+    },
+    {
+      "name": "Hưng Yên Province",
+      "code": 9097077
+    },
+    {
+      "name": "Ninh Bình Province",
+      "code": 9097201
+    },
+    {
+      "name": "Nghệ An Province",
+      "code": 9097194
+    },
+    {
+      "name": "Bạc Liêu Province",
+      "code": 9096966
+    },
+    {
+      "name": "Đắk Lắk",
+      "code": 3337
+    },
+    {
+      "name": "Thái Bình Province",
+      "code": 9097354
+    },
+    {
+      "name": "Quảng Nam Province",
+      "code": 9097257
+    },
+    {
+      "name": "Lào Cai Province",
+      "code": 9097145
+    },
+    {
+      "name": "Bắc Kạn Province",
+      "code": 9096968
+    },
+    {
+      "name": "Hà Giang Province",
+      "code": 9097073
+    },
+    {
+      "name": "Cà Mau Province",
+      "code": 9097003
+    },
+    {
+      "name": "Lai Châu Province",
+      "code": 9097132
+    },
+    {
+      "name": "Quảng Ngãi Province",
+      "code": 2405
+    },
+    {
+      "name": "Hậu Giang",
+      "code": 1122
+    },
+    {
+      "name": "Phú Yên Province",
+      "code": 9097236
+    },
+    {
+      "name": "Bình Định Province",
+      "code": 9412008
+    },
+    {
+      "name": "Hà Nam Province",
+      "code": 9097074
+    },
+    {
+      "name": "Cao Bằng Province",
+      "code": 9096974
+    },
+    {
+      "name": "Quảng Trị Province",
+      "code": 9097259
+    },
+    {
+      "name": "Lâm Đồng Province",
+      "code": 9097146
+    },
+    {
+      "name": "Tuyên Quang Province",
+      "code": 9097373
+    },
+    {
+      "name": "Điện Biên Province",
+      "code": 9097425
+    },
+    {
+      "name": "Trà Vinh Province",
+      "code": 9097366
+    },
+    {
+      "name": "Lạng Sơn Province",
+      "code": 9097147
+    },
+    {
+      "name": "Bình Thuận Province",
+      "code": 9096965
+    },
+    {
+      "name": "Bình Phước Province",
+      "code": 9096964
+    },
+    {
+      "name": "Tiền Giang",
+      "code": 3003
+    },
+    {
+      "name": "Đồng Tháp Province",
+      "code": 9097428
+    },
+    {
+      "name": "Đăk Nông Province",
+      "code": 9097426
+    },
+    {
+      "name": "Kon Tum",
+      "code": 1396
+    }
+  ],
+  "VU": [
+    {
+      "name": "Shefa Province",
+      "code": 2671
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "XK": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "YE": [
+    {
+      "name": "Amanat Alasimah",
+      "code": 99
+    },
+    {
+      "name": "Aden",
+      "code": 22
+    },
+    {
+      "name": "Ibb Governorate",
+      "code": 1127
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "YT": [
+    {
+      "name": "XX",
+      "code": 74456
+    }
+  ],
+  "ZA": [
+    {
+      "name": "KwaZulu-Natal",
+      "code": 1440
+    },
+    {
+      "name": "Gauteng",
+      "code": 932
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Eastern Cape",
+      "code": 823
+    },
+    {
+      "name": "Western Cape",
+      "code": 3238
+    },
+    {
+      "name": "Limpopo",
+      "code": 1529
+    },
+    {
+      "name": "North West",
+      "code": 1972
+    },
+    {
+      "name": "Free State",
+      "code": 13028740
+    },
+    {
+      "name": "Mpumalanga",
+      "code": 1805
+    },
+    {
+      "name": "Northern Cape",
+      "code": 1981
+    }
+  ],
+  "ZM": [
+    {
+      "name": "Lusaka Province",
+      "code": 1587
+    },
+    {
+      "name": "Copperbelt",
+      "code": 606
+    }
+  ],
+  "ZW": [
+    {
+      "name": "Harare",
+      "code": 1054
+    },
+    {
+      "name": "XX",
+      "code": 74456
+    },
+    {
+      "name": "Bulawayo",
+      "code": 409
+    }
+  ]
+}

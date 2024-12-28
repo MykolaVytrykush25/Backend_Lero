@@ -1,0 +1,38 @@
+OK!
+Invalid account type
+Money accrued to balance
+Invalid required parameter - limit or page
+Missed required parameter - limit or page!
+Товар предоставлен покупателю
+There is no user with this email address!
+Admin added!
+Invalid required parameter - limit or page
+Admin deleted!
+There is no admin with this id!
+Admin banned!
+Invalid required parameter - limit or page
+Objects updated successfully!
+Objects has been deleted!
+The balance is set!
+The seller is now verified!
+Tag deleted!
+import datetime
+Insufficient balance!
+The product has been added to the cart
+The product does not exist or you are not its owner!
+Uploading data for this type of product is prohibited!
+Incorrect format, please upload a txt file!
+Empty text value!
+The data is being uploaded
+Product deleted!
+The product does not exist or you are not its owner!
+To leave a review, you need to buy a product
+To leave a review, you need to buy a product for at least 10 USD
+Product not found!
+You have already left a review for this product!
+Review created!
+Review deleted!
+The product does not exist or you are not its owner
+Invoice has already been activated!
+Too many credential changes
+These proxies do not support changing credentials

@@ -1,0 +1,145 @@
+[32m00:19:51.08[0m [34mINFO[0m [1m{'txs': [{'tx_hash': '0xe1da5848c92bb2031332a933630b88fbefd5c2196168d9ab2888ac4c7df20e4f', 'token_address': '0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7', 'amount': '2001999', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0x9f8c163cba728e99993abe7495f06c0a3c8ac8b9', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731273214000, 'network': 'AVAXC'}, {'tx_hash': '0x863566c19fdfed1b93410b471dc7abf35ecdd2b396d821a070166ec66774c13c', 'token_address': '0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7', 'amount': '1000100', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0x3bce63c6c9abf7a47f52c9a3a7950867700b0158', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731024745000, 'network': 'AVAXC'}, {'tx_hash': '5PSKtgrbcjaxiedwzKENwST3QSAd9dj9Z4ycEzRnw89EWQ9CasAoZpBgTgCSPWbwgRKHocKMRf2NDgVWEzeaZinV', 'token_address': 'Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB', 'amount': '1', 'to_address': 'D1Wk3VVc3rEcjjs7y4QoHAyLVFyuRvCoQujsQjaWZiUU', 'from_address': 'BfktaV82c44Rb8MjsEwKnupp6AtL8KCM2iUH528jKEuk', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1730508648000, 'network': 'SOLANA'}], 'network': 'SOLANA', 'last_block': 1731273214000}[0m
+[32m00:19:51.48[0m [34mERROR[0m [31m[1mException while adding to db повторяющееся значение ключа нарушает ограничение уникальности "avaxc_pkey"
+DETAIL:  Ключ "(tx_hash)=(0xe1da5848c92bb2031332a933630b88fbefd5c2196168d9ab2888ac4c7df20e4f)" уже существует.[0m
+[32m00:19:51.61[0m [34mERROR[0m [31m[1mException while adding to db повторяющееся значение ключа нарушает ограничение уникальности "avaxc_pkey"
+DETAIL:  Ключ "(tx_hash)=(0x863566c19fdfed1b93410b471dc7abf35ecdd2b396d821a070166ec66774c13c)" уже существует.[0m
+[32m00:19:51.74[0m [34mERROR[0m [31m[1mException while adding to db повторяющееся значение ключа нарушает ограничение уникальности "solana_pkey"
+DETAIL:  Ключ "(tx_hash)=(5PSKtgrbcjaxiedwzKENwST3QSAd9dj9Z4ycEzRnw89EWQ9CasAoZpBgTgCSPWbwgRKHocKMRf2NDgVWEzeaZinV)" уже существует.[0m
+[32m00:20:02.36[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1731273214001}[0m
+[32m00:58:40.28[0m [34mINFO[0m [1m{'txs': [{'tx_hash': '0xe1da5848c92bb2031332a933630b88fbefd5c2196168d9ab2888ac4c7df20e4f', 'token_address': '0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7', 'amount': '2.002', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0x9f8c163cba728e99993abe7495f06c0a3c8ac8b9', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731273214000, 'network': 'AVAXC'}, {'tx_hash': '0x863566c19fdfed1b93410b471dc7abf35ecdd2b396d821a070166ec66774c13c', 'token_address': '0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7', 'amount': '1.0001', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0x3bce63c6c9abf7a47f52c9a3a7950867700b0158', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731024745000, 'network': 'AVAXC'}, {'tx_hash': '5PSKtgrbcjaxiedwzKENwST3QSAd9dj9Z4ycEzRnw89EWQ9CasAoZpBgTgCSPWbwgRKHocKMRf2NDgVWEzeaZinV', 'token_address': 'Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB', 'amount': '0.000001', 'to_address': 'D1Wk3VVc3rEcjjs7y4QoHAyLVFyuRvCoQujsQjaWZiUU', 'from_address': 'BfktaV82c44Rb8MjsEwKnupp6AtL8KCM2iUH528jKEuk', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1730508648000, 'network': 'SOLANA'}], 'network': 'SOLANA', 'last_block': 1731273214000}[0m
+[32m00:58:42.20[0m [34mERROR[0m [31m[1mException while adding to db повторяющееся значение ключа нарушает ограничение уникальности "solana_pkey"
+DETAIL:  Ключ "(tx_hash)=(5PSKtgrbcjaxiedwzKENwST3QSAd9dj9Z4ycEzRnw89EWQ9CasAoZpBgTgCSPWbwgRKHocKMRf2NDgVWEzeaZinV)" уже существует.[0m
+[32m00:58:52.94[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1731273214001}[0m
+[32m00:59:03.57[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1731273214001}[0m
+[32m00:59:14.21[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1731273214001}[0m
+[32m01:01:44.55[0m [34mINFO[0m [1m{'txs': [{'tx_hash': '0xe1da5848c92bb2031332a933630b88fbefd5c2196168d9ab2888ac4c7df20e4f', 'token_address': '0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7', 'amount': '2.002', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0x9f8c163cba728e99993abe7495f06c0a3c8ac8b9', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731273214000, 'network': 'AVAXC'}, {'tx_hash': '0x863566c19fdfed1b93410b471dc7abf35ecdd2b396d821a070166ec66774c13c', 'token_address': '0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7', 'amount': '1.0001', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0x3bce63c6c9abf7a47f52c9a3a7950867700b0158', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731024745000, 'network': 'AVAXC'}, {'tx_hash': '5PSKtgrbcjaxiedwzKENwST3QSAd9dj9Z4ycEzRnw89EWQ9CasAoZpBgTgCSPWbwgRKHocKMRf2NDgVWEzeaZinV', 'token_address': 'Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB', 'amount': '0.000001', 'to_address': 'D1Wk3VVc3rEcjjs7y4QoHAyLVFyuRvCoQujsQjaWZiUU', 'from_address': 'BfktaV82c44Rb8MjsEwKnupp6AtL8KCM2iUH528jKEuk', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1730508648000, 'network': 'SOLANA'}], 'network': 'SOLANA', 'last_block': 1731273214000}[0m
+[32m01:01:45.68[0m [34mERROR[0m [31m[1mException while adding to db повторяющееся значение ключа нарушает ограничение уникальности "solana_pkey"
+DETAIL:  Ключ "(tx_hash)=(5PSKtgrbcjaxiedwzKENwST3QSAd9dj9Z4ycEzRnw89EWQ9CasAoZpBgTgCSPWbwgRKHocKMRf2NDgVWEzeaZinV)" уже существует.[0m
+[32m01:01:56.67[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1731273214001}[0m
+[32m01:02:07.71[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1731273214001}[0m
+[32m01:02:18.44[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1731273214001}[0m
+[32m01:02:29.14[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1731273214001}[0m
+[32m01:02:39.68[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1731273214001}[0m
+[32m01:02:50.47[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1731273214001}[0m
+[32m01:03:01.05[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1731273214001}[0m
+[32m01:03:11.93[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1731273214001}[0m
+[32m01:03:22.59[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1731273214001}[0m
+[32m01:03:27.43[0m [34mINFO[0m [1m{'txs': [{'tx_hash': '0xe1da5848c92bb2031332a933630b88fbefd5c2196168d9ab2888ac4c7df20e4f', 'token_address': '0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7', 'amount': '2.002', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0x9f8c163cba728e99993abe7495f06c0a3c8ac8b9', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731273214000, 'network': 'AVAXC'}, {'tx_hash': '0x863566c19fdfed1b93410b471dc7abf35ecdd2b396d821a070166ec66774c13c', 'token_address': '0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7', 'amount': '1.0001', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0x3bce63c6c9abf7a47f52c9a3a7950867700b0158', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731024745000, 'network': 'AVAXC'}, {'tx_hash': '5PSKtgrbcjaxiedwzKENwST3QSAd9dj9Z4ycEzRnw89EWQ9CasAoZpBgTgCSPWbwgRKHocKMRf2NDgVWEzeaZinV', 'token_address': 'Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB', 'amount': '0.000001', 'to_address': 'D1Wk3VVc3rEcjjs7y4QoHAyLVFyuRvCoQujsQjaWZiUU', 'from_address': 'BfktaV82c44Rb8MjsEwKnupp6AtL8KCM2iUH528jKEuk', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1730508648000, 'network': 'SOLANA'}], 'network': 'SOLANA', 'last_block': 1731273214000}[0m
+[32m01:03:27.59[0m [34mERROR[0m [31m[1mException while adding to db invalid input for query argument $3: '2.002' (must be real number, not str)[0m
+[32m01:03:27.71[0m [34mERROR[0m [31m[1mException while adding to db invalid input for query argument $3: '1.0001' (must be real number, not str)[0m
+[32m01:03:27.82[0m [34mERROR[0m [31m[1mException while adding to db повторяющееся значение ключа нарушает ограничение уникальности "solana_pkey"
+DETAIL:  Ключ "(tx_hash)=(5PSKtgrbcjaxiedwzKENwST3QSAd9dj9Z4ycEzRnw89EWQ9CasAoZpBgTgCSPWbwgRKHocKMRf2NDgVWEzeaZinV)" уже существует.[0m
+[32m01:03:38.57[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1731273214001}[0m
+[32m01:03:55.69[0m [34mINFO[0m [1m{'txs': [{'tx_hash': '0xe1da5848c92bb2031332a933630b88fbefd5c2196168d9ab2888ac4c7df20e4f', 'token_address': '0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7', 'amount': '2.002', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0x9f8c163cba728e99993abe7495f06c0a3c8ac8b9', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731273214000, 'network': 'AVAXC'}, {'tx_hash': '0x863566c19fdfed1b93410b471dc7abf35ecdd2b396d821a070166ec66774c13c', 'token_address': '0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7', 'amount': '1.0001', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0x3bce63c6c9abf7a47f52c9a3a7950867700b0158', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731024745000, 'network': 'AVAXC'}, {'tx_hash': '5PSKtgrbcjaxiedwzKENwST3QSAd9dj9Z4ycEzRnw89EWQ9CasAoZpBgTgCSPWbwgRKHocKMRf2NDgVWEzeaZinV', 'token_address': 'Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB', 'amount': '0.000001', 'to_address': 'D1Wk3VVc3rEcjjs7y4QoHAyLVFyuRvCoQujsQjaWZiUU', 'from_address': 'BfktaV82c44Rb8MjsEwKnupp6AtL8KCM2iUH528jKEuk', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1730508648000, 'network': 'SOLANA'}], 'network': 'SOLANA', 'last_block': 1731273214000}[0m
+[32m01:03:55.99[0m [34mERROR[0m [31m[1mException while adding to db invalid input for query argument $3: '2.002' (must be real number, not str)[0m
+[32m01:03:56.20[0m [34mERROR[0m [31m[1mException while adding to db invalid input for query argument $3: '1.0001' (must be real number, not str)[0m
+[32m01:03:56.34[0m [34mERROR[0m [31m[1mException while adding to db повторяющееся значение ключа нарушает ограничение уникальности "solana_pkey"
+DETAIL:  Ключ "(tx_hash)=(5PSKtgrbcjaxiedwzKENwST3QSAd9dj9Z4ycEzRnw89EWQ9CasAoZpBgTgCSPWbwgRKHocKMRf2NDgVWEzeaZinV)" уже существует.[0m
+[32m01:04:32.44[0m [34mINFO[0m [1m{'txs': [{'tx_hash': '0xe1da5848c92bb2031332a933630b88fbefd5c2196168d9ab2888ac4c7df20e4f', 'token_address': '0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7', 'amount': '2.002', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0x9f8c163cba728e99993abe7495f06c0a3c8ac8b9', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731273214000, 'network': 'AVAXC'}, {'tx_hash': '0x863566c19fdfed1b93410b471dc7abf35ecdd2b396d821a070166ec66774c13c', 'token_address': '0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7', 'amount': '1.0001', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0x3bce63c6c9abf7a47f52c9a3a7950867700b0158', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731024745000, 'network': 'AVAXC'}, {'tx_hash': '5PSKtgrbcjaxiedwzKENwST3QSAd9dj9Z4ycEzRnw89EWQ9CasAoZpBgTgCSPWbwgRKHocKMRf2NDgVWEzeaZinV', 'token_address': 'Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB', 'amount': '0.000001', 'to_address': 'D1Wk3VVc3rEcjjs7y4QoHAyLVFyuRvCoQujsQjaWZiUU', 'from_address': 'BfktaV82c44Rb8MjsEwKnupp6AtL8KCM2iUH528jKEuk', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1730508648000, 'network': 'SOLANA'}], 'network': 'SOLANA', 'last_block': 1731273214000}[0m
+[32m01:04:33.91[0m [34mERROR[0m [31m[1mException while adding to db повторяющееся значение ключа нарушает ограничение уникальности "solana_pkey"
+DETAIL:  Ключ "(tx_hash)=(5PSKtgrbcjaxiedwzKENwST3QSAd9dj9Z4ycEzRnw89EWQ9CasAoZpBgTgCSPWbwgRKHocKMRf2NDgVWEzeaZinV)" уже существует.[0m
+[32m01:10:36.18[0m [34mINFO[0m [1m{'txs': [{'tx_hash': '0xe1da5848c92bb2031332a933630b88fbefd5c2196168d9ab2888ac4c7df20e4f', 'token_address': '0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7', 'amount': '2.002', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0x9f8c163cba728e99993abe7495f06c0a3c8ac8b9', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731273214000, 'network': 'AVAXC'}, {'tx_hash': '0x863566c19fdfed1b93410b471dc7abf35ecdd2b396d821a070166ec66774c13c', 'token_address': '0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7', 'amount': '1.0001', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0x3bce63c6c9abf7a47f52c9a3a7950867700b0158', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731024745000, 'network': 'AVAXC'}, {'tx_hash': '5PSKtgrbcjaxiedwzKENwST3QSAd9dj9Z4ycEzRnw89EWQ9CasAoZpBgTgCSPWbwgRKHocKMRf2NDgVWEzeaZinV', 'token_address': 'Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB', 'amount': '0.000001', 'to_address': 'D1Wk3VVc3rEcjjs7y4QoHAyLVFyuRvCoQujsQjaWZiUU', 'from_address': 'BfktaV82c44Rb8MjsEwKnupp6AtL8KCM2iUH528jKEuk', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1730508648000, 'network': 'SOLANA'}], 'network': 'SOLANA', 'last_block': 1731273214000}[0m
+[32m01:10:37.54[0m [34mERROR[0m [31m[1mException while adding to db повторяющееся значение ключа нарушает ограничение уникальности "solana_pkey"
+DETAIL:  Ключ "(tx_hash)=(5PSKtgrbcjaxiedwzKENwST3QSAd9dj9Z4ycEzRnw89EWQ9CasAoZpBgTgCSPWbwgRKHocKMRf2NDgVWEzeaZinV)" уже существует.[0m
+[32m01:39:11.06[0m [34mINFO[0m [1m{'txs': [{'tx_hash': '0xe1da5848c92bb2031332a933630b88fbefd5c2196168d9ab2888ac4c7df20e4f', 'token_address': '0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7', 'amount': '2.002', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0x9f8c163cba728e99993abe7495f06c0a3c8ac8b9', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731273214000, 'network': 'AVAXC'}, {'tx_hash': '0x863566c19fdfed1b93410b471dc7abf35ecdd2b396d821a070166ec66774c13c', 'token_address': '0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7', 'amount': '1.0001', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0x3bce63c6c9abf7a47f52c9a3a7950867700b0158', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731024745000, 'network': 'AVAXC'}, {'tx_hash': '5PSKtgrbcjaxiedwzKENwST3QSAd9dj9Z4ycEzRnw89EWQ9CasAoZpBgTgCSPWbwgRKHocKMRf2NDgVWEzeaZinV', 'token_address': 'Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB', 'amount': '0.000001', 'to_address': 'D1Wk3VVc3rEcjjs7y4QoHAyLVFyuRvCoQujsQjaWZiUU', 'from_address': 'BfktaV82c44Rb8MjsEwKnupp6AtL8KCM2iUH528jKEuk', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1730508648000, 'network': 'SOLANA'}], 'network': 'SOLANA', 'last_block': 1731273214000}[0m
+[32m01:39:12.06[0m [34mERROR[0m [31m[1mException while adding to db повторяющееся значение ключа нарушает ограничение уникальности "solana_pkey"
+DETAIL:  Ключ "(tx_hash)=(5PSKtgrbcjaxiedwzKENwST3QSAd9dj9Z4ycEzRnw89EWQ9CasAoZpBgTgCSPWbwgRKHocKMRf2NDgVWEzeaZinV)" уже существует.[0m
+[32m01:39:22.74[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1731273214001}[0m
+[32m01:39:33.36[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1731273214001}[0m
+[32m18:52:29.26[0m [34mINFO[0m [1m{'txs': [{'tx_hash': '0x887a2fbb8dacb08aa8f4a43e179b4072f262caa388b5f04c6aefc1f6b48270c3', 'token_address': '0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9', 'amount': '3.992', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0x62383739d68dd0f844103db8dfb05a7eded5bbe6', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731339321000, 'network': 'ARBITRUM'}, {'tx_hash': '4D6w8jcJEifE7UubsmGNacqkFaBPpcdDVzVHgak9hfDeDyphvY6GTdfeT55Rirxx5mGkFpKXWP8paQiRqKSdjkzX', 'token_address': 'Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB', 'amount': '0.000001', 'to_address': '3sXymHpNfxxQSrhQ6Wcw116hVEbCh8dG2ExLijyKJVD4', 'from_address': 'BfktaV82c44Rb8MjsEwKnupp6AtL8KCM2iUH528jKEuk', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731338394000, 'network': 'SOLANA'}, {'tx_hash': '37eYy23zVPNF9n83yudzcEUy7duekbRKhPTgXhfXnaCko1NDZxbC9DjgUd7bL99QkQYcusSeXU3QEraBnuPgHQGr', 'token_address': 'Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB', 'amount': '20.001', 'to_address': 'EBRat5pT13KSjwdw2WTmvyWsPinoFk8P2UfYzL9emeCm', 'from_address': '3sXymHpNfxxQSrhQ6Wcw116hVEbCh8dG2ExLijyKJVD4', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731338373000, 'network': 'SOLANA'}, {'tx_hash': '32Zdi6DQPqX7dVJT7qwpW9qxxQimAMAcG91Qn7bezo1PRi4fAgppgv7dPqrymWKfrepovPnmj16E3YNuq2Ly7b45', 'token_address': 'Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB', 'amount': '0.000001', 'to_address': 'EBRat5pT13KSjwdw2WTmvyWsPinoFk8P2UfYzL9emeCm', 'from_address': 'BfktaV82c44Rb8MjsEwKnupp6AtL8KCM2iUH528jKEuk', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731337231000, 'network': 'SOLANA'}], 'network': 'SOLANA', 'last_block': 1731339321000}[0m
+[32m18:52:29.27[0m [34mERROR[0m [31m[1mARBITRUM | invalid literal for int() with base 10: 'Im332gemups!' | Traceback (most recent call last):
+  File "/home/rendos/Projects/inshop/payment_system/web3_scan.py", line 35, in logging_db
+    await transfer_logger.start()
+  File "/home/rendos/Projects/inshop/payment_system/utils/db/db_logger.py", line 87, in start
+    await self.create_table()
+  File "/home/rendos/Projects/inshop/payment_system/utils/db/db_logger.py", line 25, in create_table
+    conn = await asyncpg.connect(self.db_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rendos/Projects/inshop/venv/lib64/python3.12/site-packages/asyncpg/connection.py", line 2421, in connect
+    return await connect_utils._connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rendos/Projects/inshop/venv/lib64/python3.12/site-packages/asyncpg/connect_utils.py", line 1041, in _connect
+    addrs, params, config = _parse_connect_arguments(**kwargs)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rendos/Projects/inshop/venv/lib64/python3.12/site-packages/asyncpg/connect_utils.py", line 749, in _parse_connect_arguments
+    addrs, params = _parse_connect_dsn_and_args(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rendos/Projects/inshop/venv/lib64/python3.12/site-packages/asyncpg/connect_utils.py", line 302, in _parse_connect_dsn_and_args
+    host, port = _parse_hostlist(dsn_hostspec, port, unquote=True)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rendos/Projects/inshop/venv/lib64/python3.12/site-packages/asyncpg/connect_utils.py", line 236, in _parse_hostlist
+    hostlist_ports.append(int(hostspec_port))
+                          ^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'Im332gemups!'
+[0m
+[32m18:52:42.55[0m [34mINFO[0m [1m{'txs': [{'tx_hash': '0x887a2fbb8dacb08aa8f4a43e179b4072f262caa388b5f04c6aefc1f6b48270c3', 'token_address': '0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9', 'amount': '3.992', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0x62383739d68dd0f844103db8dfb05a7eded5bbe6', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731339321000, 'network': 'ARBITRUM'}, {'tx_hash': '4D6w8jcJEifE7UubsmGNacqkFaBPpcdDVzVHgak9hfDeDyphvY6GTdfeT55Rirxx5mGkFpKXWP8paQiRqKSdjkzX', 'token_address': 'Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB', 'amount': '0.000001', 'to_address': '3sXymHpNfxxQSrhQ6Wcw116hVEbCh8dG2ExLijyKJVD4', 'from_address': 'BfktaV82c44Rb8MjsEwKnupp6AtL8KCM2iUH528jKEuk', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731338394000, 'network': 'SOLANA'}, {'tx_hash': '37eYy23zVPNF9n83yudzcEUy7duekbRKhPTgXhfXnaCko1NDZxbC9DjgUd7bL99QkQYcusSeXU3QEraBnuPgHQGr', 'token_address': 'Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB', 'amount': '20.001', 'to_address': 'EBRat5pT13KSjwdw2WTmvyWsPinoFk8P2UfYzL9emeCm', 'from_address': '3sXymHpNfxxQSrhQ6Wcw116hVEbCh8dG2ExLijyKJVD4', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731338373000, 'network': 'SOLANA'}, {'tx_hash': '32Zdi6DQPqX7dVJT7qwpW9qxxQimAMAcG91Qn7bezo1PRi4fAgppgv7dPqrymWKfrepovPnmj16E3YNuq2Ly7b45', 'token_address': 'Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB', 'amount': '0.000001', 'to_address': 'EBRat5pT13KSjwdw2WTmvyWsPinoFk8P2UfYzL9emeCm', 'from_address': 'BfktaV82c44Rb8MjsEwKnupp6AtL8KCM2iUH528jKEuk', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731337231000, 'network': 'SOLANA'}], 'network': 'SOLANA', 'last_block': 1731339321000}[0m
+[32m18:52:42.66[0m [34mERROR[0m [31m[1mARBITRUM | пользователь "pg-admin-gemups" не прошёл проверку подлинности (по паролю) | Traceback (most recent call last):
+  File "/home/rendos/Projects/inshop/payment_system/web3_scan.py", line 35, in logging_db
+    await transfer_logger.start()
+  File "/home/rendos/Projects/inshop/payment_system/utils/db/db_logger.py", line 87, in start
+    await self.create_table()
+  File "/home/rendos/Projects/inshop/payment_system/utils/db/db_logger.py", line 25, in create_table
+    conn = await asyncpg.connect(self.db_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rendos/Projects/inshop/venv/lib64/python3.12/site-packages/asyncpg/connection.py", line 2421, in connect
+    return await connect_utils._connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rendos/Projects/inshop/venv/lib64/python3.12/site-packages/asyncpg/connect_utils.py", line 1049, in _connect
+    conn = await _connect_addr(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/rendos/Projects/inshop/venv/lib64/python3.12/site-packages/asyncpg/connect_utils.py", line 886, in _connect_addr
+    return await __connect_addr(params, True, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rendos/Projects/inshop/venv/lib64/python3.12/site-packages/asyncpg/connect_utils.py", line 934, in __connect_addr
+    await connected
+asyncpg.exceptions.InvalidPasswordError: пользователь "pg-admin-gemups" не прошёл проверку подлинности (по паролю)
+[0m
+[32m18:52:56.28[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1731339321001}[0m
+[32m18:53:06.91[0m [34mINFO[0m [1m{'txs': [{'tx_hash': '89aa4799944b412e42301f8c8ad8f75589a3502dd4b279907690b8a37a4e9c7b', 'token_address': '0:148ad1a3822aee21c09a0b0a73a1e01dbbf8fb02f6c1c5e064f481249b52ace5', 'amount': '11.851', 'to_address': 'EQBWkBRCR5os4nvJ5h3bzh5t_d_YHlnux1lmE57G9AccYOXv', 'from_address': 'UQBQAGSnFqLxvMV-PXzPH1_hmPDDjG5mhxp4ZABEBKz_cm8D', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731340350000, 'network': 'TON'}], 'network': 'TON', 'last_block': 1731340350000}[0m
+[32m18:53:06.97[0m [34mERROR[0m [31m[1mTON | пользователь "pg-admin-gemups" не прошёл проверку подлинности (по паролю) | Traceback (most recent call last):
+  File "/home/rendos/Projects/inshop/payment_system/web3_scan.py", line 35, in logging_db
+    await transfer_logger.start()
+  File "/home/rendos/Projects/inshop/payment_system/utils/db/db_logger.py", line 87, in start
+    await self.create_table()
+  File "/home/rendos/Projects/inshop/payment_system/utils/db/db_logger.py", line 25, in create_table
+    conn = await asyncpg.connect(self.db_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rendos/Projects/inshop/venv/lib64/python3.12/site-packages/asyncpg/connection.py", line 2421, in connect
+    return await connect_utils._connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rendos/Projects/inshop/venv/lib64/python3.12/site-packages/asyncpg/connect_utils.py", line 1049, in _connect
+    conn = await _connect_addr(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/rendos/Projects/inshop/venv/lib64/python3.12/site-packages/asyncpg/connect_utils.py", line 886, in _connect_addr
+    return await __connect_addr(params, True, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rendos/Projects/inshop/venv/lib64/python3.12/site-packages/asyncpg/connect_utils.py", line 934, in __connect_addr
+    await connected
+asyncpg.exceptions.InvalidPasswordError: пользователь "pg-admin-gemups" не прошёл проверку подлинности (по паролю)
+[0m
+[32m18:53:17.60[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1731340350001}[0m
+[32m18:53:29.39[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1731340350001}[0m
+[32m18:53:40.34[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1731340350001}[0m
+[32m18:53:52.04[0m [34mINFO[0m [1m{'txs': [], 'network': None, 'last_block': 1731340350001}[0m
+[32m18:54:01.23[0m [34mINFO[0m [1m{'txs': [{'tx_hash': '89aa4799944b412e42301f8c8ad8f75589a3502dd4b279907690b8a37a4e9c7b', 'token_address': '0:148ad1a3822aee21c09a0b0a73a1e01dbbf8fb02f6c1c5e064f481249b52ace5', 'amount': '11.851', 'to_address': 'EQBWkBRCR5os4nvJ5h3bzh5t_d_YHlnux1lmE57G9AccYOXv', 'from_address': 'UQBQAGSnFqLxvMV-PXzPH1_hmPDDjG5mhxp4ZABEBKz_cm8D', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731340350000, 'network': 'TON'}, {'tx_hash': '0x887a2fbb8dacb08aa8f4a43e179b4072f262caa388b5f04c6aefc1f6b48270c3', 'token_address': '0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9', 'amount': '3.992', 'to_address': '0x6c1e40f0124a229c6fbf128e95990ef2a9181ce0', 'from_address': '0x62383739d68dd0f844103db8dfb05a7eded5bbe6', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731339321000, 'network': 'ARBITRUM'}, {'tx_hash': '4D6w8jcJEifE7UubsmGNacqkFaBPpcdDVzVHgak9hfDeDyphvY6GTdfeT55Rirxx5mGkFpKXWP8paQiRqKSdjkzX', 'token_address': 'Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB', 'amount': '0.000001', 'to_address': '3sXymHpNfxxQSrhQ6Wcw116hVEbCh8dG2ExLijyKJVD4', 'from_address': 'BfktaV82c44Rb8MjsEwKnupp6AtL8KCM2iUH528jKEuk', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731338394000, 'network': 'SOLANA'}, {'tx_hash': '37eYy23zVPNF9n83yudzcEUy7duekbRKhPTgXhfXnaCko1NDZxbC9DjgUd7bL99QkQYcusSeXU3QEraBnuPgHQGr', 'token_address': 'Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB', 'amount': '20.001', 'to_address': 'EBRat5pT13KSjwdw2WTmvyWsPinoFk8P2UfYzL9emeCm', 'from_address': '3sXymHpNfxxQSrhQ6Wcw116hVEbCh8dG2ExLijyKJVD4', 'ticker': 'USDT', 'decimal': 6, 'timestamp': 1731338373000, 'network': 'SOLANA'}], 'network': None, 'last_block': 1731340350000}[0m
+[32m18:54:01.28[0m [34mERROR[0m [31m[1mTON | пользователь "pg-admin-gemups" не прошёл проверку подлинности (по паролю) | Traceback (most recent call last):
+  File "/home/rendos/Projects/inshop/payment_system/web3_scan.py", line 35, in logging_db
+    await transfer_logger.start()
+  File "/home/rendos/Projects/inshop/payment_system/utils/db/db_logger.py", line 87, in start
+    await self.create_table()
+  File "/home/rendos/Projects/inshop/payment_system/utils/db/db_logger.py", line 25, in create_table
+    conn = await asyncpg.connect(self.db_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rendos/Projects/inshop/venv/lib64/python3.12/site-packages/asyncpg/connection.py", line 2421, in connect
+    return await connect_utils._connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rendos/Projects/inshop/venv/lib64/python3.12/site-packages/asyncpg/connect_utils.py", line 1049, in _connect
+    conn = await _connect_addr(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/rendos/Projects/inshop/venv/lib64/python3.12/site-packages/asyncpg/connect_utils.py", line 886, in _connect_addr
+    return await __connect_addr(params, True, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/rendos/Projects/inshop/venv/lib64/python3.12/site-packages/asyncpg/connect_utils.py", line 934, in __connect_addr
+    await connected
+asyncpg.exceptions.InvalidPasswordError: пользователь "pg-admin-gemups" не прошёл проверку подлинности (по паролю)
+[0m

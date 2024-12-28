@@ -1,0 +1,301 @@
+2024-12-27 19:16:08,183 - celery.utils.dispatch.signal - ERROR - Signal handler <bound method DjangoFixup.on_import_modules of <celery.fixups.django.DjangoFixup object at 0x0000012F49959A20>> raised: ModuleNotFoundError("No module named 'rest_framework'")
+Traceback (most recent call last):
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\utils\dispatch\signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 100, in on_import_modules
+    self.worker_fixup.validate_models()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 138, in validate_models
+    self.django_setup()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 134, in django_setup
+    django.setup()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\config.py", line 193, in create
+    import_module(entry)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'rest_framework'
+2024-12-27 19:16:08,308 - celery.utils.dispatch.signal - ERROR - Signal handler <promise@0x12f49951c60 --> <bound method Celery._autodiscover_tasks of <Celery Main at 0x12f482f1150>>> raised: AppRegistryNotReady("Apps aren't loaded yet.")
+Traceback (most recent call last):
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\utils\dispatch\signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\vine\promises.py", line 161, in __call__
+    return self.throw()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\vine\promises.py", line 158, in __call__
+    retval = fun(*final_args, **final_kwargs)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\app\base.py", line 694, in _autodiscover_tasks
+    return self._autodiscover_tasks_from_fixups(related_name)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\app\base.py", line 703, in _autodiscover_tasks_from_fixups
+    return self._autodiscover_tasks_from_names([
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\app\base.py", line 706, in <listcomp>
+    for pkg in fixup.autodiscover_tasks()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 110, in autodiscover_tasks
+    return [config.name for config in apps.get_app_configs()]
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\registry.py", line 147, in get_app_configs
+    self.check_apps_ready()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\registry.py", line 138, in check_apps_ready
+    raise AppRegistryNotReady("Apps aren't loaded yet.")
+django.core.exceptions.AppRegistryNotReady: Apps aren't loaded yet.
+2024-12-27 19:16:32,801 - celery.utils.dispatch.signal - ERROR - Signal handler <bound method DjangoFixup.on_import_modules of <celery.fixups.django.DjangoFixup object at 0x000001D830525A20>> raised: ModuleNotFoundError("No module named 'rest_framework'")
+Traceback (most recent call last):
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\utils\dispatch\signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 100, in on_import_modules
+    self.worker_fixup.validate_models()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 138, in validate_models
+    self.django_setup()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 134, in django_setup
+    django.setup()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\config.py", line 193, in create
+    import_module(entry)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'rest_framework'
+2024-12-27 19:16:32,860 - celery.utils.dispatch.signal - ERROR - Signal handler <promise@0x1d830521c60 --> <bound method Celery._autodiscover_tasks of <Celery Main at 0x1d82eec1150>>> raised: AppRegistryNotReady("Apps aren't loaded yet.")
+Traceback (most recent call last):
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\utils\dispatch\signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\vine\promises.py", line 161, in __call__
+    return self.throw()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\vine\promises.py", line 158, in __call__
+    retval = fun(*final_args, **final_kwargs)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\app\base.py", line 694, in _autodiscover_tasks
+    return self._autodiscover_tasks_from_fixups(related_name)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\app\base.py", line 703, in _autodiscover_tasks_from_fixups
+    return self._autodiscover_tasks_from_names([
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\app\base.py", line 706, in <listcomp>
+    for pkg in fixup.autodiscover_tasks()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 110, in autodiscover_tasks
+    return [config.name for config in apps.get_app_configs()]
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\registry.py", line 147, in get_app_configs
+    self.check_apps_ready()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\registry.py", line 138, in check_apps_ready
+    raise AppRegistryNotReady("Apps aren't loaded yet.")
+django.core.exceptions.AppRegistryNotReady: Apps aren't loaded yet.
+2024-12-27 19:17:00,153 - celery.utils.dispatch.signal - ERROR - Signal handler <bound method DjangoFixup.on_import_modules of <celery.fixups.django.DjangoFixup object at 0x000001BF6F505A20>> raised: ModuleNotFoundError("No module named 'rest_framework'")
+Traceback (most recent call last):
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\utils\dispatch\signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 100, in on_import_modules
+    self.worker_fixup.validate_models()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 138, in validate_models
+    self.django_setup()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 134, in django_setup
+    django.setup()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\config.py", line 193, in create
+    import_module(entry)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'rest_framework'
+2024-12-27 19:17:00,227 - celery.utils.dispatch.signal - ERROR - Signal handler <promise@0x1bf6f501c60 --> <bound method Celery._autodiscover_tasks of <Celery Main at 0x1bf6dea1180>>> raised: AppRegistryNotReady("Apps aren't loaded yet.")
+Traceback (most recent call last):
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\utils\dispatch\signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\vine\promises.py", line 161, in __call__
+    return self.throw()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\vine\promises.py", line 158, in __call__
+    retval = fun(*final_args, **final_kwargs)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\app\base.py", line 694, in _autodiscover_tasks
+    return self._autodiscover_tasks_from_fixups(related_name)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\app\base.py", line 703, in _autodiscover_tasks_from_fixups
+    return self._autodiscover_tasks_from_names([
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\app\base.py", line 706, in <listcomp>
+    for pkg in fixup.autodiscover_tasks()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 110, in autodiscover_tasks
+    return [config.name for config in apps.get_app_configs()]
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\registry.py", line 147, in get_app_configs
+    self.check_apps_ready()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\registry.py", line 138, in check_apps_ready
+    raise AppRegistryNotReady("Apps aren't loaded yet.")
+django.core.exceptions.AppRegistryNotReady: Apps aren't loaded yet.
+2024-12-27 19:43:01,335 - celery.utils.dispatch.signal - ERROR - Signal handler <bound method DjangoFixup.on_import_modules of <celery.fixups.django.DjangoFixup object at 0x000002C6F4225A20>> raised: ModuleNotFoundError("No module named 'rest_framework'")
+Traceback (most recent call last):
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\utils\dispatch\signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 100, in on_import_modules
+    self.worker_fixup.validate_models()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 138, in validate_models
+    self.django_setup()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 134, in django_setup
+    django.setup()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\config.py", line 193, in create
+    import_module(entry)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'rest_framework'
+2024-12-27 19:43:01,767 - celery.utils.dispatch.signal - ERROR - Signal handler <promise@0x2c6f4221c60 --> <bound method Celery._autodiscover_tasks of <Celery Main at 0x2c6f2bc1150>>> raised: AppRegistryNotReady("Apps aren't loaded yet.")
+Traceback (most recent call last):
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\utils\dispatch\signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\vine\promises.py", line 161, in __call__
+    return self.throw()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\vine\promises.py", line 158, in __call__
+    retval = fun(*final_args, **final_kwargs)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\app\base.py", line 694, in _autodiscover_tasks
+    return self._autodiscover_tasks_from_fixups(related_name)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\app\base.py", line 703, in _autodiscover_tasks_from_fixups
+    return self._autodiscover_tasks_from_names([
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\app\base.py", line 706, in <listcomp>
+    for pkg in fixup.autodiscover_tasks()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 110, in autodiscover_tasks
+    return [config.name for config in apps.get_app_configs()]
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\registry.py", line 147, in get_app_configs
+    self.check_apps_ready()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\registry.py", line 138, in check_apps_ready
+    raise AppRegistryNotReady("Apps aren't loaded yet.")
+django.core.exceptions.AppRegistryNotReady: Apps aren't loaded yet.
+2024-12-27 19:43:48,959 - celery.utils.dispatch.signal - ERROR - Signal handler <bound method DjangoFixup.on_import_modules of <celery.fixups.django.DjangoFixup object at 0x0000023202E85A20>> raised: ModuleNotFoundError("No module named 'rest_framework'")
+Traceback (most recent call last):
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\utils\dispatch\signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 100, in on_import_modules
+    self.worker_fixup.validate_models()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 138, in validate_models
+    self.django_setup()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 134, in django_setup
+    django.setup()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\config.py", line 193, in create
+    import_module(entry)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'rest_framework'
+2024-12-27 19:43:49,015 - celery.utils.dispatch.signal - ERROR - Signal handler <promise@0x23202e81c60 --> <bound method Celery._autodiscover_tasks of <Celery Main at 0x23201821180>>> raised: AppRegistryNotReady("Apps aren't loaded yet.")
+Traceback (most recent call last):
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\utils\dispatch\signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\vine\promises.py", line 161, in __call__
+    return self.throw()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\vine\promises.py", line 158, in __call__
+    retval = fun(*final_args, **final_kwargs)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\app\base.py", line 694, in _autodiscover_tasks
+    return self._autodiscover_tasks_from_fixups(related_name)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\app\base.py", line 703, in _autodiscover_tasks_from_fixups
+    return self._autodiscover_tasks_from_names([
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\app\base.py", line 706, in <listcomp>
+    for pkg in fixup.autodiscover_tasks()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 110, in autodiscover_tasks
+    return [config.name for config in apps.get_app_configs()]
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\registry.py", line 147, in get_app_configs
+    self.check_apps_ready()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\registry.py", line 138, in check_apps_ready
+    raise AppRegistryNotReady("Apps aren't loaded yet.")
+django.core.exceptions.AppRegistryNotReady: Apps aren't loaded yet.
+2024-12-27 19:44:18,952 - celery.utils.dispatch.signal - ERROR - Signal handler <bound method DjangoFixup.on_import_modules of <celery.fixups.django.DjangoFixup object at 0x000001EB72F15A20>> raised: ModuleNotFoundError("No module named 'rest_framework'")
+Traceback (most recent call last):
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\utils\dispatch\signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 100, in on_import_modules
+    self.worker_fixup.validate_models()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 138, in validate_models
+    self.django_setup()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 134, in django_setup
+    django.setup()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\config.py", line 193, in create
+    import_module(entry)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'rest_framework'
+2024-12-27 19:44:19,034 - celery.utils.dispatch.signal - ERROR - Signal handler <promise@0x1eb72f11c60 --> <bound method Celery._autodiscover_tasks of <Celery Main at 0x1eb718b1150>>> raised: AppRegistryNotReady("Apps aren't loaded yet.")
+Traceback (most recent call last):
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\utils\dispatch\signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\vine\promises.py", line 161, in __call__
+    return self.throw()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\vine\promises.py", line 158, in __call__
+    retval = fun(*final_args, **final_kwargs)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\app\base.py", line 694, in _autodiscover_tasks
+    return self._autodiscover_tasks_from_fixups(related_name)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\app\base.py", line 703, in _autodiscover_tasks_from_fixups
+    return self._autodiscover_tasks_from_names([
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\app\base.py", line 706, in <listcomp>
+    for pkg in fixup.autodiscover_tasks()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 110, in autodiscover_tasks
+    return [config.name for config in apps.get_app_configs()]
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\registry.py", line 147, in get_app_configs
+    self.check_apps_ready()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\registry.py", line 138, in check_apps_ready
+    raise AppRegistryNotReady("Apps aren't loaded yet.")
+django.core.exceptions.AppRegistryNotReady: Apps aren't loaded yet.
+2024-12-27 19:44:25,205 - celery.utils.dispatch.signal - ERROR - Signal handler <bound method DjangoFixup.on_import_modules of <celery.fixups.django.DjangoFixup object at 0x00000162D2595A20>> raised: ModuleNotFoundError("No module named 'rest_framework'")
+Traceback (most recent call last):
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\utils\dispatch\signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 100, in on_import_modules
+    self.worker_fixup.validate_models()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 138, in validate_models
+    self.django_setup()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 134, in django_setup
+    django.setup()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\registry.py", line 91, in populate
+    app_config = AppConfig.create(entry)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\config.py", line 193, in create
+    import_module(entry)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1004, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'rest_framework'
+2024-12-27 19:44:25,302 - celery.utils.dispatch.signal - ERROR - Signal handler <promise@0x162d2591c60 --> <bound method Celery._autodiscover_tasks of <Celery Main at 0x162d0f31180>>> raised: AppRegistryNotReady("Apps aren't loaded yet.")
+Traceback (most recent call last):
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\utils\dispatch\signal.py", line 276, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\vine\promises.py", line 161, in __call__
+    return self.throw()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\vine\promises.py", line 158, in __call__
+    retval = fun(*final_args, **final_kwargs)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\app\base.py", line 694, in _autodiscover_tasks
+    return self._autodiscover_tasks_from_fixups(related_name)
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\app\base.py", line 703, in _autodiscover_tasks_from_fixups
+    return self._autodiscover_tasks_from_names([
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\app\base.py", line 706, in <listcomp>
+    for pkg in fixup.autodiscover_tasks()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\celery\fixups\django.py", line 110, in autodiscover_tasks
+    return [config.name for config in apps.get_app_configs()]
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\registry.py", line 147, in get_app_configs
+    self.check_apps_ready()
+  File "C:\Users\ADAM\AppData\Local\Programs\Python\Python310\lib\site-packages\django\apps\registry.py", line 138, in check_apps_ready
+    raise AppRegistryNotReady("Apps aren't loaded yet.")
+django.core.exceptions.AppRegistryNotReady: Apps aren't loaded yet.

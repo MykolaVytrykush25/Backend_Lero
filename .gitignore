@@ -1,0 +1,6 @@
+venv
+.idea
+Methods.md
+.env
+**/__pycache__
+photos
